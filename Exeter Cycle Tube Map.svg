@@ -1,0 +1,2685 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="520.15375mm"
+   height="274.2807mm"
+   viewBox="0 0 520.15375 274.2807"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="Exeter Cycle Tube Map.svg">
+  <title
+     id="title4619">Exeter Cycle Tube Map</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4784">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4782" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4775">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4773" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4763">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4761" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4757">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4755" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4633">
+      <stop
+         style="stop-color:#9364cc;stop-opacity:1;"
+         offset="0"
+         id="stop4631" />
+    </linearGradient>
+    <linearGradient
+       id="White"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4623" />
+    </linearGradient>
+    <linearGradient
+       id="Elizabeth_Purple"
+       osb:paint="solid"
+       gradientTransform="translate(154.89935,-208.52664)">
+      <stop
+         style="stop-color:#9364cc;stop-opacity:1;"
+         offset="0"
+         id="stop4613" />
+    </linearGradient>
+    <linearGradient
+       id="Overground_Orange"
+       osb:paint="solid"
+       gradientTransform="translate(-56.767242,-3.4745039)">
+      <stop
+         style="stop-color:#ef7b10;stop-opacity:1;"
+         offset="0"
+         id="stop4607" />
+    </linearGradient>
+    <linearGradient
+       id="DLR_Teal"
+       osb:paint="solid"
+       gradientTransform="translate(-56.767242,-3.4745039)">
+      <stop
+         style="stop-color:#00afad;stop-opacity:1;"
+         offset="0"
+         id="stop4601" />
+    </linearGradient>
+    <linearGradient
+       id="Waterloo_Aqua"
+       osb:paint="solid"
+       gradientTransform="translate(-56.767242,-3.4745039)">
+      <stop
+         style="stop-color:#93ceba;stop-opacity:1;"
+         offset="0"
+         id="stop4595" />
+    </linearGradient>
+    <linearGradient
+       id="Victoria_Blue"
+       osb:paint="solid"
+       gradientTransform="matrix(1.0071421,0,0,1.0071418,-78.689471,13.870066)">
+      <stop
+         style="stop-color:#0098d8;stop-opacity:1;"
+         offset="0"
+         id="stop4589" />
+    </linearGradient>
+    <linearGradient
+       id="Piccadilly_Blue"
+       osb:paint="solid"
+       gradientTransform="matrix(0.07000434,0,0,0.07000434,476.67327,140.89916)">
+      <stop
+         style="stop-color:#0019a8;stop-opacity:1;"
+         offset="0"
+         id="stop4583" />
+    </linearGradient>
+    <linearGradient
+       id="Northern_Black"
+       osb:paint="solid"
+       gradientTransform="matrix(0.07000434,0,0,0.07000434,-151.78676,225.3481)">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4577" />
+    </linearGradient>
+    <linearGradient
+       id="Metropolitan_Purple"
+       osb:paint="solid"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,423.71867,-77.878483)">
+      <stop
+         style="stop-color:#9b0058;stop-opacity:1;"
+         offset="0"
+         id="stop4571" />
+    </linearGradient>
+    <linearGradient
+       id="Jubilee_Silver"
+       osb:paint="solid"
+       gradientTransform="translate(101.32356,-155.61029)">
+      <stop
+         style="stop-color:#a1a5a7;stop-opacity:1;"
+         offset="0"
+         id="stop4565" />
+    </linearGradient>
+    <linearGradient
+       id="Hsmith_Pink"
+       osb:paint="solid"
+       gradientTransform="translate(-3.8505797,-49.776599)">
+      <stop
+         style="stop-color:#f4a9be;stop-opacity:1;"
+         offset="0"
+         id="stop4559" />
+    </linearGradient>
+    <linearGradient
+       id="District_Green"
+       osb:paint="solid"
+       gradientTransform="translate(-56.767242,-3.4745039)">
+      <stop
+         style="stop-color:#007d32;stop-opacity:1;"
+         offset="0"
+         id="stop4553" />
+    </linearGradient>
+    <linearGradient
+       id="Circle_Yellow"
+       osb:paint="solid"
+       gradientTransform="matrix(0.07000434,0,0,0.06000397,501.09122,-282.42576)">
+      <stop
+         style="stop-color:#ffd329;stop-opacity:1;"
+         offset="0"
+         id="stop4545" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4541">
+      <stop
+         style="stop-color:#dc241f;stop-opacity:1;"
+         offset="0"
+         id="stop4539" />
+    </linearGradient>
+    <linearGradient
+       id="Central_Red"
+       osb:paint="solid"
+       gradientTransform="matrix(0.07000434,0,0,0.03570993,72.768272,139.29232)">
+      <stop
+         style="stop-color:#dc241f;stop-opacity:1;"
+         offset="0"
+         id="stop4533" />
+    </linearGradient>
+    <linearGradient
+       id="Bakerloo_Brown"
+       osb:paint="solid"
+       gradientTransform="translate(208.92415,-243.38348)">
+      <stop
+         style="stop-color:#b26300;stop-opacity:1;"
+         offset="0"
+         id="stop4527" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(52.928478,-52.916664)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(52.928478,-52.916664)" />
+    <linearGradient
+       gradientTransform="translate(92.589592,-52.946496)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-2"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(92.589592,-52.946496)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-0"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(-26.436849,-52.872508)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-4"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(-26.436849,-52.872508)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-3"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(-39.679993,39.681007)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-8"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(-39.679993,39.681007)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-7"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(-26.436856,-92.560022)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-4-7"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(-26.436856,-92.560022)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-3-4"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(-46.280603,-85.980875)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-4-7-1"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(-46.280603,-85.980875)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-3-4-1"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Piccadilly_Blue"
+       id="linearGradient4759"
+       x1="6.4822917"
+       y1="90.9375"
+       x2="105.83333"
+       y2="90.9375"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(52.916671,-52.916682)" />
+    <linearGradient
+       gradientTransform="translate(-13.209851,13.195001)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-8-1"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(-13.209851,13.195001)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-7-3"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(92.617934,-132.286)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-2-1"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(92.617934,-132.286)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-0-6"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(119.08179,-33.045997)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-8-4"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(119.08179,-33.045997)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-7-32"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(76.081293,9.9180067)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-8-4-6"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(76.081293,9.9180067)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-7-32-6"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(52.934208,-19.871908)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-29"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(52.934208,-19.871908)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-6"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(158.7693,-33.045998)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-8-4-5"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(158.7693,-33.045998)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-7-32-9"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(132.29846,-72.764529)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-8-4-2"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(132.29846,-72.764529)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-7-32-7"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(158.7693,19.87067)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-8-4-5-8"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(158.7693,19.87067)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-7-32-9-1"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(152.15471,26.485253)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-8-4-5-2"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(152.15471,26.485253)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-7-32-9-7"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(52.930251,46.300911)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-8-4-6-2"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(52.930251,46.300911)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-7-32-6-8"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(132.31097,46.329005)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-8-4-5-2-9"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(132.31097,46.329005)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-7-32-9-7-4"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(0.02148343,-72.71627)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-4-7-15"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(0.02148343,-72.71627)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-3-4-8"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(-26.456736,-13.227896)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-8-1-2"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(-26.456736,-13.227896)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-7-3-4"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(-135.6011,-42.997884)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-4-4"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(-135.6011,-42.997884)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-3-8"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(13.225593,-132.28927)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-4-7-15-7"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(13.225593,-132.28927)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-3-4-8-3"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(185.20332,-92.608282)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-8-4-2-8"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(185.20332,-92.608282)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-7-32-7-5"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(198.44429,-33.07703)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-8-4-2-4"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(198.44429,-33.07703)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-7-32-7-2"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(238.11999,-33.07703)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-8-4-2-0"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(238.11999,-33.07703)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-7-32-7-0"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(277.83699,-33.077025)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-8-4-2-1"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(277.83699,-33.077025)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-7-32-7-51"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(238.12345,-92.608282)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-8-4-2-2"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(238.12345,-92.608282)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-7-32-7-25"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(238.1318,-112.42947)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-8-4-2-3"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(238.1318,-112.42947)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-7-32-7-3"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(238.1318,-132.29578)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-8-4-2-87"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(238.1318,-132.29578)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-7-32-7-26"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(158.74499,-132.29578)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-8-4-2-8-4"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(158.74499,-132.29578)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-7-32-7-5-0"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(218.27625,19.839638)"
+       inkscape:collect="always"
+       xlink:href="#White"
+       id="linearGradient4629-8-4-2-8-7"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(218.27625,19.839638)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-7-32-7-5-1"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="rotate(179.18716,224.80211,191.94396)"
+       inkscape:collect="always"
+       xlink:href="#Northern_Black"
+       id="linearGradient4635-7-32-7-5-07-0"
+       x1="103.18749"
+       y1="177.9375"
+       x2="108.47916"
+       y2="177.9375"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="667.77266"
+     inkscape:cy="307.229"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer10"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="false"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       spacingx="13.229167"
+       spacingy="13.229167"
+       snapvisiblegridlinesonly="true"
+       visible="true"
+       color="#d23fff"
+       opacity="0.1254902"
+       empcolor="#ff3fff"
+       empopacity="0.25098039"
+       empspacing="1"
+       originx="66.076835"
+       originy="-19.756483" />
+    <inkscape:grid
+       type="axonomgrid"
+       id="grid3717"
+       units="px"
+       empspacing="5"
+       gridanglex="45"
+       gridanglez="45"
+       spacingy="1.3229167"
+       originx="66.076835"
+       originy="-19.756483" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Exeter Cycle Tube Map</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Exe"
+     transform="translate(66.076834,84.037198)"
+     style="display:inline">
+    <path
+       id="path4770"
+       style="opacity:0.203;fill:none;fill-opacity:1;stroke:url(#Victoria_Blue);stroke-width:2.11666656;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 423.9948,114.08853 H 199.09896 L 160.07292,75.062488 h -39.6875 L 70.114587,24.791651 v -63.500002"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="E1"
+     transform="translate(66.076834,84.037198)"
+     style="display:inline">
+    <path
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient4759);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 79.375004,-1.6666828 H 66.145838 l -6.614584,6.614583 V 18.177068 L 119.0625,77.708322 h 39.68749 v 0 l 39.68751,39.687498 h 145.52084 v -6.61458 h 12.84648 l 13.61186,-13.229168 h 52.91666"
+       id="path4753"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       style="fill:none;stroke:url(#Piccadilly_Blue);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 168.67186,87.630192 -1.32291,1.32292"
+       id="path5229"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:url(#Piccadilly_Blue);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -50.152655,94.077568 c 13.229161,0 13.229161,0 13.229161,0"
+       id="path6031"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Piccadilly_Blue);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 421.34897,95.567697 1.98436,1.984372 -1.98436,1.984378"
+       id="path7094"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:url(#Piccadilly_Blue);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79375, 0.79375;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 412.74999,97.552069 9.92188,9.921871 -9.26042,9.26042"
+       id="path7148"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79375, 0.79375;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 414.73437,98.213527 9.26042,9.260413 -9.92188,9.92188"
+       id="path7169"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="E2"
+     transform="translate(66.076834,-2.962802)">
+    <path
+       style="fill:none;stroke:url(#Victoria_Blue);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 377.03126,12.572901 343.95833,45.645818 V 217.62499"
+       id="path6588"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:url(#Victoria_Blue);stroke-width:0.79941893;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 383.64584,257.31249 343.6749,217.34155"
+       id="path6590"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Victoria_Blue);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 343.95834,111.79165 c -2.64583,0 -2.64583,0 -2.64583,0"
+       id="path6593"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Victoria_Blue);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 357.18751,32.416652 c 1.32292,1.322917 1.32292,1.322917 1.32292,1.322917 h 1e-5"
+       id="path6595"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Victoria_Blue);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 370.41668,19.187485 1.32292,1.322916"
+       id="path6597"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Victoria_Blue);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -50.152655,187.69215 h 13.229161"
+       id="path6599"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Victoria_Blue);stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 382.98437,257.97395 1.32292,-1.32292"
+       id="path6692"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Victoria_Blue);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 374.38541,12.572901 h 2.64584 v 2.645833"
+       id="path6991"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="E3"
+     transform="translate(66.076834,84.037198)"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:url(#Jubilee_Silver);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 159.41146,37.359361 h 39.6875 l 19.1823,-19.182291 h 52.91666 l 39.6875,-39.687501 h 109.80209 1.37015 7.89024"
+       id="path4866"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <g
+       id="g4874"
+       style="stroke:url(#Jubilee_Silver);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="translate(52.916657,-52.91668)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4868"
+         d="M 105.83333,90.9375 H 26.458333"
+         style="fill:none;stroke:url(#Jubilee_Silver);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4870"
+         d="m 66.145835,90.9375 v 1.322916"
+         style="fill:none;stroke:url(#Jubilee_Silver);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;stroke:url(#Jubilee_Silver);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 177.93467,36.697903 V 35.374986"
+       id="path4880"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Jubilee_Silver);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 264.58334,18.17707 c 0,2.645833 0,2.645833 0,2.645833"
+       id="path5762"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Jubilee_Silver);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -36.923494,107.30673 H -50.152655"
+       id="path6213"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;stroke:url(#Jubilee_Silver);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 427.96355,-23.494806 1.98438,1.984375 -1.98438,1.984375"
+       id="path6993-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="E4"
+     transform="translate(66.076834,84.037198)"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:url(#Metropolitan_Purple);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 119.72396,-42.01564 h 78.05209 l 0.66145,0.661459 h 145.52084 59.53125 l 18.52084,18.520833 h 7.9375"
+       id="path4780"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;stroke:url(#Metropolitan_Purple);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 119.0625,-41.35418 -1.32291,-1.322917"
+       id="path4788"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Metropolitan_Purple);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 158.09035,-43.998997 v 1.322919"
+       id="path4860"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Metropolitan_Purple);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 119.0625,-41.35418 80.03646,-2.3281387 H 78.713544 65.484377 L 59.531252,3.6249864 V 4.9479031 H 13.229167 L -29.765626,47.942696"
+       id="path4876"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:none;stroke:url(#Metropolitan_Purple);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 19.84375,4.9479009 c 0,-2.6458333 0,-2.6458333 0,-2.6458333"
+       id="path5910"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Metropolitan_Purple);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 0,18.17707 c 1.3229167,1.322917 1.3229167,1.322917 1.3229167,1.322917"
+       id="path5977"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Metropolitan_Purple);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -50.152655,113.92132 h 13.229161"
+       id="path6217"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Metropolitan_Purple);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 304.27083,-41.354182 v -2.645833"
+       id="path6583"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Metropolitan_Purple);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 383.64583,-41.354182 v 2.645833"
+       id="path6585"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Metropolitan_Purple);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 427.96355,-24.817723 1.98436,1.984374 -1.98436,1.984376"
+       id="path6993"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:0.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="339.96661"
+       y="24.611662"
+       id="text4886-4-4-3-1-07"><tspan
+         sodipodi:role="line"
+         x="339.96661"
+         y="24.611662"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332"
+         id="tspan5786-0-6">Middlemoor</tspan><tspan
+         sodipodi:role="line"
+         x="339.96661"
+         y="28.844995"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:0;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332"
+         id="tspan5790-5-4">&amp; St Peters</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer18"
+     inkscape:label="E7"
+     transform="translate(66.076834,-2.962802)">
+    <path
+       style="fill:none;stroke:url(#Northern_Black);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -50.152655,207.5359 h 13.229161"
+       id="path6654"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Northern_Black);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 343.95833,204.39582 h 79.375"
+       id="path6664"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;stroke:url(#Northern_Black);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 421.34898,202.41145 1.98436,1.98437 -1.98436,1.98438"
+       id="path7094-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="E9"
+     transform="translate(66.076834,84.037198)"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:url(#Bakerloo_Brown);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 159.41146,38.682278 h 39.68751 l 19.18229,19.18229 165.36458,3e-6"
+       id="path4863"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:url(#Bakerloo_Brown);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 79.375007,-1.6666824 99.218757,18.177068 H 138.90626 L 158.75,38.020818"
+       id="path4878"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Bakerloo_Brown);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 179.25759,35.374984 v 2.645834"
+       id="path4882"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Bakerloo_Brown);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 207.03646,49.265616 1.32292,-1.32292"
+       id="path4951"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:url(#Bakerloo_Brown);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 132.29168,18.177068 c 0,-1.322917 0,-1.322917 0,-1.322917"
+       id="path5009"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Bakerloo_Brown);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -36.923494,127.15049 H -50.152655"
+       id="path6215"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Bakerloo_Brown);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 383.64583,57.86457 396.875,71.093736 v 26.458333"
+       id="path6614"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Bakerloo_Brown);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 399.52084,71.093738 h -2.64583"
+       id="path6616"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="279"
+     transform="translate(66.076834,84.037198)"
+     style="display:inline">
+    <g
+       id="g6029"
+       style="stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4825"
+         d="M 119.0625,77.708322 H 0 l -36.380209,-36.38021"
+         style="fill:none;stroke:url(#Hsmith_Pink);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5870"
+         d="M 46.302083,77.708319 V 75.062486"
+         style="fill:none;stroke:url(#Hsmith_Pink);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5872"
+         d="M 13.229167,77.708319 V 75.062486"
+         style="fill:none;stroke:url(#Hsmith_Pink);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;stroke:url(#Hsmith_Pink);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -50.152655,133.76507 h 13.229161"
+       id="path6219"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Hsmith_Pink);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -36.380208,43.973945 v -2.645834 h 2.645833"
+       id="path7096"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Centre Link"
+     transform="translate(66.076834,84.037198)"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:url(#Central_Red);stroke-width:0.79374999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 198.43751,-41.354181 v 0 l -39.6875,39.6874996 V 38.020819 m -52.91667,52.91667 13.22917,-13.22917 19.84375,-19.84375"
+       id="path4791"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;stroke:url(#Central_Red);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 105.83334,90.937489 1.32292,1.32291 v 0"
+       id="path4793"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Central_Red);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 158.75001,-1.6666814 c -1.32291,-1.322917 -1.32291,-1.322917 -1.32291,-1.322917"
+       id="path4827"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Central_Red);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 138.90626,57.864569 c -1.32292,-1.32291 -1.32292,-1.32291 -1.32292,-1.32291"
+       id="path4989"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Central_Red);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 138.90626,57.864569 19.84375,-19.84375 1e-5,-39.6874994"
+       id="path5444"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Central_Red);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -36.923494,140.37965 H -50.152655"
+       id="path6223"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;stroke:url(#Northern_Black);stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 15.99317,180.06716 H 2.7640043"
+       id="path6223-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;stroke:url(#Northern_Black);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 15.99317,173.45258 H 2.7640043"
+       id="path6223-3-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;stroke:url(#Northern_Black);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 15.99317,166.83799 H 2.7640043"
+       id="path6223-3-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Central_Red);stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 92.604168,104.16665 105.83333,90.937486 v 0"
+       id="path6666"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Central_Red);stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 119.0625,77.708319 v 6.614584 L 158.75,124.0104 v 13.22917 19.84375 h -39.6875"
+       id="path6668"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Central_Red);stroke-width:0.56691211;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 119.0625,163.6979 v -6.74833"
+       id="path6670"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Central_Red);stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 117.73958,163.6979 h 2.64584"
+       id="path6690"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="Quay"
+     transform="translate(66.076834,84.037198)"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:url(#Elizabeth_Purple);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 120.38543,77.708318 4.6302,-4.63021 0.66146,-0.66145 0.66146,-0.66146 0.66146,-0.66146 H 158.75 l 23.15105,23.15104 v 6.614592"
+       id="path5250"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:none;stroke:url(#Elizabeth_Purple);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 158.75,71.093738 V 38.020818"
+       id="path5281"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Elizabeth_Purple);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 205.05209,77.708318 c 1.32291,1.32292 1.32291,1.32292 1.32291,1.32292"
+       id="path5334"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Elizabeth_Purple);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 181.90105,100.85936 224.89584,57.864568"
+       id="path5347"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Elizabeth_Purple);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -36.923494,146.99423 H -50.152655"
+       id="path6221"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="Inner Circular"
+     transform="translate(66.076834,84.037198)"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:url(#Circle_Yellow);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 198.43751,-41.354179 v 19.84375 l 39.6875,39.6875 26.45833,26.458335 v 13.229165 52.916669"
+       id="path5447"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;stroke:url(#Circle_Yellow);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 218.28126,157.08332 46.30208,-46.30208"
+       id="path5449"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:url(#Circle_Yellow);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 119.06251,4.9479038 105.83334,18.177071 87.312502,36.697904 h -6.614583 l -1.322917,1.322917 v 0"
+       id="path5530"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;stroke:url(#Circle_Yellow);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 119.06251,4.9479038 V -41.354179 l 0.66145,0.661456 h 78.05209"
+       id="path5532"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Circle_Yellow);stroke-width:1.22478294;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 79.375003,38.020823 V 77.708321"
+       id="path5532-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Circle_Yellow);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 79.375002,77.708321 v 13.22917 l 13.229167,13.229159 33.072921,33.07292"
+       id="path5553"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:url(#Circle_Yellow);stroke-width:1.22478294;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 158.75001,137.23957 h -33.07292 l -1.32292,1.32292"
+       id="path5532-3-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:url(#Circle_Yellow);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 158.75001,137.23957 19.84374,19.84375 h 39.68751"
+       id="path5668"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:url(#Circle_Yellow);stroke-width:0.7937516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 198.43618,156.7019 c 0,-1.32291 0,-1.32291 0,-1.32291"
+       id="path5670"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Circle_Yellow);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -36.923494,173.45257 H -50.152655"
+       id="path6225"
+       inkscape:connector-curvature="0" />
+    <path
+       transform="translate(1.2916666e-6,1.1041666e-6)"
+       style="display:inline;fill:none;stroke:url(#Circle_Yellow);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 159.40203,-44.000015 v 2.645833"
+       id="path6335"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="Green Way"
+     transform="translate(66.076834,-2.962802)">
+    <path
+       style="fill:none;stroke:url(#District_Green);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 264.58333,45.645818 V 58.874985"
+       id="path6602"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#District_Green);stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 291.04166,85.333318 264.58333,58.874985"
+       id="path6604"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#District_Green);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 304.27083,144.86457 V 98.562484 L 291.04166,85.333318"
+       id="path6606"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#District_Green);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 264.58333,197.78124 13.22917,-13.22917 h 19.84375 l 6.61458,-6.61458 v -33.07292"
+       id="path6608"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#District_Green);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 284.42708,184.55207 v -2.64583"
+       id="path6610"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#District_Green);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 264.58333,58.874985 H 261.9375"
+       id="path6612"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#District_Green);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -50.152655,240.60882 h 13.229161"
+       id="path6618"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="Mill Link"
+     transform="translate(66.076834,-2.962802)">
+    <path
+       style="fill:none;stroke:url(#DLR_Teal);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -50.152655,247.2234 h 13.229161"
+       id="path6621"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#DLR_Teal);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 264.58333,197.78124 h 59.53125"
+       id="path6630"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#DLR_Teal);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 343.95833,144.86457 -19.84375,19.84375 v 33.07292 h 19.84375"
+       id="path6632"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="Sowton Link"
+     transform="translate(66.076834,-2.962802)">
+    <path
+       style="fill:none;stroke:url(#Overground_Orange);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -50.152655,253.83799 h 13.229161"
+       id="path6624"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Overground_Orange);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 291.04166,85.333318 h 52.91667 26.45833 l 13.22917,13.229166"
+       id="path6626"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Overground_Orange);stroke-width:0.26458332px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 383.64583,144.86457 V 98.562484"
+       id="path6628"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Overground_Orange);stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 383.64583,111.79165 h 2.64583"
+       id="path7035"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer17"
+     inkscape:label="Marsh Barton Link"
+     transform="translate(66.076834,-2.962802)">
+    <path
+       style="fill:none;stroke:url(#Waterloo_Aqua);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -50.152655,267.06717 h 12.567703"
+       id="path6656"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Waterloo_Aqua);stroke-width:0.79374999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 324.11458,224.23957 H 238.125 158.75"
+       id="path6658"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:url(#Waterloo_Aqua);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 198.4375,221.59374 v 2.64583 0"
+       id="path6660"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Waterloo_Aqua);stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 291.04166,224.23957 v 2.64583"
+       id="path6662"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#Waterloo_Aqua);stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 343.95833,204.39582 c -19.84375,19.84375 -19.84375,19.84375 -19.84375,19.84375"
+       id="path6712"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:label="Stations"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(66.076834,-2.962802)">
+    <circle
+       style="fill:url(#linearGradient4629);fill-opacity:1;stroke:url(#linearGradient4635);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621"
+       cx="158.76181"
+       cy="125.02083"
+       r="1.984375" />
+    <circle
+       style="fill:url(#linearGradient4629-2);fill-opacity:1;stroke:url(#linearGradient4635-0);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-7"
+       cx="198.42293"
+       cy="124.991"
+       r="1.984375" />
+    <circle
+       style="fill:url(#linearGradient4629-4);fill-opacity:1;stroke:url(#linearGradient4635-3);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-6"
+       cx="79.396492"
+       cy="125.06479"
+       r="1.984375" />
+    <circle
+       style="fill:url(#linearGradient4629-4-7);fill-opacity:1;stroke:url(#linearGradient4635-3-4);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-6-1"
+       cx="79.396477"
+       cy="85.377647"
+       r="1.984375" />
+    <circle
+       style="fill:url(#linearGradient4629-4-7-1);fill-opacity:1;stroke:url(#linearGradient4635-3-4-1);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-6-1-3"
+       cx="59.552727"
+       cy="91.95681"
+       r="1.984375" />
+    <circle
+       style="fill:url(#linearGradient4629-8-1);fill-opacity:1;stroke:url(#linearGradient4635-7-3);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-4-6"
+       cx="92.623489"
+       cy="191.13243"
+       r="1.984375" />
+    <circle
+       style="fill:url(#linearGradient4629-2-1);fill-opacity:1;stroke:url(#linearGradient4635-0-6);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-7-8"
+       cx="198.45139"
+       cy="45.65144"
+       r="1.984375" />
+    <circle
+       style="fill:url(#linearGradient4629-8-4);fill-opacity:1;stroke:url(#linearGradient4635-7-32);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-4-9"
+       cx="224.91533"
+       cy="144.89153"
+       r="1.984375" />
+    <circle
+       style="fill:url(#linearGradient4629-8-4-6);fill-opacity:1;stroke:url(#linearGradient4635-7-32-6);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-4-9-1"
+       cx="181.91469"
+       cy="187.85561"
+       r="1.984375" />
+    <circle
+       style="fill:url(#linearGradient4629-29);fill-opacity:1;stroke:url(#linearGradient4635-6);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-2"
+       cx="158.7675"
+       cy="158.06551"
+       r="1.984375" />
+    <g
+       id="g5314"
+       transform="translate(52.928478,-52.916664)">
+      <circle
+         r="1.984375"
+         cy="217.61852"
+         cx="66.153336"
+         id="path4621-4"
+         style="fill:url(#linearGradient4629-8);fill-opacity:1;stroke:url(#linearGradient4635-7);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <circle
+       style="fill:url(#linearGradient4629-8-4-5);fill-opacity:1;stroke:url(#linearGradient4635-7-32-9);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-4-9-5"
+       cx="264.60272"
+       cy="144.89153"
+       r="1.984375" />
+    <circle
+       style="fill:url(#linearGradient4629-8-4-2);fill-opacity:1;stroke:url(#linearGradient4635-7-32-7);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-4-9-2"
+       cx="238.13202"
+       cy="105.17296"
+       r="1.984375" />
+    <circle
+       style="fill:url(#linearGradient4629-8-4-5-8);fill-opacity:1;stroke:url(#linearGradient4635-7-32-9-1);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-4-9-5-7"
+       cx="264.60272"
+       cy="197.8082"
+       r="1.984375" />
+    <circle
+       style="fill:url(#linearGradient4629-8-4-5-2);fill-opacity:1;stroke:url(#linearGradient4635-7-32-9-7);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-4-9-5-9"
+       cx="257.98816"
+       cy="204.42279"
+       r="1.984375" />
+    <circle
+       style="fill:url(#linearGradient4629-8-4-6-2);fill-opacity:1;stroke:url(#linearGradient4635-7-32-6-8);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-4-9-1-6"
+       cx="158.76364"
+       cy="224.23868"
+       r="1.984375" />
+    <circle
+       style="fill:url(#linearGradient4629-8-4-5-2-9);fill-opacity:1;stroke:url(#linearGradient4635-7-32-9-7-4);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-4-9-5-9-0"
+       cx="238.1445"
+       cy="224.26654"
+       r="1.984375" />
+    <circle
+       style="fill:url(#linearGradient4629-4-7-15);fill-opacity:1;stroke:url(#linearGradient4635-3-4-8);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-6-1-4"
+       cx="105.85481"
+       cy="105.22137"
+       r="1.984375" />
+    <circle
+       style="display:inline;fill:url(#linearGradient4629-8-1-2);fill-opacity:1;stroke:url(#linearGradient4635-7-3-4);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-4-6-6"
+       cx="79.37661"
+       cy="164.70953"
+       r="1.984375" />
+    <circle
+       style="display:inline;fill:url(#linearGradient4629-4-4);fill-opacity:1;stroke:url(#linearGradient4635-3-8);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-6-3"
+       cx="-29.767759"
+       cy="134.93942"
+       r="1.984375" />
+    <circle
+       style="display:inline;fill:url(#linearGradient4629-4-7-15-7);fill-opacity:1;stroke:url(#linearGradient4635-3-4-8-3);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-6-1-4-9"
+       cx="119.05891"
+       cy="45.648365"
+       r="1.984375" />
+    <circle
+       style="display:inline;fill:url(#linearGradient4629-8-4-2-8);fill-opacity:1;stroke:url(#linearGradient4635-7-32-7-5);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-4-9-2-6"
+       cx="291.03687"
+       cy="85.329208"
+       r="1.984375" />
+    <circle
+       style="display:inline;fill:url(#linearGradient4629-8-4-2-4);fill-opacity:1;stroke:url(#linearGradient4635-7-32-7-2);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-4-9-2-7"
+       cx="304.27786"
+       cy="144.86046"
+       r="1.984375" />
+    <circle
+       style="display:inline;fill:url(#linearGradient4629-8-4-2-0);fill-opacity:1;stroke:url(#linearGradient4635-7-32-7-0);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-4-9-2-67"
+       cx="343.95355"
+       cy="144.86046"
+       r="1.984375" />
+    <circle
+       style="display:inline;fill:url(#linearGradient4629-8-4-2-1);fill-opacity:1;stroke:url(#linearGradient4635-7-32-7-51);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-4-9-2-4"
+       cx="383.6705"
+       cy="144.8604"
+       r="1.984375" />
+    <circle
+       style="display:inline;fill:url(#linearGradient4629-8-4-2-2);fill-opacity:1;stroke:url(#linearGradient4635-7-32-7-25);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-4-9-2-5"
+       cx="343.957"
+       cy="85.329208"
+       r="1.984375" />
+    <circle
+       style="display:inline;fill:url(#linearGradient4629-8-4-2-3);fill-opacity:1;stroke:url(#linearGradient4635-7-32-7-3);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-4-9-2-72"
+       cx="343.96536"
+       cy="65.508064"
+       r="1.984375" />
+    <circle
+       style="display:inline;fill:url(#linearGradient4629-8-4-2-87);fill-opacity:1;stroke:url(#linearGradient4635-7-32-7-26);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-4-9-2-30"
+       cx="343.96536"
+       cy="45.641708"
+       r="1.984375" />
+    <circle
+       style="display:inline;fill:url(#linearGradient4629-8-4-2-8-4);fill-opacity:1;stroke:url(#linearGradient4635-7-32-7-5-0);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-4-9-2-6-6"
+       cx="264.57855"
+       cy="45.641708"
+       r="1.984375" />
+    <circle
+       style="display:inline;fill:url(#linearGradient4629-8-4-2-8-7);fill-opacity:1;stroke:url(#linearGradient4635-7-32-7-5-1);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4621-4-9-2-6-4"
+       cx="324.1098"
+       cy="197.77713"
+       r="1.984375" />
+    <g
+       id="g6551" />
+    <path
+       style="display:inline;fill:url(#White);fill-opacity:1;stroke:url(#linearGradient4635-7-32-7-5-07-0);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 344.58823,202.37988 c 0.79879,0.26782 1.34138,1.01086 1.35334,1.85327 0.0155,1.09583 -0.8602,1.99679 -1.95602,2.01233 -1.09582,0.0156 -1.99679,-0.86019 -2.01233,-1.95602 v 0 c -0.0119,-0.83873 0.50485,-1.59435 1.29079,-1.88745 l 0.0321,-2.75259 c -0.79492,-0.27914 -1.32691,-1.0298 -1.32691,-1.8723 0,-1.09594 0.88844,-1.98437 1.98437,-1.98437 1.09593,0 1.98438,0.88843 1.98438,1.98437 v 0 c 0,0.83882 -0.52743,1.58703 -1.31744,1.86895 z"
+       id="path4621-4-9-2-6-68-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscccccscccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Names"
+     transform="translate(66.076834,84.037198)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="178.4819"
+       y="33.898556"
+       id="text4886"><tspan
+         sodipodi:role="line"
+         id="tspan4884"
+         x="178.4819"
+         y="33.898556"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Southernhay</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="160.95773"
+       y="44.226517"
+       id="text4886-5"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4"
+         x="160.95773"
+         y="44.226517"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">City Centre</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="201.83081"
+       y="39.895412"
+       id="text4886-1"><tspan
+         sodipodi:role="line"
+         id="tspan4884-3"
+         x="201.83081"
+         y="39.895412"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Maynard</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="156.67416"
+       y="-3.7910023"
+       id="text4886-9"><tspan
+         sodipodi:role="line"
+         id="tspan4884-1"
+         x="156.67416"
+         y="-3.7910023"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Sidwell St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="206.578"
+       y="53.712833"
+       id="text4886-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan4884-3-7"
+         x="206.578"
+         y="53.712833"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Magdalen Rd</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="118.96117"
+       y="44.46336"
+       id="text4886-5-2"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0"
+         x="118.96117"
+         y="44.46336"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Iron Bridge</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="136.83614"
+       y="55.781712"
+       id="text4886-5-2-6"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9"
+         x="136.83614"
+         y="55.781712"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Fore St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="132.19608"
+       y="15.433455"
+       id="text4886-5-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-0"
+         x="132.19608"
+         y="15.433455"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Exeter Central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="107.86625"
+       y="24.316395"
+       id="text4886-5-2-67"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-95"
+         x="107.86625"
+         y="24.316395"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Exeter College</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="82.76165"
+       y="0.19227584"
+       id="text4886-5-2-1"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-06"
+         x="82.76165"
+         y="0.19227584"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Exeter St Davids</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="116.97414"
+       y="-43.467407"
+       id="text4886-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan4884-1-8"
+         x="116.97414"
+         y="-43.467407"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Exeter University</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="75.645508"
+       y="39.164356"
+       id="text4886-5-2-6-3"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-7"
+         x="75.645508"
+         y="39.164356"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Miller's Crossing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="57.268593"
+       y="2.4799023"
+       id="text4886-5-2-6-4"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-8"
+         x="57.268593"
+         y="2.4799023"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Station Rd</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="121.14169"
+       y="83.881264"
+       id="text4886-5-9"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-7"
+         x="121.14169"
+         y="83.881264"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Exe Bridges</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="107.65044"
+       y="96.72496"
+       id="text4886-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-1"
+         x="107.65044"
+         y="96.72496"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">St Thomas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.93888903px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="90.305511"
+       y="109.8605"
+       id="text4886-5-2-6-3-4"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-7-9"
+         x="90.305511"
+         y="109.8605"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.93888903px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Cowick St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="178.20514"
+       y="102.72269"
+       id="text4886-5-2-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-73"
+         x="178.20514"
+         y="102.72269"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Trews Weir</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="166.86681"
+       y="93.335838"
+       id="text4886-5-2-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-4"
+         x="166.86681"
+         y="93.335838"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Haven Banks</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.93888903px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="162.25172"
+       y="72.610573"
+       id="text4886-5-8"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-3"
+         x="162.25172"
+         y="72.610573"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.93888903px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Quay</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="206.85371"
+       y="83.52951"
+       id="text4886-1-6"><tspan
+         sodipodi:role="line"
+         id="tspan4884-3-6"
+         x="206.85371"
+         y="83.52951"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">County Hall</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="227.00414"
+       y="64.099525"
+       id="text4886-1-6-5"><tspan
+         sodipodi:role="line"
+         id="tspan4884-3-6-9"
+         x="227.00414"
+         y="64.099525"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Magdalen Court</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="260.18726"
+       y="123.61757"
+       id="text4886-1-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan4884-3-6-5"
+         x="260.18726"
+         y="123.61757"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Clapperbrook Lane</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.93888903px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="262.08228"
+       y="108.17265"
+       id="text4886-9-5"><tspan
+         sodipodi:role="line"
+         id="tspan4884-1-9"
+         x="262.08228"
+         y="108.17265"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.93888903px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Duckes Meadow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="123.93022"
+       y="143.09485"
+       id="text4886-5-2-6-2-5"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-4-9"
+         x="123.93022"
+         y="143.09485"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Cowick Barton</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="156.56982"
+       y="143.39639"
+       id="text4886-5-2-6-2-5-9"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-4-9-3"
+         x="156.56982"
+         y="143.39639"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">West Exe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="198.50426"
+       y="154.13538"
+       id="text4886-6"><tspan
+         sodipodi:role="line"
+         id="tspan4884-2"
+         x="198.50426"
+         y="154.13538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Alphington</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="240.45511"
+       y="143.41576"
+       id="text4886-9-5-1"><tspan
+         sodipodi:role="line"
+         id="tspan4884-1-9-2"
+         x="240.45511"
+         y="143.41576"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Alphin Brook</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="266.71976"
+       y="55.320408"
+       id="text4886-1-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan4884-3-6-50"
+         x="266.71976"
+         y="55.320408"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">RD&amp;E</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="240.17964"
+       y="15.642416"
+       id="text4886-5-88"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-71"
+         x="240.17964"
+         y="15.642416"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Polsloe Rd</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="77.184731"
+       y="83.962433"
+       id="text4886-5-2-6-3-4-1"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-7-9-0"
+         x="77.184731"
+         y="83.962433"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Wardrew Rd</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="46.200748"
+       y="73.730797"
+       id="text4886-5-2-0"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-2"
+         x="46.200748"
+         y="73.730797"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Buddle Ln</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="13.151455"
+       y="73.683556"
+       id="text4886-5-2-9"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-03"
+         x="13.151455"
+         y="73.683556"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Redhills</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="19.768066"
+       y="0.98354298"
+       id="text4886-5-2-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-03-0"
+         x="19.768066"
+         y="0.98354298"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Exwick</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-26.356405"
+       y="49.792355"
+       id="text4886-5-0"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-36"
+         x="-26.356405"
+         y="49.792355"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Nadderwater</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.6551746"
+       y="23.938787"
+       id="text4886-5-0-7"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-36-2"
+         x="1.6551746"
+         y="23.938787"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Exwick Heights</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-30.587967"
+       y="95.724945"
+       id="text4886-5-2-6-3-4-9"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-7-9-00"
+         x="-30.587967"
+         y="95.724945"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">E1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-30.599779"
+       y="102.35724"
+       id="text4886-5-2-6-3-4-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-7-9-00-7"
+         x="-30.599779"
+         y="102.35724"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">E2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-30.593355"
+       y="108.9435"
+       id="text4886-5-2-6-3-4-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-7-9-00-4"
+         x="-30.593355"
+         y="108.9435"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">E3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-30.593357"
+       y="115.58762"
+       id="text4886-5-2-6-3-4-9-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-7-9-00-7-9"
+         x="-30.593357"
+         y="115.58762"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">E4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-30.597399"
+       y="122.1572"
+       id="text4886-5-2-6-3-4-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-7-9-00-8"
+         x="-30.597399"
+         y="122.1572"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">E7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-30.591497"
+       y="128.81902"
+       id="text4886-5-2-6-3-4-9-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-7-9-00-7-3"
+         x="-30.591497"
+         y="128.81902"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">E9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-30.602785"
+       y="135.40529"
+       id="text4886-5-2-6-3-4-9-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-7-9-00-4-5"
+         x="-30.602785"
+         y="135.40529"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">NCN 279</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-30.466969"
+       y="142.03168"
+       id="text4886-5-2-6-3-4-9-7-5-8"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-7-9-00-7-9-5"
+         x="-30.466969"
+         y="142.03168"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Central Link</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-30.462915"
+       y="148.63745"
+       id="text4886-5-2-6-3-4-9-7-5-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-7-9-00-7-9-5-8"
+         x="-30.462915"
+         y="148.63745"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Quayside</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-30.464996"
+       y="155.28407"
+       id="text4886-5-2-6-3-4-9-7-5-8-4"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-7-9-00-7-9-5-2"
+         x="-30.464996"
+         y="155.28407"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Green Way</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-30.588121"
+       y="161.90524"
+       id="text4886-5-2-6-3-4-9-7-5-8-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-7-9-00-7-9-5-8-0"
+         x="-30.588121"
+         y="161.90524"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Mill Link</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-30.466711"
+       y="168.47966"
+       id="text4886-5-2-6-3-4-9-7-5-8-9"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-7-9-00-7-9-5-0"
+         x="-30.466711"
+         y="168.47966"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Sowton Link</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-30.465248"
+       y="175.09624"
+       id="text4886-5-2-6-3-4-9-7-5-8-9-1"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-7-9-00-7-9-5-0-4"
+         x="-30.465248"
+         y="175.09624"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Circle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-50.431713"
+       y="89.110359"
+       id="text4886-5-2-6-3-4-9-96"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-7-9-00-5"
+         x="-50.431713"
+         y="89.110359"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Routes:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.4849405"
+       y="161.87068"
+       id="text4886-5-2-6-3-4-9-4"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-7-9-00-9"
+         x="2.4849405"
+         y="161.87068"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Infrastructure Quality:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="22.437855"
+       y="168.47951"
+       id="text4886-5-2-6-3-4-9-4-2"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-7-9-00-9-4"
+         x="22.437855"
+         y="168.47951"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Good</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="22.437855"
+       y="181.70851"
+       id="text4886-5-2-6-3-4-9-4-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-7-9-00-9-4-7"
+         x="22.437855"
+         y="181.70851"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Poor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-30.44132"
+       y="181.70872"
+       id="text4886-5-2-6-3-4-9-7-5-8-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-7-9-00-7-9-5-0-3"
+         x="-30.44132"
+         y="181.70872"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Marsh Barton Link</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="119.12926"
+       y="168.91995"
+       id="text4886-6-4"><tspan
+         sodipodi:role="line"
+         id="tspan4884-2-4"
+         x="119.12926"
+         y="168.91995"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Ide</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="383.9931"
+       y="174.76085"
+       id="text4886-9-5-1-5"><tspan
+         sodipodi:role="line"
+         id="tspan4884-1-9-2-4"
+         x="383.9931"
+         y="174.76085"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Exminster</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="260.64774"
+       y="-26.271107"
+       id="text4886-9-5-4"><tspan
+         sodipodi:role="line"
+         id="tspan4884-1-9-20"
+         x="260.64774"
+         y="-26.271107"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Polsloe Bridge</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="358.83923"
+       y="-48.797497"
+       id="text4886-5-88-2"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-71-3"
+         x="358.83923"
+         y="-48.797497"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Pinhoe Stn</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="372.02484"
+       y="-62.040035"
+       id="text4886-5-88-4"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-71-9"
+         x="372.02484"
+         y="-62.040035"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Pinhoe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="387.33051"
+       y="26.414728"
+       id="text4886-5-88-46"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-71-7"
+         x="387.33051"
+         y="26.414728"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Sowton</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="400.51639"
+       y="73.135902"
+       id="text4886-5-88-6"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-71-71"
+         x="400.51639"
+         y="73.135902"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Newcourt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="321.87729"
+       y="108.31435"
+       id="text4886-5-2-6-5"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-2"
+         x="321.87729"
+         y="108.31435"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Mill Rd</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="346.09668"
+       y="55.3969"
+       id="text4886-5-88-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-71-71-3"
+         x="346.09668"
+         y="55.3969"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Pynes Hill</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="306.50668"
+       y="55.323654"
+       id="text4886-5-88-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-71-71-6"
+         x="306.50668"
+         y="55.323654"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Ludwell Valley</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="287.63684"
+       y="0.1955892"
+       id="text4886-5-2-6-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-2-5"
+         x="287.63684"
+         y="0.1955892"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Vaughan Rd</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="341.63272"
+       y="-43.787659"
+       id="text4886-5-2-6-5-8"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-2-1"
+         x="341.63272"
+         y="-43.787659"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Pinhoe Rd</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="341.69754"
+       y="-23.992346"
+       id="text4886-5-2-6-5-86"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-2-6"
+         x="341.69754"
+         y="-23.992346"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Hollow Ln</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="341.73468"
+       y="-4.1157017"
+       id="text4886-5-2-6-5-1"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-2-13"
+         x="341.73468"
+         y="-4.1157017"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Hill Barton</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="383.59308"
+       y="-33.652863"
+       id="text4886-7"><tspan
+         sodipodi:role="line"
+         id="tspan4884-0"
+         x="383.59308"
+         y="-33.652863"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Monkerton</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="346.20239"
+       y="123.6261"
+       id="text4886-1-6-7-8"><tspan
+         sodipodi:role="line"
+         id="tspan4884-3-6-5-7"
+         x="346.20239"
+         y="123.6261"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Countess Weir</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="198.32565"
+       y="133.11731"
+       id="text4886-98"><tspan
+         sodipodi:role="line"
+         id="tspan4884-41"
+         x="198.32565"
+         y="133.11731"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Marsh Barton East</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="290.92981"
+       y="144.97632"
+       id="text4886-75"><tspan
+         sodipodi:role="line"
+         id="tspan4884-8"
+         x="290.92981"
+         y="144.97632"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Marsh Barton East</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="264.53055"
+       y="-45.216618"
+       id="text4886-57-2"><tspan
+         sodipodi:role="line"
+         x="264.53055"
+         y="-45.216618"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan6956">Mincinglake</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="385.8078"
+       y="55.420525"
+       id="text4886-5-88-6-1-2"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-71-71-3-8"
+         x="385.8078"
+         y="55.420525"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Digby Sowton</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="284.39795"
+       y="93.46524"
+       id="text4886-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan4884-0-3"
+         x="284.39795"
+         y="93.46524"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Isca Academy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="425.74234"
+       y="109.09701"
+       id="text4886-5-88-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-71-71-1"
+         x="425.74234"
+         y="109.09701"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Ferry (tidal)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="378.07001"
+       y="-75.738174"
+       id="text4886-7-47"><tspan
+         sodipodi:role="line"
+         id="tspan4884-0-4"
+         x="378.07001"
+         y="-75.738174"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Broadclyst</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-37.385601"
+       y="40.291897"
+       id="text4886-5-2-6-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan4884-4-0-9-7-4"
+         x="-37.385601"
+         y="40.291897"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">Tedburn St Mary</tspan></text>
+    <text
+       transform="translate(1.2916666e-6,1.1041666e-6)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="198.43155"
+       y="-45.029274"
+       id="text4886-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan4884-9-0"
+         x="198.43155"
+         y="-45.029274"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Stoke Hill</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:0.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="264.54193"
+       y="25.930868"
+       id="text4886-4-4-3"><tspan
+         sodipodi:role="line"
+         x="264.54193"
+         y="25.930868"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan5786">Heavitree Pleasure</tspan><tspan
+         sodipodi:role="line"
+         x="264.54193"
+         y="30.164202"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:0;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan5790">Grounds</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:0.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="304.21762"
+       y="-49.589806"
+       id="text4886-4-4-3-1"><tspan
+         sodipodi:role="line"
+         x="304.21762"
+         y="-49.589806"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan5786-0">Exeter Arena</tspan><tspan
+         sodipodi:role="line"
+         x="304.21762"
+         y="-45.356472"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:0;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan5790-5">&amp; St James</tspan></text>
+    <text
+       transform="translate(1.2916666e-6,1.1041666e-6)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="158.62718"
+       y="-45.323162"
+       id="text4886-4"><tspan
+         sodipodi:role="line"
+         id="tspan4884-9"
+         x="158.62718"
+         y="-45.323162"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Pennsylvania</tspan></text>
+    <text
+       transform="translate(1.2916666e-6,1.1041666e-6)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:0.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="433.0603"
+       y="97.324837"
+       id="text4886-4-4-3-1-0-0"><tspan
+         sodipodi:role="line"
+         x="433.0603"
+         y="97.324837"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan5786-0-9-8">Topsham</tspan><tspan
+         sodipodi:role="line"
+         x="433.0603"
+         y="101.55817"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:0;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan5790-5-9-1">&amp; Exmouth</tspan></text>
+    <text
+       transform="translate(1.2916666e-6,1.1041666e-6)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:0.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:url(#Northern_Black);fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="434.07611"
+       y="117.16859"
+       id="text4886-4-4-3-1-0-9"><tspan
+         sodipodi:role="line"
+         x="434.07611"
+         y="117.16859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#Northern_Black);stroke-width:0.26458332"
+         id="tspan5786-0-9-1">Starcross</tspan><tspan
+         sodipodi:role="line"
+         x="434.07611"
+         y="121.40192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:0;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#Northern_Black);stroke-width:0.26458332"
+         id="tspan5790-5-9-0">&amp; Dawlish</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:0.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="441.64035"
+       y="-22.493618"
+       id="text4886-4-4-3-1-0"><tspan
+         sodipodi:role="line"
+         x="441.64035"
+         y="-22.493618"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan5786-0-9">Science Park</tspan><tspan
+         sodipodi:role="line"
+         x="441.64035"
+         y="-18.260284"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444447px;line-height:0;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan5790-5-9">&amp; Cranbrook</tspan></text>
+    <g
+       transform="matrix(0.04337432,0,0,0.04337432,110.4527,-2.4880052)"
+       style="fill:none;stroke:#ed1c24"
+       id="g7264">
+      <path
+         style="stroke-width:6"
+         inkscape:connector-curvature="0"
+         d="M 1,-8.9 46,12.4 16,26.6 61,47.9"
+         id="path7260" />
+      <path
+         style="stroke-width:6.4000001"
+         inkscape:connector-curvature="0"
+         d="m 0,12.4 h 62 m 0,14.2 H 0"
+         id="path7262" />
+    </g>
+    <g
+       transform="matrix(0.04337432,0,0,0.04337432,144.84854,12.689994)"
+       style="display:inline;fill:none;stroke:#ed1c24"
+       id="g7264-7">
+      <path
+         style="stroke-width:6"
+         inkscape:connector-curvature="0"
+         d="M 1,-8.9 46,12.4 16,26.6 61,47.9"
+         id="path7260-6" />
+      <path
+         style="stroke-width:6.4000001"
+         inkscape:connector-curvature="0"
+         d="m 0,12.4 h 62 m 0,14.2 H 0"
+         id="path7262-9" />
+    </g>
+    <g
+       transform="matrix(0.04337432,0,0,0.04337432,233.77921,-28.970057)"
+       style="display:inline;fill:none;stroke:#ed1c24"
+       id="g7264-7-3">
+      <path
+         style="stroke-width:6"
+         inkscape:connector-curvature="0"
+         d="M 1,-8.9 46,12.4 16,26.6 61,47.9"
+         id="path7260-6-8" />
+      <path
+         style="stroke-width:6.4000001"
+         inkscape:connector-curvature="0"
+         d="m 0,12.4 h 62 m 0,14.2 H 0"
+         id="path7262-9-9" />
+    </g>
+    <g
+       transform="matrix(0.04337432,0,0,0.04337432,377.54957,-51.471467)"
+       style="display:inline;fill:none;stroke:#ed1c24"
+       id="g7264-7-4">
+      <path
+         style="stroke-width:6"
+         inkscape:connector-curvature="0"
+         d="M 1,-8.9 46,12.4 16,26.6 61,47.9"
+         id="path7260-6-7" />
+      <path
+         style="stroke-width:6.4000001"
+         inkscape:connector-curvature="0"
+         d="m 0,12.4 h 62 m 0,14.2 H 0"
+         id="path7262-9-7" />
+    </g>
+    <g
+       transform="matrix(0.04337432,0,0,0.04337432,408.83249,52.387497)"
+       style="display:inline;fill:none;stroke:#ed1c24"
+       id="g7264-7-1">
+      <path
+         style="stroke-width:6"
+         inkscape:connector-curvature="0"
+         d="M 1,-8.9 46,12.4 16,26.6 61,47.9"
+         id="path7260-6-3" />
+      <path
+         style="stroke-width:6.4000001"
+         inkscape:connector-curvature="0"
+         d="m 0,12.4 h 62 m 0,14.2 H 0"
+         id="path7262-9-4" />
+    </g>
+    <g
+       transform="matrix(0.04337432,0,0,0.04337432,114.42146,97.885829)"
+       style="display:inline;fill:none;stroke:#ed1c24"
+       id="g7264-7-33">
+      <path
+         style="stroke-width:6"
+         inkscape:connector-curvature="0"
+         d="M 1,-8.9 46,12.4 16,26.6 61,47.9"
+         id="path7260-6-9" />
+      <path
+         style="stroke-width:6.4000001"
+         inkscape:connector-curvature="0"
+         d="m 0,12.4 h 62 m 0,14.2 H 0"
+         id="path7262-9-5" />
+    </g>
+    <g
+       transform="matrix(0.04337432,0,0,0.04337432,443.70961,98.736266)"
+       style="display:inline;fill:none;stroke:#ed1c24"
+       id="g7264-7-7">
+      <path
+         style="stroke-width:6"
+         inkscape:connector-curvature="0"
+         d="M 1,-8.9 46,12.4 16,26.6 61,47.9"
+         id="path7260-6-5" />
+      <path
+         style="stroke-width:6.4000001"
+         inkscape:connector-curvature="0"
+         d="m 0,12.4 h 62 m 0,14.2 H 0"
+         id="path7262-9-2" />
+    </g>
+    <g
+       transform="matrix(0.04337432,0,0,0.04337432,443.16626,118.92021)"
+       style="display:inline;fill:none;stroke:#ed1c24"
+       id="g7264-7-14">
+      <path
+         style="stroke-width:6"
+         inkscape:connector-curvature="0"
+         d="M 1,-8.9 46,12.4 16,26.6 61,47.9"
+         id="path7260-6-0" />
+      <path
+         style="stroke-width:6.4000001"
+         inkscape:connector-curvature="0"
+         d="m 0,12.4 h 62 m 0,14.2 H 0"
+         id="path7262-9-3" />
+    </g>
+    <g
+       transform="matrix(0.04337432,0,0,0.04337432,443.16626,114.68687)"
+       style="display:inline;fill:none;stroke:#ed1c24"
+       id="g7264-7-0">
+      <path
+         style="stroke-width:6"
+         inkscape:connector-curvature="0"
+         d="M 1,-8.9 46,12.4 16,26.6 61,47.9"
+         id="path7260-6-6" />
+      <path
+         style="stroke-width:6.4000001"
+         inkscape:connector-curvature="0"
+         d="m 0,12.4 h 62 m 0,14.2 H 0"
+         id="path7262-9-94" />
+    </g>
+  </g>
+</svg>
