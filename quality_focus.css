@@ -1,0 +1,92 @@
+
+.e1_ferry {
+  stroke-linejoin:miter;
+  stroke-opacity:1;
+  stroke-linecap:butt;
+  stroke-miterlimit:4;
+  fill:none;
+}
+.line {
+  stroke-linejoin:miter;
+  stroke-opacity:1;
+  stroke-linecap:butt;
+  stroke-miterlimit:4;
+  fill:none;
+}
+.ferry {
+  stroke-dashoffset:0;
+  stroke-width:8;
+  stroke-dasharray:8, 8;
+}
+.dual_top,
+.dual_bottom {
+  stroke-dasharray:40,40;
+}
+.dual_bottom {
+  stroke-dashoffset:40;
+}
+.station_stub,
+.arrow {
+  stroke-width:8;
+  stroke: #000;
+}
+.q1 {
+  stroke-width:12;
+  stroke:red;
+}
+.q2 {
+  stroke-width:12;
+  stroke:orange;
+}
+.q3 {
+  stroke-width:12;
+  stroke:blue;
+}
+.q4 {
+  stroke-width:12;
+  stroke:green;
+}
+.station {
+  fill-opacity:1;
+  stroke-dasharray:none;
+  stroke-miterlimit:4;
+  stroke-opacity:1;
+  stroke-width:8;
+  display:inline;
+  fill:#ffffff;
+  stroke:#000000;
+}
+.al_left{
+  text-align:left;
+  text-anchor:start;
+}
+.al_centre{
+  text-align:center;
+  text-anchor:middle;
+}
+.al_right{
+  text-align:right;
+  text-anchor:end;
+}
+.place_names {
+  display:inline;
+  fill:#000000;
+  fill-opacity:1;
+  font-family:'Gill Sans MT Condensed';
+  font-feature-settings:normal;
+  font-size:60px;
+  font-stretch:condensed;
+  font-style:normal;
+  font-variant:normal;
+  font-variant-caps:normal;
+  font-variant-ligatures:normal;
+  font-variant-numeric:normal;
+  font-weight:normal;
+  letter-spacing:0px;
+  line-height:1.25;
+  stroke:none;
+  stroke-width:0.264583;
+  word-spacing:0px;
+  writing-mode:lr-tb;
+  -inkscape-font-specification:'Gill Sans MT Condensed, Condensed';
+}

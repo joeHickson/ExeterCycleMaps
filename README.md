@@ -16,3 +16,11 @@ Each route is classified on a scale of 1-4:
 * q4 = Segregated cycle path meeting minimum widths of 2m single direction or 3m bidirectional.
 
 ![Exeter cycle routes in the style of a tube map](https://github.com/joeHickson/ExeterCycleMaps/blob/master/exeter_cycle_map.png?raw=true)
+
+also available in quality highlighting format - run generate_quality_focus_svg.py to produce the latest file. This uses:
+* q1 Red
+* q2 Orange
+* q3 Blue
+* q4 Green
+
+![Exeter cycle routes in the style of a tube map](https://github.com/joeHickson/ExeterCycleMaps/blob/master/quality_map.png?raw=true)
