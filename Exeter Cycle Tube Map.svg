@@ -8,13 +8,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="Exeter Cycle Tube Map.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   id="svg8"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="C:\Users\Hickson\Documents\cycling\ExeterCycleMaps\Exeter Cycle Tube Map.png"
+   width="6000"
+   height="3500"
+   viewBox="0 0 6000 3500"
    version="1.1"
-   viewBox="0 0 528.63751 277.81249"
-   height="1050"
-   width="1998">
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="Exeter Cycle Tube Map.svg">
   <style
      id="style9347"><![CDATA[
 .e1_ferry {
@@ -75,38 +78,75 @@
 }
 .ferry {
   stroke-dashoffset:0;
-  stroke-width:0.79374999;
-  stroke-dasharray:0.79375, 0.79375;
+  stroke-width:8;
+  stroke-dasharray:8, 8;
 }
 .dual_top,
 .dual_bottom {
-  stroke-dasharray:3,3;
+  stroke-dasharray:40,40;
 }
 .dual_bottom {
-  stroke-dashoffset:3;
+  stroke-dashoffset:40;
 }
 .station_stub,
 .arrow {
-  stroke-width:0.79374;
+  stroke-width:8;
 }
 .q1 {
-  stroke-width:0.26458;
+  stroke-width:4;
 }
 .q2 {
-  stroke-width:0.79374;
+  stroke-width:8;
 }
 .q3 {
-  stroke-width:1.3229;
+  stroke-width:12;
+}
+.q4 {
+  stroke-width:16;
 }
 .station {
   fill-opacity:1;
   stroke-dasharray:none;
   stroke-miterlimit:4;
   stroke-opacity:1;
-  stroke-width:0.79374999;
+  stroke-width:8;
   display:inline;
   fill:#ffffff;
   stroke:#000000;
+}
+.al_left{
+  text-align:left;
+  text-anchor:start;
+}
+.al_centre{
+  text-align:center;
+  text-anchor:middle;
+}
+.al_right{
+  text-align:right;
+  text-anchor:end;
+}
+.place_names {
+  display:inline;
+  fill:#000000;
+  fill-opacity:1;
+  font-family:'Gill Sans MT Condensed';
+  font-feature-settings:normal;
+  font-size:60px;
+  font-stretch:condensed;
+  font-style:normal;
+  font-variant:normal;
+  font-variant-caps:normal;
+  font-variant-ligatures:normal;
+  font-variant-numeric:normal;
+  font-weight:normal;
+  letter-spacing:0px;
+  line-height:1.25;
+  stroke:none;
+  stroke-width:0.264583;
+  word-spacing:0px;
+  writing-mode:lr-tb;
+  -inkscape-font-specification:'Gill Sans MT Condensed, Condensed';
 }
 ]]></style>
   <title
@@ -120,11 +160,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35000001"
-     inkscape:cx="862.68508"
-     inkscape:cy="886.77117"
+     inkscape:zoom="0.24904632"
+     inkscape:cx="2574.2541"
+     inkscape:cy="1789.9919"
      inkscape:document-units="px"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer6"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -132,41 +172,13 @@
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="false"
-     fit-margin-top="5"
-     fit-margin-left="5"
-     fit-margin-right="5"
-     fit-margin-bottom="5"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
      units="px"
      inkscape:document-rotation="0"
-     objecttolerance="20">
-    <inkscape:grid
-       originy="0"
-       originx="0"
-       empspacing="5"
-       empopacity="0.25098039"
-       empcolor="#ff3fff"
-       opacity="0.1254902"
-       color="#d23fff"
-       visible="true"
-       snapvisiblegridlinesonly="true"
-       spacingy="6.6145833"
-       spacingx="6.6145833"
-       id="grid10"
-       type="xygrid" />
-    <inkscape:grid
-       originy="-19.756483"
-       originx="66.076835"
-       spacingy="1.3229167"
-       gridanglez="45"
-       gridanglex="45"
-       empspacing="5"
-       units="px"
-       id="grid3717"
-       type="axonomgrid"
-       snapvisiblegridlinesonly="false"
-       enabled="false"
-       visible="true" />
-  </sodipodi:namedview>
+     objecttolerance="20" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -200,11 +212,12 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Exe"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,312.34373)">
     <path
        id="path4770"
-       style="opacity:0.203;fill:none;fill-opacity:1;stroke:#0098d8;stroke-width:2.11667;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 489.3469,201.48026 H 264.45106 l -39.02604,-39.02605 h -39.6875 L 135.46669,112.18337 V 11.816221"
+       style="opacity:0.203;fill:none;fill-opacity:1;stroke:#0098d8;stroke-width:16;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 5000,2025 H 2750 l -400,-400 h -400 l -500,-500 V 126.04062"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
   </g>
@@ -212,113 +225,115 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="E1"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,312.34373)">
     <path
-       d="m 410.10417,198.43751 h 12.84648 l 13.61186,-13.22917 h 52.91666"
+       d="m 4100,2000 h 150 l 150,-150 h 600"
        id="e1_countess_topsham"
        class="e1 line q3" />
     <path
-       d="m 324.08908,205.05209 h 86.01509"
+       d="m 3250,2050 h 850"
        id="e1_clapperbrook_countess"
        class="e1 line q3" />
     <path
-       d="m 248.00689,188.47566 16.57644,16.57643 h 59.50575"
+       d="m 2500,1900 150,150 h 600"
        id="e1_trews_to_clapperbrook"
        class="e1 line q3" />
     <path
-       d="m 234.87222,175.34098 13.13467,13.13468"
+       d="m 2350,1750 150,150"
        id="e1_banks_to_trews"
        class="e1 line q3" />
     <path
-       d="m 185.20833,165.36459 h 39.68749 v 0 l 9.9764,9.97639"
+       d="m 1850,1650 h 400 v 0 l 100,100"
        id="e1_bridges_to_banks"
        class="e1 line q3" />
     <path
-       d="m 145.63095,125.7872 39.57738,39.57739"
+       d="m 1450,1250 400,400"
        id="e1_millers_to_bridges"
        class="e1 line q3" />
     <path
-       d="m 125.67708,92.604165 v 13.229165 l 19.95387,19.95387"
+       d="m 1250,900 v 150 l 200,200"
        id="e1_flowerpots"
        class="e1 line q3" />
     <path
        id="e1_st_davids_station_rd"
-       d="m 145.52083,85.989582 h -13.22916 l -6.61459,6.614583"
+       d="m 1450,850 h -150 l -50,50"
        sodipodi:nodetypes="ccc"
        class="e1 line q2 dual_bottom" />
     <path
-       d="m 234.81769,175.28646 -1.32291,1.32292"
+       d="m 2350,1750 -15,15"
        id="haven_banks_stub_e1"
        class="e1 station_stub" />
     <path
-       d="m 487.4948,183.22396 1.98436,1.98437 -1.98436,1.98438"
+       d="m 4970,1820 30,30 -30,30"
        id="e1_topsham_arrow"
        class="e1 line arrow" />
     <path
        class="e1 line ferry"
        id="e1_ferry_path"
-       d="m 478.89582,185.20833 9.92188,9.92188 -9.26042,9.26042" />
+       d="m 4800,1850 100,100 -100,100" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="E2"
-     class="e2">
+     class="e2"
+     transform="translate(0,312.34373)">
     <path
-       d="m 410.10415,201.40686 -0.14171,16.73268 39.82922,39.82922"
+       d="m 4100,2000 v 150 l 400,400"
        id="e2_countess_minster"
        sodipodi:nodetypes="ccc"
        class="e2 line q2" />
     <path
-       d="m 410.10415,145.60812 v 55.79874"
+       d="m 4100,1450 v 550"
        id="e2_pynes_countess"
        class="e2 line q3" />
     <path
-       d="m 410.10415,112.48796 v 33.12016"
+       d="m 4100,1100 v 350"
        id="e2_middlemoor_pynes"
        class="e2 line q3" />
     <path
-       d="M 410.10415,86.029619 V 112.48796"
+       d="m 4100,850 v 250"
        id="e2_hill_barton_middlemoor"
        class="e2 line q3" />
     <path
-       d="M 410.10415,65.996881 V 86.029619"
+       d="M 4100,650 V 850"
        id="e2_lukes_barton"
        class="e2 line q3" />
     <path
-       d="M 410.10415,46.302082 V 65.996881"
+       d="M 4100,450 V 650"
        id="e2_pinhoe_lukes"
        class="e2 line q3" />
     <path
-       d="M 423.33413,33.072105 410.10415,46.302082"
+       d="M 4250,300 4100,450"
        id="e2_pinhoe_stn_rd"
        class="e2 line q3" />
     <path
-       d="M 436.63079,19.775449 423.33413,33.072105"
+       d="M 4350,200 4250,300"
        id="e2_pinhoe_ph_station"
        class="e2 line q3" />
     <path
-       d="m 443.17708,13.229165 -6.54629,6.546284"
+       d="m 4400,150 -50,50"
        id="e2_broadclyst_pinhoe"
        class="e2 line q3" />
     <path
-       d="m 410.10416,112.44792 c -2.64583,0 -2.64583,0 -2.64583,0"
+       d="m 4101,1124 c -26,0 -26,0 -26,0"
        id="e2_middlemoor_stub"
        class="e2 station_stub" />
     <path
-       d="m 423.33333,33.072916 c 1.32292,1.322917 1.32292,1.322917 1.32292,1.322917 h 10e-6"
+       d="m 4250,300 15,15"
        id="e2_pinhoestn_stub"
        class="e2 station_stub" />
     <path
-       d="m 436.5625,19.843749 1.32292,1.322916"
+       d="m 4350,200 15,15"
        id="e2_pinhoe_stub"
        class="e2 station_stub" />
     <path
-       d="m 449.13019,258.63022 1.32292,-1.32292"
+       d="m 4475,2575 50,-50"
        id="e2_exminster_terminus"
        class="e2 q2 line" />
     <path
-       d="m 440.53123,13.229165 h 2.64584 v 2.645833"
+       d="m 4350,150 h 50 v 50"
        id="e2_broadclyst_arrow"
        inkscape:connector-curvature="0"
        class="e2 line arrow" />
@@ -327,59 +342,60 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="E3"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,312.34373)">
     <path
-       d="m 410.10416,66.145833 h 76.66018 1.37015 7.89024"
+       d="m 4100,650 h 900"
        id="e3_lukes_scipark"
        class="e3 line q3" />
     <path
-       d="m 357.08286,86.025219 19.87939,-19.879386 h 33.14191"
+       d="m 3550,850 200,-200 h 350"
        id="e3_vaughan_lukes"
        class="e3 line q2" />
     <path
-       d="m 330.67922,105.83333 h 6.59553 l 19.80811,-19.808111"
+       d="m 3300,1050 h 50 l 200,-200"
        id="e4_htpg_vaughan"
        class="e3 line q2" />
     <path
-       d="m 304.27083,105.83333 h 26.40839"
+       d="m 3050,1050 h 250"
        id="e3_polsloe_htpg"
        class="e3 line q2" />
     <path
-       d="m 265.17579,125.01562 19.1823,-19.18229 h 19.91274"
+       d="m 2650,1250 200,-200 h 200"
        id="e2_maynard_polsloe"
        class="e3 line q2" />
     <path
        sodipodi:nodetypes="cc"
-       d="m 244.67059,125.85164 h 19.84375"
+       d="m 2450,1250 h 200"
        id="e2_southernhay_maynard"
        class="e3 line q2 dual_bottom" />
     <path
        sodipodi:nodetypes="cc"
-       d="m 224.82684,125.85164 h 19.84375"
+       d="m 2250,1250 h 200"
        id="e2_cc_southernhay"
        class="e3 line q3 dual_bottom" />
     <path
-       d="M 185.11383,125.67708 H 145.45182"
+       d="M 1850,1250 H 1450"
        id="e2_millers_iron"
        class="e3 line q2" />
     <path
-       d="M 224.82682,125.67708 H 185.11383"
+       d="M 2250,1250 H 1850"
        id="e2_iron_cc"
        class="e3 line q2" />
     <path
-       d="M 185.13932,125.67708 V 127"
+       d="m 1850,1250 v 20"
        id="e3_iron_stub"
        class="e3 station_stub" />
     <path
-       d="m 244.22408,125.85164 v -2.82039"
+       d="m 2446,1250 v -20"
        id="e3_southernhay_stub"
        class="e3 station_stub" />
     <path
-       d="m 330.66017,105.83333 c 0,2.64584 0,2.64584 0,2.64584"
+       d="m 3300,1050 v20"
        id="e3_htpg_stub"
        class="e3 station_stub" />
     <path
-       d="m 494.04038,64.161458 1.98438,1.984375 -1.98438,1.984375"
+       d="M 4970,620 5000,650 4970,680"
        id="e3_scipark_arrow"
        class="e3 line arrow" />
   </g>
@@ -387,98 +403,100 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="E4"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,312.34373)">
     <path
-       d="m 449.95514,46.302083 h 19.68027 l 18.52084,18.520833 h 7.9375"
+       d="m 4500,450 h 200 l 190,190 h 110"
        id="e4_monkerton_scip"
        class="e4 line q3" />
     <path
-       d="m 410.10416,46.302083 h 39.85098"
+       d="m 4100,450 h 400"
        id="e4_pinhoe_monkerton"
        class="e4 line q3" />
     <path
-       d="m 370.42103,46.302083 h 39.68313"
+       d="m 3700,450 h 400"
        id="e4_arena_pinhoe"
        class="e4 line q3" />
     <path
-       d="m 330.86902,46.302083 h 39.55201"
+       d="m 3300,450 h 400"
        id="e4_mincinglake_arena"
        class="e4 line q3" />
     <path
-       d="m 264.58332,46.302083 h 66.2857"
+       d="m 2650,450 h 650"
        id="e4_stoke_hill_mincinglake"
        class="e4 line q3" />
     <path
-       d="m 224.89582,46.476636 h 39.68751"
+       d="m 2250,450 h 400"
        id="e4_penns_stoke"
        class="e4 line q3 dual_bottom"
        sodipodi:nodetypes="cc" />
     <path
-       d="m 185.20832,46.476636 h 39.6875"
+       d="m 1850,450 h 400"
        id="e4_uni_pennsyl"
        class="e4 line q2 dual_bottom"
        sodipodi:nodetypes="cc" />
     <path
-       d="m 224.49394,46.476637 v -2.645833 0"
+       d="m 2246,450 v -20"
        id="e4_penns_stub"
        class="e4 station_stub"
        sodipodi:nodetypes="cc" />
     <path
-       d="m 66.169076,105.81008 -29.78888,29.78888"
+       d="M 650,1000 350,1300"
        id="e4_nadder_exhi"
        class="e4 line q2" />
     <path
-       d="M 86.062958,92.604167 H 79.374989 L 66.169076,105.81008"
+       d="M 850,900 H 750 L 650,1000"
        id="e4_exhi_exwick"
        class="e4 line q2" />
     <path
-       d="M 125.67707,92.604167 H 86.062958"
+       d="M 850,900 h400"
        id="e4_exwick_stnrd"
        class="e4 line q2" />
     <path
-       d="m 145.52082,85.989581 h -13.22916 l -6.61459,6.614583"
+       d="m 1450,850 h -150 l -50,50"
        id="e4_stn_rd_st_davids"
        class="e4 line q2 dual_top" />
     <path
-       d="M 185.20832,46.302084 146.18228,85.328125"
+       d="M 1850,450 1450,850"
        id="e4_st_davids_uni"
        class="e4 line q2" />
     <path
-       d="m 85.989572,92.604164 c 0,-2.645833 0,-2.645833 0,-2.645833"
+       d="m 850,900 v-20"
        id="e4_exwick_stub"
        class="e4 station_stub" />
     <path
-       d="m 66.145822,105.83333 c 1.322916,1.32292 1.322916,1.32292 1.322916,1.32292"
+       d="m650,1000 15,15"
        id="e4_exhi_stub"
        class="e4 station_stub" />
     <path
-       d="M 370.41665,46.302082 V 43.656249"
+       d="M 3700,450 v-20"
        id="e4_arena_stub"
        class="e4 station_stub" />
     <path
-       d="m 449.79165,46.302082 v 2.645833"
+       d="m 4500,450 v 20"
        id="e4_monkerton_stub"
        class="e4 station_stub" />
     <path
-       d="m 494.10937,62.838541 1.98436,1.984374 -1.98436,1.984376"
+       d="M 4970,610 5000,640 4970,670"
        id="e4_scipark_arrow"
        class="e4 line arrow" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer18"
-     inkscape:label="E7">
+     inkscape:label="E7"
+     transform="translate(0,312.34373)">
     <path
-       d="m 410.10416,205.05208 h 79.375"
+       d="m 4100,2050 h 900"
        id="e7_countess_starcross"
        inkscape:connector-curvature="0"
        class="e7 line q3" />
     <path
-       d="m 487.49481,203.06771 1.98436,1.98437 -1.98436,1.98438"
+       d="m 4970,2020 30,30 -30,30"
        id="e7_arrow"
        class="e7 line arrow" />
     <path
-       d="m 480.8802,185.86978 9.26042,9.26041 -9.92188,9.92188"
+       d="m 4812,1850 100,100 -100,100"
        id="e7_ferry_path"
        class="e7 line ferry" />
   </g>
@@ -486,173 +504,175 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="E9"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,312.34373)">
     <path
        class="e9 straight q2"
-       d="m 410.17316,145.52083 39.61851,1e-5"
+       d="m 4100,1450 h 400"
        id="e9_pynes_digby" />
     <path
        class="e9 line q3"
-       d="m 369.91869,145.52083 h 40.25447"
+       d="m 3700,1450 h 400"
        id="e9_ludwell_pynes" />
     <path
        class="e9 line q2"
-       d="m 330.60917,145.52083 39.30952,0"
+       d="m 3300,1450 h 400"
        id="e9_rde_ludwell" />
     <path
        class="e9 line q2"
-       d="m 291.11066,145.52083 39.49851,0"
+       d="m 2950,1450 h 400"
        id="e9_magc_rde" />
     <path
        class="e9 line q2"
-       d="m 274.51248,135.60622 9.91461,9.91461 h 6.68357"
+       d="m 2750,1350 100,100 h 100"
        id="e9_magrd_magc" />
     <path
        class="e9 line q2"
-       d="m 265.2448,126.33854 9.26768,9.26768"
+       d="m 2650,1250 100,100"
        id="e9_maynrd_magrd" />
     <path
        sodipodi:nodetypes="cc"
        class="e9 line q2 dual_top"
-       d="m 244.73959,125.85164 h 19.84375"
+       d="m 2450,1250 h 200"
        id="e9_southernhay_maynard" />
     <path
        class="e9 line q3 dual_top"
-       d="m 224.89584,125.85164 h 19.84375"
+       d="m 2250,1250 h 200"
        id="e9_cc_southernhay" />
     <path
        class="e9 line q2"
-       d="m 198.43562,105.83333 h 6.61647 l 19.84374,19.84375"
+       d="m 2000,1050 h 50 l 200,200"
        id="e9_central_cc" />
     <path
        class="e9 line q1"
-       d="m 171.9233,105.83333 h 26.51232"
+       d="m 1700,1050 h 300"
        id="e9_college_central" />
     <path
        class="e9 line q1"
-       d="m 145.52083,85.989582 19.84375,19.843748 h 6.55872"
+       d="m 1450,850 200,200 h 50"
        id="e9_davids_college" />
     <path
        class="e9 station_stub"
-       d="m 245.1436,125.85164 v -2.82039"
+       d="m 2454,1250 v -20"
        id="e9_southernhay_stub" />
     <path
        class="e9 station_stub"
-       d="m 273.18229,136.92188 1.32292,-1.32292"
+       d="m 2750,1350 -15,15"
        id="e9_magrd_stub" />
     <path
        class="e9 station_stub"
-       d="m 198.43751,105.83333 c 0,-1.32291 0,-1.32291 0,-1.32291"
+       d="m 2000,1050 v -20"
        id="e9_central_stub" />
     <path
        class="e9 line q2"
-       d="m 463.02083,158.75 v 26.45833"
+       d="m 4650,1600 v 250"
        id="e9_newcourt_topsham" />
     <path
        class="e9 line q2"
-       d="M 449.79166,145.52083 463.02083,158.75"
+       d="m 4500,1450 150,150"
        id="e9_digby_newcourt" />
     <path
        class="e9 station_stub"
-       d="m 465.66667,158.75 h -2.64583"
+       d="m 4650,1600 h 20"
        id="e9_newcourt_stub" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="279"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,312.34373)">
     <path
        class="ncn279 line q1"
        id="279_tedburn_nadder"
-       d="m 36.421066,135.5826 -6.598229,-6.59823" />
+       d="m 350,1300 -50,-50" />
     <path
        class="ncn279 line q1"
        id="279_nadder_redhills"
-       d="M 79.312223,165.36458 H 66.203046 L 36.421066,135.5826" />
+       d="M 800,1650 H 700 L 350,1300" />
     <path
        class="ncn279 line q1"
        id="279_redhills_buddle"
-       d="M 112.38514,165.36458 H 79.312223" />
+       d="M 1100,1650 H 800" />
     <path
        class="ncn279 line q1"
        id="279_buddle_wardrew"
-       d="M 145.52083,165.36458 H 112.38514" />
+       d="M 1450,1650 H 1100" />
     <path
        class="ncn279 line q1"
        id="279_wardrew_bridges"
-       d="M 185.26555,165.36458 H 145.52083" />
+       d="M 1850,1650 H 1450" />
     <path
        class="ncn279 station_stub"
-       d="m 112.50513,165.36458 v -2.64583"
+       d="m 1100,1650 v -20"
        id="279_buddle_stub" />
     <path
        class="ncn279 station_stub"
-       d="m 79.432213,165.36458 v -2.64583"
+       d="m 800,1650 v -20"
        id="279_redhills_stub" />
     <path
        class="ncn279 line arrow"
-       d="m 29.822838,131.63021 v -2.64584 h 2.645833"
+       d="m 300,1300 v -50 h 50"
        id="279_tedburn_arrow" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Centre Link"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,312.34373)">
     <path
        class="central line q1"
        id="cl_bridges_westexe"
-       d="m 185.20832,165.36458 v 6.61459 l 39.6875,39.6875 v 13.22917" />
+       d="m 1850,1650 v 50 l 400,400 v 150" />
     <path
        class="central line q2"
        id="cl_bridges_fore"
-       d="m 185.20833,165.36458 19.84375,-19.84375" />
+       d="m 1850,1650 200,-200" />
     <path
        class="central line q2"
        id="cl_stthom_bridges"
-       d="m 171.97916,178.59375 13.22917,-13.22917" />
+       d="m 1700,1800 150,-150" />
     <path
-       class="central line q3"
+       class="central line q2"
        id="cl_sidwell_cc"
-       d="M 224.89583,85.989583 V 125.67708" />
+       d="m 2250,850 v 400" />
     <path
        class="central line q1"
        id="cl_sidwell_stoke"
-       d="m 264.58333,46.302084 -39.6875,39.687499" />
+       d="M 2650,450 2250,850" />
     <path
        class="central station_stub"
-       d="m 171.97916,178.59375 1.32292,1.32291 v 0"
+       d="m 1700,1800 15,15"
        id="cl_thomas_stub" />
     <path
        class="central station_stub"
-       d="m 224.89583,85.989583 c -1.32291,-1.322917 -1.32291,-1.322917 -1.32291,-1.322917"
+       d="m 2249,860 c -13,-13 -13,-13 -13,-13"
        id="cl_sidwell_stub" />
     <path
        class="central station_stub"
-       d="m 205.05208,145.52083 c -1.32292,-1.32291 -1.32292,-1.32291 -1.32292,-1.32291"
+       d="m 2050,1450 -15,-15"
        id="cl_fore_stub" />
     <path
-       class="central line q3"
-       d="m 205.05208,145.52083 19.84375,-19.84375"
+       class="central line q2"
+       d="m 2050,1450 200,-200"
        id="cl_fore_cc" />
     <path
        class="central line q1"
-       d="m 158.74999,191.82292 13.22916,-13.22917 v 0"
+       d="m 1550,1950 150,-150 v 0"
        id="cl_cowick_thomas" />
     <path
        class="central q2 line"
-       d="m 183.8854,251.35417 h 2.64584"
+       d="m 1825,2500 h 50"
        id="cl_ide_terminus" />
     <g
-       transform="translate(66.145832,87.656269)"
        id="cl_west_ide_grp">
       <path
          id="cl_west_ide_2nd"
-         d="m 119.0625,163.6979 v -6.74833"
+         d="m 1850,2500 v -50"
          class="central line q2" />
       <path
-         d="m 158.75,137.23957 v 19.84375 h -39.6875"
+         d="m 2250,2250 v 200 h -400"
          id="cl_west_ide_1st"
          class="central line q1" />
     </g>
@@ -661,430 +681,434 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Quay"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,312.34373)">
     <path
        class="quayside line q3"
        id="quay_quay_trews"
-       d="m 224.89583,158.75 23.15105,23.15104 v 6.6146" />
+       d="m 2250,1600 250,250 v 50" />
     <path
        class="quayside line q3"
-       d="m 186.53126,165.36458 c 2.20486,-2.20486 4.40971,-4.40973 6.61458,-6.61458 10.58333,0 21.16666,0 31.74999,0"
-       id="quay_bridges_quay" />
+       d="m 1865,1650 50,-50 h 336"
+       id="quay_bridges_quay"
+       sodipodi:nodetypes="ccc" />
     <path
        class="quayside line q2"
-       d="M 224.89583,158.75 V 125.67708"
+       d="M 2250,1600 V 1250"
        id="quay_cc_quay" />
     <path
        class="quayside station_stub"
-       d="m 271.19792,165.36458 c 1.32291,1.32292 1.32291,1.32292 1.32291,1.32292"
+       d="m 2750,1650 15,15"
        id="quay_county_stub" />
     <path
        class="quayside line q2"
        id="quay_mag_county"
-       d="m 271.18877,165.37373 19.8529,-19.8529" />
+       d="m 2750,1650 200,-200" />
     <path
        class="quayside line q2"
        id="quay_trew_county"
-       d="m 248.04688,188.51563 23.14189,-23.1419" />
+       d="m 2500,1900 250,-250" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="Inner Circular"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,312.34373)">
     <path
        class="circle line q1"
        id="ic_rde_duckes"
-       d="m 330.72916,145.52083 v 52.91668" />
+       d="m 3300,1450 v 550" />
     <path
        class="circle line q1"
        id="ic_polsloe_rde"
-       d="m 304.27083,105.83333 26.45833,26.45834 v 13.22916" />
+       d="m 3050,1050 250,250 v 150" />
     <path
        class="circle line q1"
        id="cl_stoke_polsloe"
-       d="m 264.58333,46.302083 v 19.84375 l 39.6875,39.687497" />
+       d="m 2650,450 v 200 l 400,400" />
     <path
        class="circle line q3"
        id="cl_duckes_clapper"
-       d="m 324.10847,205.0582 6.62069,-6.62069" />
+       d="m 3250,2050 50,-50" />
     <path
        class="circle line q3"
        id="cl_clapper_alphbr"
-       d="M 304.29712,224.86955 324.10847,205.0582" />
+       d="m 3050,2250 200,-200" />
     <path
        class="circle line q2"
        id="cl_millers_college"
-       d="m 171.97916,105.83333 -13.22917,13.40372 h -6.61458 l -5.29167,5.11712 -1.32292,1.32291 v 0" />
+       d="m 1700,1050 -100,100 h -50 l -100,100 v 0 0" />
     <path
-       d="m 224.89582,46.476634 h 39.68751"
+       d="m 2250,450 h 400"
        id="circle_penns_stoke"
        class="circle line q3 dual_top" />
     <path
-       d="m 185.20832,46.476634 h 39.6875"
+       d="m 1850,450 h 400"
        id="circle_uni_penns"
        class="circle q2 line dual_top" />
     <g
-       transform="translate(66.145832,87.656266)"
        id="cl_college_uni">
       <path
          class="circle line q1"
-         d="M 119.06251,4.9479038 105.83334,18.177071"
+         d="m 1850,900 -150,150"
          id="cl_college_uni_1st"
          sodipodi:nodetypes="cc" />
       <path
          class="circle line q3"
          id="cl_college_uni_2nd"
-         d="M 119.06251,4.9479038 V -41.354179" />
+         d="M 1850,900 V 450" />
     </g>
     <path
        class="circle line q2"
-       d="m 145.52083,125.67709 v 39.68749"
+       d="m 1450,1250 v 400"
        id="cl_millers_wardrew" />
     <path
        class="circle line q2"
        id="cl_cowickst_barton"
-       d="m 158.74999,191.82292 33.07292,33.07292" />
+       d="m 1550,1950 300,300" />
     <path
        class="circle line q2"
        id="cl_wardrew_cowick"
-       d="m 145.52082,165.36458 v 13.22917 l 13.22917,13.22917" />
+       d="m 1450,1650 v 200 l 100,100" />
     <path
        class="circle station_stub"
        id="cl_barton_stub"
-       d="m 191.82291,224.89584 -1.32292,1.32292" />
+       d="m 1850,2250 -15,15" />
     <path
        class="circle line q3"
        id="cl_barton_west"
-       d="M 224.89583,224.89584 H 191.82291" />
+       d="M 1850,2250 h 400" />
     <g
-       transform="translate(66.145832,87.656266)"
        id="alphington_alphinbrook">
       <path
          class="circle line q3"
-         d="M 218.28126,157.08332 238.1513,137.21328"
+         d="m 2850,2450 200,-200"
          id="alphington_alphinbrook2nd" />
       <path
          class="circle line q3"
-         d="m 198.412,157.08332 h 19.86926"
+         d="m 2650,2450 h 200"
          id="alphington_alphinbrook1st" />
     </g>
     <path
        class="circle line q2"
        id="cl_west_alphington"
-       d="m 224.89583,224.89584 19.84374,19.84375 h 19.81825" />
+       d="m 2250,2250 200,200 h 200" />
     <path
        class="circle station_stub"
-       d="m 264.582,244.35817 c 0,-1.32291 0,-1.32291 0,-1.32291"
+       d="m 2646,2444 c 0,-13 0,-13 0,-13"
        id="cl_alphington_stub" />
     <path
-       d="m 225.28588,46.476635 v -2.645833 0"
+       d="m 2254,450 v -20 0"
        id="cl_penns_stub"
        class="station_stub circle" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer14"
-     inkscape:label="Green Way">
+     inkscape:label="Green Way"
+     transform="translate(0,312.34373)">
     <path
        class="green line q2"
-       d="M 330.72917,46.302083 V 59.53125"
+       d="M 3300,450 V 600"
        id="green_mincing_polsloe" />
     <path
        class="green line q3"
-       d="M 357.1875,85.989583 330.72917,59.53125"
+       d="M 3550,850 3300,600"
        id="green_polsloe_vaughan" />
     <path
        class="green line q1"
-       d="M 370.41667,145.52084 V 99.218749 L 357.1875,85.989583"
+       d="M 3700,1450 V 1000 L 3550,850"
        id="green_vaughan_ludwell" />
     <path
        class="green line q3"
        id="green_ludwell_isca"
-       d="m 350.57628,185.20834 h 13.22581 l 6.61458,-6.61458 v -33.07292" />
+       d="m 3500,1850 h 150 l 50,-50 v -350" />
     <path
        class="green line q3"
        id="green_isca_duckes"
-       d="m 330.72917,198.43751 13.22917,-13.22917 h 6.61794" />
+       d="m 3300,2000 150,-150 h 50" />
     <path
        class="green station_stub"
-       d="m 350.57292,185.20834 v -2.64583"
+       d="m 3500,1850 v -20"
        id="green_isca_stub" />
     <path
        class="green station_stub"
-       d="m 330.72917,59.53125 h -2.64583"
+       d="m 3300,600 h -20"
        id="green_polsloe_stub" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer15"
-     inkscape:label="Mill Link">
+     inkscape:label="Mill Link"
+     transform="translate(0,312.34373)">
     <path
        class="mill line q3"
-       d="m 330.72916,198.4375 h 59.53125"
+       d="m 3300,2000 h 600"
        id="mill_duckes_mill" />
     <path
        class="mill line q2"
        id="mill_mill_countess"
-       d="m 390.26041,198.4375 h 19.84375" />
+       d="m 3900,2000 h 200" />
     <path
        class="mill line q2"
        id="mill_pynes_mill"
-       d="m 410.10416,145.52083 -19.84375,19.84375 v 33.07292" />
+       d="m 4100,1450 -200,200 v 350" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer16"
-     inkscape:label="Sowton Link">
+     inkscape:label="Sowton Link"
+     transform="translate(0,312.34373)">
     <path
        class="sowton line q2"
        id="sowton_vaughan_hill"
-       d="m 357.1875,85.989583 h 52.91667" />
+       d="m 3550,850 h 550" />
     <g
-       transform="translate(66.145848,0.6562689)"
        id="sowton_hill_sowton">
       <path
          class="sowton line q2"
-         d="m 343.95833,85.333318 h 26.45833 l 13.22917,13.229166"
+         d="m 4100,850 h 250 l 150,150"
          id="sowton_hill_sowton1st" />
       <path
          class="sowton line q1"
-         d="M 383.64583,111.78444 V 98.562484"
+         d="M 4500,1100 V 1000"
          id="sowton_hill_sowton2nd" />
     </g>
     <path
        class="sowton line q1"
        id="sowton_sowton_digby"
-       d="M 449.79167,145.52084 V 112.44071" />
+       d="M 4500,1450 v -350" />
     <path
        class="sowton station_stub"
-       d="m 449.79167,112.44792 h 2.64583"
+       d="m 4500,1100 h 20"
        id="sowton_sowton_stub" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer17"
-     inkscape:label="Marsh Barton Link">
+     inkscape:label="Marsh Barton Link"
+     transform="translate(0,312.34373)">
     <path
        class="marsh line q1"
        id="marsh_west_mbw"
-       d="m 264.65233,224.89583 h -39.7565" />
+       d="M 2650,2250 H 2250" />
     <path
        class="marsh line q1"
        id="marsh_mbw_alphinbrk"
-       d="m 304.27083,224.89583 h -39.6185" />
+       d="M 3050,2250 H 2650" />
     <path
        class="marsh line q2"
        id="marsh_alphinbrk_mbe"
-       d="M 357.162,224.89583 H 304.27083" />
+       d="M 3050,2250 h500" />
     <path
        class="marsh station_stub"
-       d="m 264.58333,222.25 v 2.64583 0"
+       d="m 2650,2250 v -20"
        id="marsh_mbw_stub" />
     <path
        class="marsh station_stub"
-       d="m 357.18749,224.89583 v 2.64583"
+       d="m 3550,2250 v20"
        id="marsh_mbe_stub" />
     <g
-       transform="translate(66.145842,0.6562622)"
        id="marsh_mbe_countess">
       <path
          class="marsh line q2"
-         d="M 324.11458,224.23957 H 291.01617"
+         d="M 3900,2250 H 3550"
          id="marsh_mbe_countess1st" />
       <path
          class="marsh line q3"
          id="marsh_mbe_countess2nd"
-         d="m 343.95833,204.39582 c -19.84375,19.84375 -19.84375,19.84375 -19.84375,19.84375" />
+         d="m 4100,2050 c -200,200 -200,200 -200,200" />
     </g>
   </g>
   <g
      inkscape:label="Stations"
      inkscape:groupmode="layer"
      id="stations"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,312.34373)">
     <circle
        id="city_centre_stn"
-       cx="224.89325"
-       cy="125.73376"
-       r="1.984375"
+       cx="2250"
+       cy="1250"
+       r="20"
        class="station" />
     <circle
        id="maynard_stn"
-       cx="264.55438"
-       cy="125.70393"
-       r="1.984375"
+       cx="2650"
+       cy="1250"
+       r="20"
        class="station" />
     <circle
        id="millers_crossing_stn"
-       cx="145.52794"
-       cy="125.77773"
-       r="1.984375"
+       cx="1450"
+       cy="1250"
+       r="20"
        class="station" />
     <circle
        id="station_rd_stn"
-       cx="125.68418"
-       cy="92.669746"
-       r="1.984375"
+       cx="1250"
+       cy="900"
+       r="20"
        class="station" />
     <circle
        id="cowick_st_stn"
-       cx="158.75494"
-       cy="191.84537"
-       r="1.984375"
+       cx="1550"
+       cy="1950"
+       r="20"
        class="station" />
     <circle
        id="stoke_hill_stn"
-       cx="264.58282"
-       cy="46.364384"
-       r="1.984375"
+       cx="2650"
+       cy="450"
+       r="20"
        class="station" />
     <circle
        id="magdelen_court_stn"
-       cx="291.04678"
-       cy="145.60446"
-       r="1.984375"
+       cx="2950"
+       cy="1450"
+       r="20"
        class="station" />
     <circle
        id="trews_weir_stn"
-       cx="248.04613"
-       cy="188.56854"
-       r="1.984375"
+       cx="2500"
+       cy="1900"
+       r="20"
        class="station" />
     <circle
        id="quay_stn"
-       cx="224.89894"
-       cy="158.77844"
-       r="1.984375"
+       cx="2250"
+       cy="1600"
+       r="20"
        class="station" />
     <circle
        id="exe_bridges_stn"
-       cx="185.21326"
-       cy="165.41479"
-       r="1.984375"
+       cx="1850"
+       cy="1650"
+       r="20"
        class="station" />
     <circle
        id="rde_stn"
-       cx="330.73419"
-       cy="145.60446"
-       r="1.984375"
+       cx="3300"
+       cy="1450"
+       r="20"
        class="station" />
     <circle
        id="polsloe_rd_stn"
-       cx="304.26346"
-       cy="105.88589"
-       r="1.984375"
+       cx="3050"
+       cy="1050"
+       r="20"
        class="station" />
     <circle
        id="duckes_meadow_stn"
-       cx="330.73419"
-       cy="198.52113"
-       r="1.984375"
+       cx="3300"
+       cy="2000"
+       r="20"
        class="station" />
     <circle
        id="clapperbrook_ln_stn"
-       cx="324.11963"
-       cy="205.13573"
-       r="1.984375"
+       cx="3250"
+       cy="2050"
+       r="20"
        class="station" />
     <circle
        id="west_exe_stn"
-       cx="224.89508"
-       cy="224.95161"
-       r="1.984375"
+       cx="2250"
+       cy="2250"
+       r="20"
        class="station" />
     <circle
        id="alphin_brook_stn"
-       cx="304.27594"
-       cy="224.97948"
-       r="1.984375"
+       cx="3050"
+       cy="2250"
+       r="20"
        class="station" />
     <circle
        id="exeter_college_stn"
-       cx="171.98625"
-       cy="105.9343"
-       r="1.984375"
+       cx="1700"
+       cy="1050"
+       r="20"
        class="station" />
     <circle
        id="wardrew_rd_stn"
-       cx="145.50806"
-       cy="165.42247"
-       r="1.984375"
+       cx="1450"
+       cy="1650"
+       r="20"
        class="station" />
     <circle
        id="nadderwater_stn"
-       cx="36.363689"
-       cy="135.65236"
-       r="1.984375"
+       cx="350"
+       cy="1300"
+       r="20"
        class="station" />
     <circle
        id="exeter_uni_stn"
-       cx="185.19035"
-       cy="46.361309"
-       r="1.984375"
+       cx="1850"
+       cy="450"
+       r="20"
        class="station" />
     <circle
        id="vaughan_rd_stn"
-       cx="357.16833"
-       cy="86.042145"
-       r="1.984375"
+       cx="3550"
+       cy="850"
+       r="20"
        class="station" />
     <circle
        id="ludwell_valley_stn"
-       cx="370.40933"
-       cy="145.57339"
-       r="1.984375"
+       cx="3700"
+       cy="1450"
+       r="20"
        class="station" />
     <circle
        id="pynes_hill_stn"
-       cx="410.08502"
-       cy="145.57339"
-       r="1.984375"
+       cx="4100"
+       cy="1450"
+       r="20"
        class="station" />
     <circle
        id="digby_sowton_stn"
-       cx="449.80197"
-       cy="145.57333"
-       r="1.984375"
+       cx="4500"
+       cy="1450"
+       r="20"
        class="station" />
     <circle
        id="hill_barton_stn"
-       cx="410.08847"
-       cy="86.042145"
-       r="1.984375"
+       cx="4100"
+       cy="850"
+       r="20"
        class="station" />
     <circle
        id="st_lukes_stn"
-       cx="410.09683"
-       cy="66.221001"
-       r="1.984375"
+       cx="4100"
+       cy="650"
+       r="20"
        class="station" />
     <circle
        id="pinhoe_rd_stn"
-       cx="410.09683"
-       cy="46.354652"
-       r="1.984375"
+       cx="4100"
+       cy="450"
+       r="20"
        class="station" />
     <circle
        id="mincinglake_stn"
-       cx="330.71002"
-       cy="46.354652"
-       r="1.984375"
+       cx="3300"
+       cy="450"
+       r="20"
        class="station" />
     <circle
        id="mill_rd_stn"
-       cx="390.24127"
-       cy="198.49007"
-       r="1.984375"
+       cx="3900"
+       cy="2000"
+       r="20"
        class="station" />
     <path
-       d="m 410.71967,203.09282 c 0.79879,0.26782 1.34138,1.01086 1.35334,1.85327 0.0155,1.09583 -0.8602,1.99679 -1.95602,2.01233 -1.09582,0.0156 -1.99679,-0.86019 -2.01233,-1.95602 v 0 c -0.0119,-0.83873 0.50485,-1.59435 1.29079,-1.88745 l 0.0321,-2.75259 c -0.79492,-0.27914 -1.32691,-1.0298 -1.32691,-1.8723 0,-1.09594 0.88844,-1.98437 1.98437,-1.98437 1.09593,0 1.98438,0.88843 1.98438,1.98437 v 0 c 0,0.83882 -0.52743,1.58703 -1.31744,1.86895 z"
+       d="m 4106.1274,2042.1344 c 8.3075,2.7854 13.9505,10.513 14.0749,19.2739 0.1611,11.3968 -8.9461,20.7668 -20.3426,20.9285 -11.3967,0.1621 -20.7669,-8.946 -20.9284,-20.3426 v 0 c -0.124,-8.723 5.2504,-16.5813 13.4242,-19.6296 l 0.3338,-28.627 c -8.267,-2.9031 -13.7998,-10.71 -13.7998,-19.4721 0,-11.3976 9.2397,-20.6375 20.6375,-20.6375 11.3977,0 20.6376,9.2399 20.6376,20.6375 v 0 c 0,8.7237 -5.4851,16.5052 -13.7015,19.4371 z"
        id="countess_weir_stn"
        class="station" />
     <circle
-       r="1.984375"
-       cy="86.042892"
-       cx="145.50287"
+       r="20"
+       cy="850"
+       cx="1450"
        id="exeter_st_davids_stn"
        class="station" />
   </g>
@@ -1092,1199 +1116,711 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Names"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,312.34373)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="244.5952"
-       y="121.4748"
-       id="text4886"><tspan
-         sodipodi:role="line"
-         id="tspan4884"
-         x="244.5952"
-         y="121.4748"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583">Southernhay</tspan></text>
+       class="place_names al_centre"
+       x="2450"
+       y="1200"
+       id="text4886">Southernhay</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="227.07103"
-       y="131.80272"
-       id="text4886-5"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4"
-         x="227.07103"
-         y="131.80272"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">City Centre</tspan></text>
+       class="place_names"
+       x="2270"
+       y="1313"
+       id="text4886-5">City Centre</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="267.94409"
-       y="127.47166"
-       id="text4886-1"><tspan
-         sodipodi:role="line"
-         id="tspan4884-3"
-         x="267.94409"
-         y="127.47166"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Maynard</tspan></text>
+       class="place_names"
+       x="2690"
+       y="1270"
+       id="text4886-1">Maynard</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="222.78746"
-       y="83.785248"
-       id="text4886-9"><tspan
-         sodipodi:role="line"
-         id="tspan4884-1"
-         x="222.78746"
-         y="83.785248"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">Sidwell St</tspan></text>
+       class="place_names  al_right"
+       x="2230"
+       y="830"
+       id="text4886-9">Sidwell St</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="272.69128"
-       y="141.28905"
-       id="text4886-1-7"><tspan
-         sodipodi:role="line"
-         id="tspan4884-3-7"
-         x="272.69128"
-         y="141.28905"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">Magdalen Rd</tspan></text>
+       class="place_names  al_right"
+       x="2730"
+       y="1413"
+       id="text4886-1-7">Magdalen Rd</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="185.07446"
-       y="132.03957"
-       id="text4886-5-2"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0"
-         x="185.07446"
-         y="132.03957"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583">Iron Bridge</tspan></text>
+       class="place_names al_centre"
+       x="1850"
+       y="1320"
+       id="text4886-5-2">Iron Bridge</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="202.94943"
-       y="143.35793"
-       id="text4886-5-2-6"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9"
-         x="202.94943"
-         y="143.35793"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">Fore St</tspan></text>
+       class="place_names  al_right"
+       x="2030"
+       y="1430"
+       id="text4886-5-2-6">Fore St</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="198.30937"
-       y="103.00972"
-       id="text4886-5-2-4"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-0"
-         x="198.30937"
-         y="103.00972"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583">Exeter Central</tspan></text>
+       class="place_names al_centre"
+       x="2000"
+       y="1000"
+       id="text4886-5-2-4">Exeter Central</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="173.97955"
-       y="111.89262"
-       id="text4886-5-2-67"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-95"
-         x="173.97955"
-         y="111.89262"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Exeter College</tspan></text>
+       class="place_names"
+       x="1720"
+       y="1113"
+       id="text4886-5-2-67">Exeter College</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="148.87495"
-       y="87.768524"
-       id="text4886-5-2-1"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-06"
-         x="148.87495"
-         y="87.768524"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Exeter St Davids</tspan></text>
+       class="place_names"
+       x="1490"
+       y="870"
+       id="text4886-5-2-1">Exeter St Davids</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="183.08743"
-       y="44.108845"
-       id="text4886-9-7"><tspan
-         sodipodi:role="line"
-         id="tspan4884-1-8"
-         x="183.08743"
-         y="44.108845"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">Exeter University</tspan></text>
+       class="place_names al_right"
+       x="1830"
+       y="430"
+       id="text4886-9-7">Exeter University</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="141.7588"
-       y="126.7406"
-       id="text4886-5-2-6-3"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-7"
-         x="141.7588"
-         y="126.7406"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">Miller's Crossing</tspan></text>
+       class="place_names al_right"
+       x="1430"
+       y="1313"
+       id="text4886-5-2-6-3">Miller's Crossing</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="123.38189"
-       y="90.056152"
-       id="text4886-5-2-6-4"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-8"
-         x="123.38189"
-         y="90.056152"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">Station Rd</tspan></text>
+       class="place_names  al_right"
+       x="1230"
+       y="880"
+       id="text4886-5-2-6-4">Station Rd</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="187.255"
-       y="171.45747"
-       id="text4886-5-9"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-7"
-         x="187.255"
-         y="171.45747"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Exe Bridges</tspan></text>
+       class="place_names"
+       x="1870"
+       y="1713"
+       id="text4886-5-9">Exe Bridges</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="173.76373"
-       y="184.30116"
-       id="text4886-5-7"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-1"
-         x="173.76373"
-         y="184.30116"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">St Thomas</tspan></text>
+       class="place_names"
+       x="1720"
+       y="1863"
+       id="text4886-5-7">St Thomas</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.93889px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="156.41881"
-       y="197.43671"
-       id="text4886-5-2-6-3-4"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-7-9"
-         x="156.41881"
-         y="197.43671"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.93889px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">Cowick St</tspan></text>
+       class="place_names al_right"
+       x="1530"
+       y="2013"
+       id="text4886-5-2-6-3-4">Cowick St</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="244.31844"
-       y="190.29889"
-       id="text4886-5-2-6-7"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-73"
-         x="244.31844"
-         y="190.29889"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">Trews Weir</tspan></text>
+       class="place_names  al_right"
+       x="2480"
+       y="1963"
+       id="text4886-5-2-6-7">Trews Weir</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="232.9801"
-       y="180.91205"
-       id="text4886-5-2-6-2"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-4"
-         x="232.9801"
-         y="180.91205"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">Haven Banks</tspan></text>
+       class="place_names  al_right"
+       x="2330"
+       y="1813"
+       id="text4886-5-2-6-2">Haven Banks</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.93889px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="228.36502"
-       y="160.18678"
-       id="text4886-5-8"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-3"
-         x="228.36502"
-         y="160.18678"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.93889px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Quay</tspan></text>
+       class="place_names"
+       x="2270"
+       y="1580"
+       id="text4886-5-8">Quay</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="272.96701"
-       y="171.10571"
-       id="text4886-1-6"><tspan
-         sodipodi:role="line"
-         id="tspan4884-3-6"
-         x="272.96701"
-         y="171.10571"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">County Hall</tspan></text>
+       class="place_names"
+       x="2770"
+       y="1713"
+       id="text4886-1-6">County Hall</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="293.11743"
-       y="151.67574"
-       id="text4886-1-6-5"><tspan
-         sodipodi:role="line"
-         id="tspan4884-3-6-9"
-         x="293.11743"
-         y="151.67574"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Magdalen Court</tspan></text>
+       class="place_names"
+       x="2970"
+       y="1513"
+       id="text4886-1-6-5">Magdalen Court</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="326.30057"
-       y="211.19377"
-       id="text4886-1-6-7"><tspan
-         sodipodi:role="line"
-         id="tspan4884-3-6-5"
-         x="326.30057"
-         y="211.19377"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Clapperbrook Lane</tspan></text>
+       class="place_names"
+       x="3270"
+       y="2113"
+       id="text4886-1-6-7">Clapperbrook Lane</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.93889px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="328.19559"
-       y="195.74887"
-       id="text4886-9-5"><tspan
-         sodipodi:role="line"
-         id="tspan4884-1-9"
-         x="328.19559"
-         y="195.74887"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.93889px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">Duckes Meadow</tspan></text>
+       class="place_names  al_right"
+       x="3280"
+       y="1980"
+       id="text4886-9-5">Duckes Meadow</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="190.04352"
-       y="230.67107"
-       id="text4886-5-2-6-2-5"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-4-9"
-         x="190.04352"
-         y="230.67107"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">Cowick Barton</tspan></text>
+       class="place_names  al_right"
+       x="1830"
+       y="2313"
+       id="text4886-5-2-6-2-5">Cowick Barton</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="222.68312"
-       y="230.97261"
-       id="text4886-5-2-6-2-5-9"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-4-9-3"
-         x="222.68312"
-         y="230.97261"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">West Exe</tspan></text>
+       class="place_names"
+       x="2250"
+       y="2300"
+       id="text4886-5-2-6-2-5-9">West Exe</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="264.61755"
-       y="241.71159"
-       id="text4886-6"><tspan
-         sodipodi:role="line"
-         id="tspan4884-2"
-         x="264.61755"
-         y="241.71159"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583">Alphington</tspan></text>
+       class="place_names  al_centre"
+       x="2650"
+       y="2400"
+       id="text4886-6">Alphington</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="306.56839"
-       y="230.99197"
-       id="text4886-9-5-1"><tspan
-         sodipodi:role="line"
-         id="tspan4884-1-9-2"
-         x="306.56839"
-         y="230.99197"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Alphin Brook</tspan></text>
+       class="place_names"
+       x="3050"
+       y="2313"
+       id="text4886-9-5-1">Alphin Brook</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="332.83307"
-       y="142.89662"
-       id="text4886-1-6-6"><tspan
-         sodipodi:role="line"
-         id="tspan4884-3-6-50"
-         x="332.83307"
-         y="142.89662"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">RD&amp;E</tspan></text>
+       class="place_names"
+       x="3320"
+       y="1430"
+       id="text4886-1-6-6">RD&amp;E</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="306.29294"
-       y="103.21865"
-       id="text4886-5-88"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-71"
-         x="306.29294"
-         y="103.21865"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Polsloe Rd</tspan></text>
+       class="place_names"
+       x="3070"
+       y="1030"
+       id="text4886-5-88">Polsloe Rd</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="143.29803"
-       y="171.53864"
-       id="text4886-5-2-6-3-4-1"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-7-9-0"
-         x="143.29803"
-         y="171.53864"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">Wardrew Rd</tspan></text>
+       class="place_names  al_right"
+       x="1430"
+       y="1713"
+       id="text4886-5-2-6-3-4-1">Wardrew Rd</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="112.31406"
-       y="161.30701"
-       id="text4886-5-2-0"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-2"
-         x="112.31406"
-         y="161.30701"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583">Buddle Ln</tspan></text>
+       class="place_names al_centre"
+       x="1100"
+       y="1600"
+       id="text4886-5-2-0">Buddle Ln</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="79.264763"
-       y="161.25977"
-       id="text4886-5-2-9"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-03"
-         x="79.264763"
-         y="161.25977"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583">Redhills</tspan></text>
+       class="place_names al_centre"
+       x="800"
+       y="1600"
+       id="text4886-5-2-9">Redhills</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="85.881378"
-       y="88.559792"
-       id="text4886-5-2-9-3"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-03-0"
-         x="85.881378"
-         y="88.559792"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583">Exwick</tspan></text>
+       class="place_names al_centre"
+       x="850"
+       y="850"
+       id="text4886-5-2-9-3">Exwick</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="39.756901"
-       y="137.36856"
-       id="text4886-5-0"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-36"
-         x="39.756901"
-         y="137.36856"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Nadderwater</tspan></text>
+       class="place_names"
+       x="390"
+       y="1320"
+       id="text4886-5-0">Nadderwater</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="67.768486"
-       y="111.51505"
-       id="text4886-5-0-7"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-36-2"
-         x="67.768486"
-         y="111.51505"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Exwick Heights</tspan></text>
+       class="place_names"
+       x="670"
+       y="1063"
+       id="text4886-5-0-7">Exwick Heights</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="185.24255"
-       y="256.49619"
-       id="text4886-6-4"><tspan
-         sodipodi:role="line"
-         id="tspan4884-2-4"
-         x="185.24255"
-         y="256.49619"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583">Ide</tspan></text>
+       class="place_names al_centre"
+       x="1850"
+       y="2570"
+       id="text4886-6-4">Ide</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="450.10641"
-       y="262.33713"
-       id="text4886-9-5-1-5"><tspan
-         sodipodi:role="line"
-         id="tspan4884-1-9-2-4"
-         x="450.10641"
-         y="262.33713"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Exminster</tspan></text>
+       class="place_names"
+       x="4520"
+       y="2613"
+       id="text4886-9-5-1-5">Exminster</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="326.76105"
-       y="61.305145"
-       id="text4886-9-5-4"><tspan
-         sodipodi:role="line"
-         id="tspan4884-1-9-20"
-         x="326.76105"
-         y="61.305145"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">Polsloe Bridge</tspan></text>
+       class="place_names  al_right"
+       x="3260"
+       y="620"
+       id="text4886-9-5-4">Polsloe Bridge</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="424.95255"
-       y="38.778755"
-       id="text4886-5-88-2"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-71-3"
-         x="424.95255"
-         y="38.778755"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Pinhoe Stn</tspan></text>
+       class="place_names"
+       x="4270"
+       y="364"
+       id="text4886-5-88-2">Pinhoe Stn</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="438.13815"
-       y="25.536217"
-       id="text4886-5-88-4"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-71-9"
-         x="438.13815"
-         y="25.536217"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Pinhoe</tspan></text>
+       class="place_names"
+       x="4370"
+       y="263"
+       id="text4886-5-88-4">Pinhoe</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="453.44382"
-       y="113.99096"
-       id="text4886-5-88-46"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-71-7"
-         x="453.44382"
-         y="113.99096"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Sowton</tspan></text>
+       class="place_names"
+       x="4540"
+       y="1120"
+       id="text4886-5-88-46">Sowton</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="466.6297"
-       y="160.71211"
-       id="text4886-5-88-6"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-71-71"
-         x="466.6297"
-         y="160.71211"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Newcourt</tspan></text>
+       class="place_names"
+       x="4690"
+       y="1620"
+       id="text4886-5-88-6">Newcourt</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="387.9906"
-       y="195.89055"
-       id="text4886-5-2-6-5"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-2"
-         x="387.9906"
-         y="195.89055"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">Mill Rd</tspan></text>
+       class="place_names  al_right"
+       x="3880"
+       y="1980"
+       id="text4886-5-2-6-5">Mill Rd</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="412.20999"
-       y="142.97311"
-       id="text4886-5-88-6-1"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-71-71-3"
-         x="412.20999"
-         y="142.97311"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Pynes Hill</tspan></text>
+       class="place_names"
+       x="4120"
+       y="1430"
+       id="text4886-5-88-6-1">Pynes Hill</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="372.62"
-       y="142.89986"
-       id="text4886-5-88-6-6"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-71-71-6"
-         x="372.62"
-         y="142.89986"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Ludwell Valley</tspan></text>
+       class="place_names"
+       x="3720"
+       y="1430"
+       id="text4886-5-88-6-6">Ludwell Valley</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="353.75015"
-       y="87.771835"
-       id="text4886-5-2-6-5-6"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-2-5"
-         x="353.75015"
-         y="87.771835"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">Vaughan Rd</tspan></text>
+       class="place_names al_right"
+       x="3510"
+       y="870"
+       id="text4886-5-2-6-5-6">Vaughan Rd</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="407.74603"
-       y="43.788593"
-       id="text4886-5-2-6-5-8"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-2-1"
-         x="407.74603"
-         y="43.788593"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">Pinhoe Rd</tspan></text>
+       class="place_names al_right"
+       x="4080"
+       y="430"
+       id="text4886-5-2-6-5-8">Pinhoe Rd</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="407.81085"
-       y="63.5839"
-       id="text4886-5-2-6-5-86"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-2-6"
-         x="407.81085"
-         y="63.5839"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">St Lukes</tspan></text>
+       class="place_names  al_right"
+       x="4080"
+       y="630"
+       id="text4886-5-2-6-5-86">St Lukes</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="407.84799"
-       y="83.460548"
-       id="text4886-5-2-6-5-1"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-2-13"
-         x="407.84799"
-         y="83.460548"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">Hill Barton</tspan></text>
+       class="place_names  al_right"
+       x="4080"
+       y="840"
+       id="text4886-5-2-6-5-1">Hill Barton</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="449.70639"
-       y="53.923389"
-       id="text4886-7"><tspan
-         sodipodi:role="line"
-         id="tspan4884-0"
-         x="449.70639"
-         y="53.923389"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583">Monkerton</tspan></text>
+       class="place_names al_centre"
+       x="4500"
+       y="520"
+       id="text4886-7">Monkerton</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="412.3157"
-       y="211.2023"
-       id="text4886-1-6-7-8"><tspan
-         sodipodi:role="line"
-         id="tspan4884-3-6-5-7"
-         x="412.3157"
-         y="211.2023"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Countess Weir</tspan></text>
+       class="place_names"
+       x="4120"
+       y="2113"
+       id="text4886-1-6-7-8">Countess Weir</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="264.43893"
-       y="220.69353"
-       id="text4886-98"><tspan
-         sodipodi:role="line"
-         id="tspan4884-41"
-         x="264.43893"
-         y="220.69353"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583">Marsh Barton West</tspan></text>
+       class="place_names al_centre"
+       x="2650"
+       y="2200"
+       id="text4886-98">Marsh Barton West</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="357.04312"
-       y="232.55254"
-       id="text4886-75"><tspan
-         sodipodi:role="line"
-         id="tspan4884-8"
-         x="357.04312"
-         y="232.55254"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583">Marsh Barton East</tspan></text>
+       class="place_names al_centre"
+       x="3550"
+       y="2320"
+       id="text4886-75">Marsh Barton East</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="330.64386"
-       y="42.359634"
-       id="text4886-57-2"><tspan
-         sodipodi:role="line"
-         x="330.64386"
-         y="42.359634"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
-         id="tspan6956">Mincinglake</tspan></text>
+       class="place_names al_centre"
+       x="3300"
+       y="400"
+       id="text4886-57-2">Mincinglake</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="451.92111"
-       y="142.99673"
-       id="text4886-5-88-6-1-2"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-71-71-3-8"
-         x="451.92111"
-         y="142.99673"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Digby Sowton</tspan></text>
+       class="place_names"
+       x="4540"
+       y="1470"
+       id="text4886-5-88-6-1-2">Digby Sowton</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="350.51126"
-       y="181.04144"
-       id="text4886-7-4"><tspan
-         sodipodi:role="line"
-         id="tspan4884-0-3"
-         x="350.51126"
-         y="181.04144"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583">Isca Academy</tspan></text>
+       class="place_names al_centre"
+       x="3500"
+       y="1800"
+       id="text4886-7-4">Isca Academy</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="491.85565"
-       y="196.67322"
-       id="text4886-5-88-6-2"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-71-71-1"
-         x="491.85565"
-         y="196.67322"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Ferry (tidal)</tspan></text>
+       class="place_names"
+       x="4952"
+       y="1970"
+       id="text4886-5-88-6-2">Ferry (tidal)</text>
+    <text
+       class="place_names al_left"
+       xml:space="preserve"
+       x="4414.6445"
+       y="136.36549"
+       id="text_broadclyst">Broadclyst</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="444.18332"
-       y="11.838068"
-       id="text4886-7-47"><tspan
-         sodipodi:role="line"
-         id="tspan4884-0-4"
-         x="444.18332"
-         y="11.838068"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Broadclyst</tspan></text>
+       class="place_names  al_right"
+       x="280"
+       y="1230"
+       id="text4886-5-2-6-3-9">Tedburn</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="28.727705"
-       y="127.86813"
-       id="text4886-5-2-6-3-9"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-7-4"
-         x="28.727707"
-         y="127.86813"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">Tedburn St Mary</tspan></text>
+       class="place_names al_centre"
+       x="2650"
+       y="400"
+       id="text4886-4-4">Stoke Hill</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="264.54483"
-       y="42.546978"
-       id="text4886-4-4"><tspan
+       class="place_names al_centre"
+       x="3300"
+       y="1120"
+       id="text4886-4-4-3"
+       style="line-height:0.9"><tspan
          sodipodi:role="line"
-         id="tspan4884-9-0"
-         x="264.54483"
-         y="42.546978"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583">Stoke Hill</tspan></text>
+         id="tspan1032"
+         x="3300"
+         y="1150">Heavitree Pleasure</tspan><tspan
+         sodipodi:role="line"
+         id="tspan1034"
+         x="3300"
+         y="1204">Grounds</tspan></text>
     <text
+       style="line-height:0.95"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:0.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="330.65524"
-       y="113.50711"
-       id="text4886-4-4-3"><tspan
-         sodipodi:role="line"
-         x="330.65524"
-         y="113.50711"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
-         id="tspan5786">Heavitree Pleasure</tspan><tspan
-         sodipodi:role="line"
-         x="330.65524"
-         y="117.74044"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:0;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
-         id="tspan5790">Grounds</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:0.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="370.33093"
-       y="37.986446"
+       class="place_names al_centre"
+       x="3703.7144"
+       y="339.42856"
        id="text4886-4-4-3-1"><tspan
-         sodipodi:role="line"
-         x="370.33093"
-         y="37.986446"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
-         id="tspan5786-0">Exeter Arena</tspan><tspan
-         sodipodi:role="line"
-         x="370.33093"
-         y="42.219776"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:0;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
-         id="tspan5790-5">&amp; St James</tspan></text>
+         y="339.42856"
+         x="3703.7144"
+         id="tspan682"
+         sodipodi:role="line">Exeter Arena</tspan><tspan
+         y="405.92856"
+         x="3703.7144"
+         id="tspan684"
+         sodipodi:role="line">&amp; St James</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="224.74048"
-       y="42.25309"
-       id="text4886-4"><tspan
-         sodipodi:role="line"
-         id="tspan4884-9"
-         x="224.74048"
-         y="42.25309"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583">Pennsylvania</tspan></text>
+       class="place_names al_centre"
+       x="2250"
+       y="400"
+       id="text4886-4">Pennsylvania</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:0.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="499.17361"
-       y="184.90105"
+       class="place_names"
+       x="5040"
+       y="1870"
        id="text4886-4-4-3-1-0-0"><tspan
          sodipodi:role="line"
-         x="499.17361"
-         y="184.90105"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
-         id="tspan5786-0-9-8">Topsham</tspan><tspan
-         sodipodi:role="line"
-         x="499.17361"
-         y="189.13438"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:0;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
-         id="tspan5790-5-9-1">&amp; Exmouth</tspan></text>
+         id="tspan1039"
+         x="5040"
+         y="1870">Topsham &amp; Exmouth</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:0.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="500.18942"
-       y="204.7448"
-       id="text4886-4-4-3-1-0-9"><tspan
-         sodipodi:role="line"
-         x="500.18942"
-         y="204.7448"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-         id="tspan5786-0-9-1">Starcross</tspan><tspan
-         sodipodi:role="line"
-         x="500.18942"
-         y="208.97813"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:0;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-         id="tspan5790-5-9-0">&amp; Dawlish</tspan></text>
+       class="place_names"
+       x="5040"
+       y="2070"
+       id="text4886-4-4-3-1-0-9">Starcross &amp; Dawlish</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:0.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="507.75366"
-       y="65.082626"
-       id="text4886-4-4-3-1-0"><tspan
-         sodipodi:role="line"
-         x="507.75366"
-         y="65.082626"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
-         id="tspan5786-0-9">Science Park</tspan><tspan
-         sodipodi:role="line"
-         x="507.75366"
-         y="69.315956"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:0;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
-         id="tspan5790-5-9">&amp; Cranbrook</tspan></text>
+       class="place_names"
+       x="5040"
+       y="660"
+       id="text4886-4-4-3-1-0">Science Park &amp; Cranbrook</text>
     <g
-       transform="matrix(0.04337432,0,0,0.04337432,176.56601,85.088244)"
-       style="fill:none;stroke:#ed1c24"
-       id="g7264">
-      <path
-         style="stroke-width:6"
-         inkscape:connector-curvature="0"
-         d="M 1,-8.9 46,12.4 16,26.6 61,47.9"
-         id="path7260" />
-      <path
-         style="stroke-width:6.4"
-         inkscape:connector-curvature="0"
-         d="m 0,12.4 h 62 m 0,14.2 H 0"
-         id="path7262" />
-    </g>
-    <g
-       transform="matrix(0.04337432,0,0,0.04337432,210.96185,100.26624)"
        style="display:inline;fill:none;stroke:#ed1c24"
-       id="g7264-7">
+       id="nat_rail"
+       transform="matrix(0.06442102,0,0,0.06442102,1783.14,837.41557)">
       <path
-         style="stroke-width:6"
+         style="stroke-width:35"
          inkscape:connector-curvature="0"
-         d="M 1,-8.9 46,12.4 16,26.6 61,47.9"
-         id="path7260-6" />
-      <path
-         style="stroke-width:6.4"
-         inkscape:connector-curvature="0"
-         d="m 0,12.4 h 62 m 0,14.2 H 0"
-         id="path7262-9" />
-    </g>
-    <g
-       transform="matrix(0.04337432,0,0,0.04337432,299.89252,58.606193)"
-       style="display:inline;fill:none;stroke:#ed1c24"
-       id="g7264-7-3">
-      <path
-         style="stroke-width:6"
-         inkscape:connector-curvature="0"
-         d="M 1,-8.9 46,12.4 16,26.6 61,47.9"
-         id="path7260-6-8" />
-      <path
-         style="stroke-width:6.4"
-         inkscape:connector-curvature="0"
-         d="m 0,12.4 h 62 m 0,14.2 H 0"
-         id="path7262-9-9" />
-    </g>
-    <g
-       transform="matrix(0.04337432,0,0,0.04337432,443.66288,36.104783)"
-       style="display:inline;fill:none;stroke:#ed1c24"
-       id="g7264-7-4">
-      <path
-         style="stroke-width:6"
-         inkscape:connector-curvature="0"
-         d="M 1,-8.9 46,12.4 16,26.6 61,47.9"
-         id="path7260-6-7" />
-      <path
-         style="stroke-width:6.4"
-         inkscape:connector-curvature="0"
-         d="m 0,12.4 h 62 m 0,14.2 H 0"
-         id="path7262-9-7" />
-    </g>
-    <g
-       transform="matrix(0.04337432,0,0,0.04337432,474.9458,139.96376)"
-       style="display:inline;fill:none;stroke:#ed1c24"
-       id="g7264-7-1">
-      <path
-         style="stroke-width:6"
-         inkscape:connector-curvature="0"
-         d="M 1,-8.9 46,12.4 16,26.6 61,47.9"
+         d="M 0,-100 450,100 150,250 600,500"
          id="path7260-6-3" />
       <path
-         style="stroke-width:6.4"
+         style="stroke-width:45"
          inkscape:connector-curvature="0"
-         d="m 0,12.4 h 62 m 0,14.2 H 0"
+         d="m 0,100 h 600 m 0,150 H 0"
          id="path7262-9-4" />
-    </g>
-    <g
-       transform="matrix(0.04337432,0,0,0.04337432,180.53477,185.46209)"
-       style="display:inline;fill:none;stroke:#ed1c24"
-       id="g7264-7-33">
-      <path
-         style="stroke-width:6"
-         inkscape:connector-curvature="0"
-         d="M 1,-8.9 46,12.4 16,26.6 61,47.9"
-         id="path7260-6-9" />
-      <path
-         style="stroke-width:6.4"
-         inkscape:connector-curvature="0"
-         d="m 0,12.4 h 62 m 0,14.2 H 0"
-         id="path7262-9-5" />
-    </g>
-    <g
-       transform="matrix(0.04337432,0,0,0.04337432,509.82292,186.31253)"
-       style="display:inline;fill:none;stroke:#ed1c24"
-       id="network_rail_icon">
-      <path
-         style="stroke-width:6"
-         inkscape:connector-curvature="0"
-         d="M 1,-8.9 46,12.4 16,26.6 61,47.9"
-         id="path7260-6-5" />
-      <path
-         style="stroke-width:6.4"
-         inkscape:connector-curvature="0"
-         d="m 0,12.4 h 62 m 0,14.2 H 0"
-         id="path7262-9-2" />
-    </g>
-    <g
-       transform="matrix(0.04337432,0,0,0.04337432,509.27957,206.49647)"
-       style="display:inline;fill:none;stroke:#ed1c24"
-       id="g7264-7-14">
-      <path
-         style="stroke-width:6"
-         inkscape:connector-curvature="0"
-         d="M 1,-8.9 46,12.4 16,26.6 61,47.9"
-         id="path7260-6-0" />
-      <path
-         style="stroke-width:6.4"
-         inkscape:connector-curvature="0"
-         d="m 0,12.4 h 62 m 0,14.2 H 0"
-         id="path7262-9-3" />
-    </g>
-    <g
-       transform="matrix(0.04337432,0,0,0.04337432,509.27957,202.26313)"
-       style="display:inline;fill:none;stroke:#ed1c24"
-       id="g7264-7-0">
-      <path
-         style="stroke-width:6"
-         inkscape:connector-curvature="0"
-         d="M 1,-8.9 46,12.4 16,26.6 61,47.9"
-         id="path7260-6-6" />
-      <path
-         style="stroke-width:6.4"
-         inkscape:connector-curvature="0"
-         d="m 0,12.4 h 62 m 0,14.2 H 0"
-         id="path7262-9-94" />
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:0.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="406.07993"
-       y="112.18789"
-       id="text4886-4-4-3-1-07"><tspan
+       class="place_names  al_right"
+       x="4060"
+       y="1110"
+       id="text4886-4-4-3-1-07"
+       style="line-height:0.95"><tspan
          sodipodi:role="line"
-         x="406.07993"
-         y="112.18789"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583"
-         id="tspan5786-0-6">Middlemoor</tspan><tspan
+         id="tspan1043"
+         x="4050"
+         y="1100">Middlemoor</tspan><tspan
          sodipodi:role="line"
-         x="406.07993"
-         y="116.42122"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:0;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583"
-         id="tspan5790-5-4">&amp; St Peters</tspan></text>
+         id="tspan1045"
+         x="4050"
+         y="1157">&amp; St Peters</tspan></text>
     <use
        x="0"
-       y="-3.5"
-       xlink:href="#network_rail_icon"
-       id="use592"
+       y="0"
+       xlink:href="#nat_rail"
+       id="use1068"
+       transform="translate(341.80388,130.49781)"
+       width="100%"
+       height="100%" />
+    <use
+       x="1180"
+       xlink:href="#nat_rail"
+       id="use1070"
+       y="-250" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#nat_rail"
+       id="use1072"
+       transform="translate(120.45952,991.78337)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#nat_rail"
+       id="use1076"
+       transform="translate(2678.2166,-501.91466)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#nat_rail"
+       id="use1078"
+       transform="translate(2995.4267,602.29759)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#nat_rail"
+       id="use1080"
+       transform="translate(3621.8162,1003.8293)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#nat_rail"
+       id="use1082"
+       transform="translate(3605.7549,1204.5952)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#nat_rail"
+       id="use1084"
+       transform="translate(3075.7484,752.87965)"
        width="100%"
        height="100%" />
   </g>
   <g
      inkscape:label="Key"
      id="layer1"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(0,312.34373)">
     <path
        style="display:inline"
-       d="m 15.92417,181.64654 c 13.229161,0 13.229161,0 13.229161,0"
+       d="m 150,1825 h150"
        id="e1_key"
        class="e1 line q3 key" />
     <path
-       d="M 15.92417,188.26113 H 29.153331"
+       d="M 150,1875 H 300"
        id="e2_key"
        inkscape:connector-curvature="0"
        class="e2 line q3 key" />
     <path
-       style="display:inline"
-       d="M 29.153331,194.87571 H 15.92417"
+       d="M 300,1925 H 150"
        id="e3_key"
        class="e3 line key q3" />
     <path
        style="display:inline"
-       d="M 15.92417,201.4903 H 29.153331"
+       d="M 150,1975 H 300"
        id="e4_key"
        class="e4 q3 line key" />
     <path
-       d="M 15.92417,208.10488 H 29.153331"
+       d="M 150,2025 H 300"
        id="e7_key"
        class="e7 line q3 key" />
     <path
        style="display:inline"
        class="e9 line key q3"
-       d="M 29.153331,214.71947 H 15.92417"
+       d="M 300,2075 H 150"
        id="e9_key"
        inkscape:connector-curvature="0" />
     <path
        style="display:inline"
        class="ncn279 line q3 key"
-       d="M 15.92417,221.33405 H 29.153331"
+       d="M 150,2125 H 300"
        id="279_key" />
     <path
        style="display:inline"
        class="central line q3 key"
-       d="M 29.153331,227.94863 H 15.92417"
+       d="M 300,2175 H 150"
        id="path593" />
     <path
        class="quayside line q3 key"
-       d="M 29.153331,234.56321 H 15.92417"
+       d="M 300,2225 H 150"
        id="quay_key" />
     <path
        style="display:inline"
        class="circle line q3 key"
-       d="M 29.153331,261.02155 H 15.92417"
+       d="M 300,2425 H 150"
        id="cl_key" />
     <path
        class="green line q3 key"
-       d="M 15.92417,241.1778 H 29.153331"
+       d="M 150,2275 H 300"
        id="green_key" />
     <path
        class="mill line q3 key"
-       d="M 15.92417,247.79238 H 29.153331"
+       d="M 150,2325 H 300"
        id="mill_key"
        inkscape:connector-curvature="0" />
     <path
        class="sowton line q3 key"
-       d="M 15.92417,254.40697 H 29.153331"
+       d="M 150,2375 H 300"
        id="sowton_key" />
     <path
        class="marsh line q3 key"
-       d="M 15.92417,267.63615 H 28.491873"
+       d="M 150,2475 H 300"
        id="marsh_key" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="35.488857"
-       y="183.29391"
-       id="text4886-5-2-6-3-4-9"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-7-9-00"
-         x="35.488857"
-         y="183.29391"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">E1</tspan></text>
+       class="place_names"
+       x="350"
+       y="1850"
+       id="text4886-5-2-6-3-4-9">E1</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="35.477047"
-       y="189.92621"
-       id="text4886-5-2-6-3-4-9-7"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-7-9-00-7"
-         x="35.477047"
-         y="189.92621"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">E2</tspan></text>
+       class="place_names"
+       x="350"
+       y="1900"
+       id="text4886-5-2-6-3-4-9-7">E2</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="35.483471"
-       y="196.51247"
-       id="text4886-5-2-6-3-4-9-9"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-7-9-00-4"
-         x="35.483471"
-         y="196.51247"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">E3</tspan></text>
+       class="place_names"
+       x="350"
+       y="1950"
+       id="text4886-5-2-6-3-4-9-9">E3</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="35.483467"
-       y="203.1566"
-       id="text4886-5-2-6-3-4-9-7-5"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-7-9-00-7-9"
-         x="35.483467"
-         y="203.1566"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">E4</tspan></text>
+       class="place_names"
+       x="350"
+       y="2000"
+       id="text4886-5-2-6-3-4-9-7-5">E4</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="35.479427"
-       y="209.72618"
-       id="text4886-5-2-6-3-4-9-3"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-7-9-00-8"
-         x="35.479427"
-         y="209.72618"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">E7</tspan></text>
+       class="place_names"
+       x="350"
+       y="2050"
+       id="text4886-5-2-6-3-4-9-3">E7</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="35.485329"
-       y="216.38799"
-       id="text4886-5-2-6-3-4-9-7-2"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-7-9-00-7-3"
-         x="35.485329"
-         y="216.38799"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">E9</tspan></text>
+       class="place_names"
+       x="350"
+       y="2100"
+       id="text4886-5-2-6-3-4-9-7-2">E9</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="35.474041"
-       y="222.97426"
-       id="text4886-5-2-6-3-4-9-9-9"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-7-9-00-4-5"
-         x="35.474041"
-         y="222.97426"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">NCN 279</tspan></text>
+       class="place_names"
+       x="350"
+       y="2150"
+       id="text4886-5-2-6-3-4-9-9-9">NCN 279</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="35.609856"
-       y="229.60065"
-       id="text4886-5-2-6-3-4-9-7-5-8"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-7-9-00-7-9-5"
-         x="35.609856"
-         y="229.60065"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Central Link</tspan></text>
+       class="place_names"
+       x="350"
+       y="2200"
+       id="text4886-5-2-6-3-4-9-7-5-8">Central Link</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="35.613911"
-       y="236.20642"
-       id="text4886-5-2-6-3-4-9-7-5-8-3"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-7-9-00-7-9-5-8"
-         x="35.613911"
-         y="236.20642"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Quayside</tspan></text>
+       class="place_names"
+       x="350"
+       y="2250"
+       id="text4886-5-2-6-3-4-9-7-5-8-3">Quayside</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="35.611828"
-       y="242.85304"
-       id="text4886-5-2-6-3-4-9-7-5-8-4"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-7-9-00-7-9-5-2"
-         x="35.611828"
-         y="242.85304"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Green Way</tspan></text>
+       class="place_names"
+       x="350"
+       y="2300"
+       id="text4886-5-2-6-3-4-9-7-5-8-4">Green Way</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="35.488705"
-       y="249.47421"
-       id="text4886-5-2-6-3-4-9-7-5-8-3-9"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-7-9-00-7-9-5-8-0"
-         x="35.488705"
-         y="249.47421"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Mill Link</tspan></text>
+       class="place_names"
+       x="350"
+       y="2350"
+       id="text4886-5-2-6-3-4-9-7-5-8-3-9">Mill Link</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="35.610115"
-       y="256.04865"
-       id="text4886-5-2-6-3-4-9-7-5-8-9"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-7-9-00-7-9-5-0"
-         x="35.610115"
-         y="256.04865"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Sowton Link</tspan></text>
+       class="place_names"
+       x="350"
+       y="2400"
+       id="text4886-5-2-6-3-4-9-7-5-8-9">Sowton Link</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="35.611576"
-       y="262.66522"
-       id="text4886-5-2-6-3-4-9-7-5-8-9-1"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-7-9-00-7-9-5-0-4"
-         x="35.611576"
-         y="262.66522"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Circle</tspan></text>
+       class="place_names"
+       x="350"
+       y="2450"
+       id="text4886-5-2-6-3-4-9-7-5-8-9-1">Circle</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="15.645112"
-       y="176.67934"
-       id="text4886-5-2-6-3-4-9-96"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-7-9-00-5"
-         x="15.645112"
-         y="176.67934"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Routes:</tspan></text>
+       class="place_names"
+       x="150"
+       y="1750"
+       id="text4886-5-2-6-3-4-9-96">Routes:</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="68.561768"
-       y="249.43965"
-       id="text4886-5-2-6-3-4-9-4"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-7-9-00-9"
-         x="68.561768"
-         y="249.43965"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Infrastructure Quality:</tspan></text>
+       class="place_names"
+       x="895.10046"
+       y="2263.3472"
+       id="text4886-5-2-6-3-4-9-4">Infrastructure Quality:</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="88.514679"
-       y="256.04849"
-       id="text4886-5-2-6-3-4-9-4-2"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-7-9-00-9-4"
-         x="88.514679"
-         y="256.04849"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Good</tspan></text>
+       class="place_names"
+       x="1089.422"
+       y="2347.4182"
+       id="text4886-5-2-6-3-4-9-4-2">Good</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="88.514679"
-       y="269.2775"
-       id="text4886-5-2-6-3-4-9-4-2-4"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-7-9-00-9-4-7"
-         x="88.514679"
-         y="269.2775"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Poor</tspan></text>
+       class="place_names"
+       x="1090.8416"
+       y="2487.481"
+       id="text4886-5-2-6-3-4-9-4-2-4">Poor</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="35.635506"
-       y="269.27771"
-       id="text4886-5-2-6-3-4-9-7-5-8-9-7"><tspan
-         sodipodi:role="line"
-         id="tspan4884-4-0-9-7-9-00-7-9-5-0-3"
-         x="35.635506"
-         y="269.27771"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.64444px;font-family:'Gill Sans MT Condensed';-inkscape-font-specification:'Gill Sans MT Condensed, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Marsh Barton Link</tspan></text>
+       class="place_names"
+       x="350"
+       y="2500"
+       id="text4886-5-2-6-3-4-9-7-5-8-9-7">Marsh Barton Link</text>
     <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 82.069995,267.63614 H 68.840829"
+       d="m 900,2475 h 100"
        id="path6223-3"
-       inkscape:connector-curvature="0" />
+       class="line key q1 e7" />
     <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 82.069995,261.02156 H 68.840829"
+       d="m 900,2425 h 100"
        id="path6223-3-4"
-       inkscape:connector-curvature="0" />
+       class="e7 line key q2" />
     <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 82.069995,254.40697 H 68.840829"
+       d="m 900,2375 h 100"
        id="path6223-3-3"
-       inkscape:connector-curvature="0" />
+       class="e7 key line q3" />
+    <path
+       class="e7 key line q4"
+       id="path6223-3-3-0"
+       d="m 900,2325 h 100" />
   </g>
 </svg>
