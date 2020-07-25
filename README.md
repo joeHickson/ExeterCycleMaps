@@ -3,7 +3,20 @@ Cycle maps of exeter
 
 All maps are published under creative commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license - https://creativecommons.org/licenses/by-nc/4.0/legalcode
 
+## E Route Maps
 
+These are held on OpenStreetMap as this is one of the simplest and cheapest methods of ensuring the overall map stays up to date.
+
+### E1
+https://osm.org/relation/11344352
+### E2
+todo
+### E3
+https://osm.org/relation/4655055
+### E4
+https://osm.org/relation/4610951
+### E9
+https://osm.org/relation/11346500
 
 ## Tube Map
 

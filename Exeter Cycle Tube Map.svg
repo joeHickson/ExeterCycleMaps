@@ -163,11 +163,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24904632"
-     inkscape:cx="2910.0035"
-     inkscape:cy="1825.7073"
+     inkscape:zoom="0.17610234"
+     inkscape:cx="2204.0274"
+     inkscape:cy="1266.0549"
      inkscape:document-units="px"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer5"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -348,9 +348,13 @@
      style="display:inline"
      transform="translate(0,312.34373)">
     <path
-       d="m 4100,650 h 900"
-       id="e3_lukes_scipark"
-       class="e3 line q3" />
+       class="e3 line q3 dual_bottom"
+       id="e3_monkerton_scipark"
+       d="m 4500,650 h 500" />
+    <path
+       class="e3 line q3"
+       id="e3_lukes_monkerton"
+       d="m 4100,650 h 400" />
     <path
        d="m 3550,850 200,-200 h 350"
        id="e3_vaughan_lukes"
@@ -409,11 +413,11 @@
      style="display:inline"
      transform="translate(0,312.34373)">
     <path
-       d="m 4500,450 h 200 l 190,190 h 110"
+       d="m 4500,650 h 500"
        id="e4_monkerton_scip"
-       class="e4 line q3" />
+       class="e4 line q3 dual_top" />
     <path
-       d="m 4100,450 h 400"
+       d="m 4100,450 h 100 l 200,200 h100"
        id="e4_pinhoe_monkerton"
        class="e4 line q3" />
     <path
@@ -476,13 +480,13 @@
        id="e4_arena_stub"
        class="e4 station_stub" />
     <path
-       d="m 4500,450 v 20"
+       d="m 4500,650 v -20"
        id="e4_monkerton_stub"
        class="e4 station_stub" />
     <path
-       d="M 4970,610 5000,640 4970,670"
+       d="m 4970,620 30,30 -30,30"
        id="e4_scipark_arrow"
-       class="e4 line arrow" />
+       class="e4 line arrow dual_top" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1421,7 +1425,7 @@
        xml:space="preserve"
        class="place_names al_centre"
        x="4500"
-       y="520"
+       y="600"
        id="text4886-7">Monkerton</text>
     <text
        xml:space="preserve"
