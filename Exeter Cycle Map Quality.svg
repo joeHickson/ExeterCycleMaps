@@ -8,16 +8,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="96"
-   inkscape:export-xdpi="96"
-   inkscape:export-filename="C:\Users\Hickson\Documents\cycling\ExeterCycleMaps\exeter_cycle_map.png"
-   width="6000"
-   height="3500"
-   viewBox="0 0 6000 3500"
-   version="1.1"
-   id="svg8"
+   sodipodi:docname="Exeter Cycle Tube Map.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="Exeter Cycle Tube Map.svg">
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 6000 3500"
+   height="3500"
+   width="6000"
+   inkscape:export-filename="C:\Users\Hickson\Documents\cycling\ExeterCycleMaps\exeter_cycle_map.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <style
          id="style9347"><![CDATA[
     
@@ -122,31 +122,31 @@
   <defs
      id="defs2" />
   <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.17610234"
-     inkscape:cx="2204.0274"
-     inkscape:cy="1266.0549"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer5"
-     showgrid="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     showguides="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     units="px"
+     objecttolerance="20"
      inkscape:document-rotation="0"
-     objecttolerance="20" />
+     units="px"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showguides="false"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     showgrid="true"
+     inkscape:current-layer="stations"
+     inkscape:document-units="px"
+     inkscape:cy="897.50384"
+     inkscape:cx="4320.5348"
+     inkscape:zoom="0.35220468"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -177,1628 +177,1630 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:groupmode="layer"
-     id="layer4"
+     transform="translate(0,312.34373)"
+     style="display:inline"
      inkscape:label="Exe"
-     style="display:inline"
-     transform="translate(0,312.34373)">
+     id="layer4"
+     inkscape:groupmode="layer">
     <path
-       id="path4770"
-       style="opacity:0.203;fill:none;fill-opacity:1;stroke:#0098d8;stroke-width:16;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
        d="M 4996,2025 H 2650 L 2250,1625 H 1850 L 1350,1125 V 126.04062"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
+       style="opacity:0.203;fill:none;fill-opacity:1;stroke:#0098d8;stroke-width:16;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4770" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer3"
+     transform="translate(0,312.34373)"
+     style="display:inline"
      inkscape:label="E1"
-     style="display:inline"
-     transform="translate(0,312.34373)">
+     id="layer3"
+     inkscape:groupmode="layer">
     <path
-       d="m 4100,2000 h 150 l 150,-150 h 600"
+       class="e1 line q3"
        id="e1_countess_topsham"
-       class="e1 line q3" />
+       d="m 4100,2000 h 150 l 150,-150 h 600" />
     <path
-       d="m 3250,2050 h 850"
+       class="e1 line q3"
        id="e1_clapperbrook_countess"
-       class="e1 line q3" />
+       d="m 3250,2050 h 850" />
     <path
-       d="m 2500,1900 150,150 h 600"
+       class="e1 line q4"
        id="e1_trews_to_clapperbrook"
-       class="e1 line q4" />
+       d="m 2500,1900 150,150 h 600" />
     <path
-       d="m 2350,1750 150,150"
+       class="e1 line q3"
        id="e1_banks_to_trews"
-       class="e1 line q3" />
+       d="m 2350,1750 150,150" />
     <path
-       d="m 1850,1650 h 400 v 0 l 100,100"
+       class="e1 line q3"
        id="e1_bridges_to_banks"
-       class="e1 line q3" />
+       d="m 1850,1650 h 400 v 0 l 100,100" />
     <path
-       d="m 1450,1250 400,400"
+       class="e1 line q3"
        id="e1_millers_to_bridges"
-       class="e1 line q3" />
+       d="m 1450,1250 400,400" />
     <path
-       d="m 1250,900 v 150 l 200,200"
+       class="e1 line q3"
        id="e1_flowerpots"
-       class="e1 line q3" />
+       d="m 1250,900 v 150 l 200,200" />
     <path
-       id="e1_st_davids_station_rd"
+       class="e1 line q1 dual_bottom"
+       sodipodi:nodetypes="ccc"
        d="m 1450,850 h -150 l -50,50"
-       sodipodi:nodetypes="ccc"
-       class="e1 line q1 dual_bottom" />
+       id="e1_st_davids_station_rd" />
     <path
-       d="m 2350,1750 -15,15"
+       class="e1 station_stub"
        id="haven_banks_stub_e1"
-       class="e1 station_stub" />
+       d="m 2350,1750 -15,15" />
     <path
-       d="m 4970,1820 30,30 -30,30"
+       class="e1 line arrow"
        id="e1_topsham_arrow"
-       class="e1 line arrow" />
+       d="m 4970,1820 30,30 -30,30" />
     <path
-       class="e1 line ferry"
+       d="m 4800,1850 100,100 -100,100"
        id="e1_ferry_path"
-       d="m 4800,1850 100,100 -100,100" />
+       class="e1 line ferry" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer13"
-     inkscape:label="E2"
+     transform="translate(0,312.34373)"
      class="e2"
-     transform="translate(0,312.34373)">
+     inkscape:label="E2"
+     id="layer13"
+     inkscape:groupmode="layer">
     <path
-       d="m 4100,2000 v 150 l 400,400"
-       id="e2_countess_minster"
+       class="e2 line q2"
        sodipodi:nodetypes="ccc"
-       class="e2 line q2" />
+       id="e2_countess_minster"
+       d="m 4100,2000 v 150 l 400,400" />
     <path
-       d="m 4100,1450 v 550"
+       class="e2 line q3"
        id="e2_pynes_countess"
-       class="e2 line q3" />
+       d="m 4100,1450 v 550" />
     <path
-       d="m 4100,1100 v 350"
+       class="e2 line q3"
        id="e2_middlemoor_pynes"
-       class="e2 line q3" />
+       d="m 4100,1100 v 350" />
     <path
-       d="m 4100,850 v 250"
+       class="e2 line q3"
        id="e2_hill_barton_middlemoor"
-       class="e2 line q3" />
+       d="m 4100,850 v 250" />
     <path
-       d="M 4100,650 V 850"
+       class="e2 line q3"
        id="e2_lukes_barton"
-       class="e2 line q3" />
+       d="M 4100,650 V 850" />
     <path
-       d="M 4100,450 V 650"
+       class="e2 line q3"
        id="e2_pinhoe_lukes"
-       class="e2 line q3" />
+       d="M 4100,450 V 650" />
     <path
-       d="M 4250,300 4100,450"
+       class="e2 line q3"
        id="e2_pinhoe_stn_rd"
-       class="e2 line q3" />
+       d="M 4250,300 4100,450" />
     <path
-       d="M 4350,200 4250,300"
+       class="e2 line q3"
        id="e2_pinhoe_ph_station"
-       class="e2 line q3" />
+       d="M 4350,200 4250,300" />
     <path
-       d="m 4400,150 -50,50"
+       class="e2 line q3"
        id="e2_broadclyst_pinhoe"
-       class="e2 line q3" />
+       d="m 4400,150 -50,50" />
     <path
-       d="m 4101,1124 c -26,0 -26,0 -26,0"
+       class="e2 station_stub"
        id="e2_middlemoor_stub"
-       class="e2 station_stub" />
+       d="m 4101,1124 c -26,0 -26,0 -26,0" />
     <path
-       d="m 4250,300 15,15"
+       class="e2 station_stub"
        id="e2_pinhoestn_stub"
-       class="e2 station_stub" />
+       d="m 4250,300 15,15" />
     <path
-       d="m 4350,200 15,15"
+       class="e2 station_stub"
        id="e2_pinhoe_stub"
-       class="e2 station_stub" />
+       d="m 4350,200 15,15" />
     <path
-       d="m 4475,2575 50,-50"
+       class="e2 q2 line"
        id="e2_exminster_terminus"
-       class="e2 q2 line" />
+       d="m 4475,2575 50,-50" />
     <path
-       d="m 4350,150 h 50 v 50"
-       id="e2_broadclyst_arrow"
+       class="e2 line arrow"
        inkscape:connector-curvature="0"
-       class="e2 line arrow" />
+       id="e2_broadclyst_arrow"
+       d="m 4350,150 h 50 v 50" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer9"
+     transform="translate(0,312.34373)"
+     style="display:inline"
      inkscape:label="E3"
-     style="display:inline"
-     transform="translate(0,312.34373)">
-    <path
-       class="e3 line q3 dual_bottom"
-       id="e3_monkerton_scipark"
-       d="m 4500,650 h 500" />
-    <path
-       class="e3 line q3"
-       id="e3_lukes_monkerton"
-       d="m 4100,650 h 400" />
-    <path
-       d="m 3550,850 200,-200 h 350"
-       id="e3_vaughan_lukes"
-       class="e3 line q2" />
-    <path
-       d="m 3300,1050 h 50 l 200,-200"
-       id="e4_htpg_vaughan"
-       class="e3 line q2" />
-    <path
-       d="m 3050,1050 h 250"
-       id="e3_polsloe_htpg"
-       class="e3 line q2" />
-    <path
-       d="m 2650,1250 200,-200 h 200"
-       id="e2_maynard_polsloe"
-       class="e3 line q2" />
-    <path
-       sodipodi:nodetypes="cc"
-       d="m 2450,1250 h 200"
-       id="e2_southernhay_maynard"
-       class="e3 line q2 dual_bottom" />
-    <path
-       sodipodi:nodetypes="cc"
-       d="m 2250,1250 h 200"
-       id="e2_cc_southernhay"
-       class="e3 line q3 dual_bottom" />
-    <path
-       d="M 1850,1250 H 1450"
-       id="e2_millers_iron"
-       class="e3 line q2" />
-    <path
-       d="M 2250,1250 H 1850"
-       id="e2_iron_cc"
-       class="e3 line q2" />
-    <path
-       d="m 1850,1250 v 20"
-       id="e3_iron_stub"
-       class="e3 station_stub" />
-    <path
-       d="m 2446,1250 v -20"
-       id="e3_southernhay_stub"
-       class="e3 station_stub" />
-    <path
-       d="m 3300,1050 v20"
-       id="e3_htpg_stub"
-       class="e3 station_stub" />
-    <path
-       d="M 4970,620 5000,650 4970,680"
-       id="e3_scipark_arrow"
-       class="e3 line arrow" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer5"
-     inkscape:label="E4"
-     style="display:inline"
-     transform="translate(0,312.34373)">
+     id="layer9"
+     inkscape:groupmode="layer">
     <path
        d="m 4500,650 h 500"
-       id="e4_monkerton_scip"
-       class="e4 line q3 dual_top" />
+       id="e3_monkerton_scipark"
+       class="e3 line q3 dual_bottom" />
     <path
-       d="m 4100,450 h 100 l 200,200 h100"
-       id="e4_pinhoe_monkerton"
-       class="e4 line q3" />
+       d="m 4100,650 h 400"
+       id="e3_lukes_monkerton"
+       class="e3 line q3" />
     <path
-       d="m 3700,450 h 400"
-       id="e4_arena_pinhoe"
-       class="e4 line q3" />
+       class="e3 line q2"
+       id="e3_vaughan_lukes"
+       d="m 3550,850 200,-200 h 350" />
     <path
-       d="m 3300,450 h 400"
-       id="e4_mincinglake_arena"
-       class="e4 line q3" />
+       class="e3 line q2"
+       id="e4_htpg_vaughan"
+       d="m 3300,1050 h 50 l 200,-200" />
     <path
-       d="m 2650,450 h 650"
-       id="e4_stoke_hill_mincinglake"
-       class="e4 line q3" />
+       class="e3 line q2"
+       id="e3_polsloe_htpg"
+       d="m 3050,1050 h 250" />
     <path
-       d="m 2250,450 h 400"
-       id="e4_penns_stoke"
-       class="e4 line q3 dual_bottom"
+       class="e3 line q2"
+       id="e2_maynard_polsloe"
+       d="m 2650,1250 200,-200 h 200" />
+    <path
+       class="e3 line q2 dual_bottom"
+       id="e2_southernhay_maynard"
+       d="m 2450,1250 h 200"
        sodipodi:nodetypes="cc" />
     <path
-       d="m 1850,450 h 400"
-       id="e4_uni_pennsyl"
-       class="e4 line q2 dual_bottom"
+       class="e3 line q3 dual_bottom"
+       id="e2_cc_southernhay"
+       d="m 2250,1250 h 200"
        sodipodi:nodetypes="cc" />
     <path
-       d="m 2246,450 v -20"
-       id="e4_penns_stub"
-       class="e4 station_stub"
-       sodipodi:nodetypes="cc" />
+       class="e3 line q2"
+       id="e2_millers_iron"
+       d="M 1850,1250 H 1450" />
     <path
-       d="M 650,1000 350,1300"
-       id="e4_nadder_exhi"
-       class="e4 line q2" />
+       class="e3 line q2"
+       id="e2_iron_cc"
+       d="M 2250,1250 H 1850" />
     <path
-       d="M 850,900 H 750 L 650,1000"
-       id="e4_exhi_exwick"
-       class="e4 line q2" />
+       class="e3 station_stub"
+       id="e3_iron_stub"
+       d="m 1850,1250 v 20" />
     <path
-       d="M 850,900 h400"
-       id="e4_exwick_stnrd"
-       class="e4 line q2" />
+       class="e3 station_stub"
+       id="e3_southernhay_stub"
+       d="m 2446,1250 v -20" />
     <path
-       d="m 1450,850 h -150 l -50,50"
-       id="e4_stn_rd_st_davids"
-       class="e4 line q1 dual_top" />
+       class="e3 station_stub"
+       id="e3_htpg_stub"
+       d="m 3300,1050 v20" />
     <path
-       d="M 1850,450 1450,850"
-       id="e4_st_davids_uni"
-       class="e4 line q2" />
-    <path
-       d="m 850,900 v-20"
-       id="e4_exwick_stub"
-       class="e4 station_stub" />
-    <path
-       d="m650,1000 15,15"
-       id="e4_exhi_stub"
-       class="e4 station_stub" />
-    <path
-       d="M 3700,450 v-20"
-       id="e4_arena_stub"
-       class="e4 station_stub" />
-    <path
-       d="m 4500,650 v -20"
-       id="e4_monkerton_stub"
-       class="e4 station_stub" />
-    <path
-       d="m 4970,620 30,30 -30,30"
-       id="e4_scipark_arrow"
-       class="e4 line arrow dual_top" />
+       class="e3 line arrow"
+       id="e3_scipark_arrow"
+       d="M 4970,620 5000,650 4970,680" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer18"
-     inkscape:label="E7"
-     transform="translate(0,312.34373)">
-    <path
-       d="m 4100,2050 h 900"
-       id="e7_countess_starcross"
-       inkscape:connector-curvature="0"
-       class="e7 line q3" />
-    <path
-       d="m 4970,2020 30,30 -30,30"
-       id="e7_arrow"
-       class="e7 line arrow" />
-    <path
-       d="m 4812,1850 100,100 -100,100"
-       id="e7_ferry_path"
-       class="e7 line ferry" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer8"
-     inkscape:label="E9"
+     transform="translate(0,312.34373)"
      style="display:inline"
-     transform="translate(0,312.34373)">
+     inkscape:label="E4"
+     id="layer5"
+     inkscape:groupmode="layer">
     <path
-       class="e9 straight q2"
-       d="m 4100,1450 h 400"
-       id="e9_pynes_digby" />
+       class="e4 line q3 dual_top"
+       id="e4_monkerton_scip"
+       d="m 4500,650 h 500" />
     <path
-       inkscape:export-ydpi="96"
-       inkscape:export-xdpi="96"
-       class="e9 line q3"
-       d="m 3700,1450 h 400"
-       id="e9_ludwell_pynes" />
+       class="e4 line q3"
+       id="e4_pinhoe_monkerton"
+       d="m 4100,450 h 200 l 200,200 " />
     <path
-       class="e9 line q2"
-       d="m 3300,1450 h 400"
-       id="e9_rde_ludwell" />
+       class="e4 line q3"
+       id="e4_arena_pinhoe"
+       d="m 3700,450 h 400" />
     <path
-       class="e9 line q2"
-       d="m 2950,1450 h 400"
-       id="e9_magc_rde" />
+       class="e4 line q3"
+       id="e4_mincinglake_arena"
+       d="m 3300,450 h 400" />
     <path
-       class="e9 line q2"
-       d="m 2750,1350 100,100 h 100"
-       id="e9_magrd_magc" />
-    <path
-       class="e9 line q2"
-       d="m 2650,1250 100,100"
-       id="e9_maynrd_magrd" />
+       class="e4 line q3"
+       id="e4_stoke_hill_mincinglake"
+       d="m 2650,450 h 650" />
     <path
        sodipodi:nodetypes="cc"
-       class="e9 line q2 dual_top"
+       class="e4 line q3 dual_bottom"
+       id="e4_penns_stoke"
+       d="m 2250,450 h 400" />
+    <path
+       sodipodi:nodetypes="cc"
+       class="e4 line q2 dual_bottom"
+       id="e4_uni_pennsyl"
+       d="m 1850,450 h 400" />
+    <path
+       sodipodi:nodetypes="cc"
+       class="e4 station_stub"
+       id="e4_penns_stub"
+       d="m 2246,450 v -20" />
+    <path
+       class="e4 line q2"
+       id="e4_nadder_exhi"
+       d="M 650,1000 350,1300" />
+    <path
+       class="e4 line q2"
+       id="e4_exhi_exwick"
+       d="M 850,900 H 750 L 650,1000" />
+    <path
+       class="e4 line q2"
+       id="e4_exwick_stnrd"
+       d="M 850,900 h400" />
+    <path
+       class="e4 line q1 dual_top"
+       id="e4_stn_rd_st_davids"
+       d="m 1450,850 h -150 l -50,50" />
+    <path
+       class="e4 line q2"
+       id="e4_st_davids_uni"
+       d="M 1850,450 1450,850" />
+    <path
+       class="e4 station_stub"
+       id="e4_exwick_stub"
+       d="m 850,900 v-20" />
+    <path
+       class="e4 station_stub"
+       id="e4_exhi_stub"
+       d="m650,1000 15,15" />
+    <path
+       class="e4 station_stub"
+       id="e4_arena_stub"
+       d="M 3700,450 v-20" />
+    <path
+       class="e4 line arrow dual_top"
+       id="e4_scipark_arrow"
+       d="m 4970,620 30,30 -30,30" />
+  </g>
+  <g
+     transform="translate(0,312.34373)"
+     inkscape:label="E7"
+     id="layer18"
+     inkscape:groupmode="layer">
+    <path
+       class="e7 line q3"
+       inkscape:connector-curvature="0"
+       id="e7_countess_starcross"
+       d="m 4100,2050 h 900" />
+    <path
+       class="e7 line arrow"
+       id="e7_arrow"
+       d="m 4970,2020 30,30 -30,30" />
+    <path
+       class="e7 line ferry"
+       id="e7_ferry_path"
+       d="m 4812,1850 100,100 -100,100" />
+  </g>
+  <g
+     transform="translate(0,312.34373)"
+     style="display:inline"
+     inkscape:label="E9"
+     id="layer8"
+     inkscape:groupmode="layer">
+    <path
+       id="e9_pynes_digby"
+       d="m 4100,1450 h 400"
+       class="e9 straight q2" />
+    <path
+       id="e9_ludwell_pynes"
+       d="m 3700,1450 h 400"
+       class="e9 line q3"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="e9_rde_ludwell"
+       d="m 3300,1450 h 400"
+       class="e9 line q2" />
+    <path
+       id="e9_magc_rde"
+       d="m 2950,1450 h 400"
+       class="e9 line q2" />
+    <path
+       id="e9_magrd_magc"
+       d="m 2750,1350 100,100 h 100"
+       class="e9 line q2" />
+    <path
+       id="e9_maynrd_magrd"
+       d="m 2650,1250 100,100"
+       class="e9 line q2" />
+    <path
+       id="e9_southernhay_maynard"
        d="m 2450,1250 h 200"
-       id="e9_southernhay_maynard" />
+       class="e9 line q2 dual_top"
+       sodipodi:nodetypes="cc" />
     <path
-       class="e9 line q3 dual_top"
+       id="e9_cc_southernhay"
        d="m 2250,1250 h 200"
-       id="e9_cc_southernhay" />
+       class="e9 line q3 dual_top" />
     <path
-       class="e9 line q2"
+       id="e9_central_cc"
        d="m 2000,1050 h 50 l 200,200"
-       id="e9_central_cc" />
+       class="e9 line q2" />
     <path
-       class="e9 line q1"
+       id="e9_college_central"
        d="m 1700,1050 h 300"
-       id="e9_college_central" />
+       class="e9 line q1" />
     <path
-       class="e9 line q1"
+       id="e9_davids_college"
        d="m 1450,850 200,200 h 50"
-       id="e9_davids_college" />
+       class="e9 line q1" />
     <path
-       class="e9 station_stub"
+       id="e9_southernhay_stub"
        d="m 2454,1250 v -20"
-       id="e9_southernhay_stub" />
+       class="e9 station_stub" />
     <path
-       class="e9 station_stub"
+       id="e9_magrd_stub"
        d="m 2750,1350 -15,15"
-       id="e9_magrd_stub" />
+       class="e9 station_stub" />
     <path
-       class="e9 station_stub"
+       id="e9_central_stub"
        d="m 2000,1050 v -20"
-       id="e9_central_stub" />
+       class="e9 station_stub" />
     <path
-       class="e9 line q2"
+       id="e9_newcourt_topsham"
        d="m 4650,1600 v 250"
-       id="e9_newcourt_topsham" />
+       class="e9 line q2" />
     <path
-       class="e9 line q2"
+       id="e9_digby_newcourt"
        d="m 4500,1450 150,150"
-       id="e9_digby_newcourt" />
+       class="e9 line q2" />
     <path
-       class="e9 station_stub"
+       id="e9_newcourt_stub"
        d="m 4650,1600 h 20"
-       id="e9_newcourt_stub" />
+       class="e9 station_stub" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer7"
+     transform="translate(0,312.34373)"
+     style="display:inline"
      inkscape:label="279"
-     style="display:inline"
-     transform="translate(0,312.34373)">
+     id="layer7"
+     inkscape:groupmode="layer">
     <path
-       class="ncn279 line q1"
+       d="m 350,1300 -50,-50"
        id="279_tedburn_nadder"
-       d="m 350,1300 -50,-50" />
+       class="ncn279 line q1" />
     <path
-       class="ncn279 line q1"
+       d="M 800,1650 H 700 L 350,1300"
        id="279_nadder_redhills"
-       d="M 800,1650 H 700 L 350,1300" />
+       class="ncn279 line q1" />
     <path
-       class="ncn279 line q1"
+       d="M 1100,1650 H 800"
        id="279_redhills_buddle"
-       d="M 1100,1650 H 800" />
+       class="ncn279 line q1" />
     <path
-       class="ncn279 line q1"
+       d="M 1450,1650 H 1100"
        id="279_buddle_wardrew"
-       d="M 1450,1650 H 1100" />
+       class="ncn279 line q1" />
     <path
-       class="ncn279 line q1"
+       d="M 1850,1650 H 1450"
        id="279_wardrew_bridges"
-       d="M 1850,1650 H 1450" />
+       class="ncn279 line q1" />
     <path
-       class="ncn279 station_stub"
+       id="279_buddle_stub"
        d="m 1100,1650 v -20"
-       id="279_buddle_stub" />
+       class="ncn279 station_stub" />
     <path
-       class="ncn279 station_stub"
+       id="279_redhills_stub"
        d="m 800,1650 v -20"
-       id="279_redhills_stub" />
+       class="ncn279 station_stub" />
     <path
-       class="ncn279 line arrow"
+       id="279_tedburn_arrow"
        d="m 300,1300 v -50 h 50"
-       id="279_tedburn_arrow" />
+       class="ncn279 line arrow" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer6"
-     inkscape:label="Centre Link"
+     transform="translate(0,312.34373)"
      style="display:inline"
-     transform="translate(0,312.34373)">
+     inkscape:label="Centre Link"
+     id="layer6"
+     inkscape:groupmode="layer">
     <path
-       class="central line q1"
+       d="m 1850,1650 v 50 l 400,400 v 150"
        id="cl_bridges_westexe"
-       d="m 1850,1650 v 50 l 400,400 v 150" />
+       class="central line q1" />
     <path
-       class="central line q2"
+       d="m 1850,1650 200,-200"
        id="cl_bridges_fore"
-       d="m 1850,1650 200,-200" />
+       class="central line q2" />
     <path
-       class="central line q2"
+       d="m 1700,1800 150,-150"
        id="cl_stthom_bridges"
-       d="m 1700,1800 150,-150" />
+       class="central line q2" />
     <path
-       class="central line q2"
+       d="m 2250,850 v 400"
        id="cl_sidwell_cc"
-       d="m 2250,850 v 400" />
+       class="central line q2" />
     <path
-       class="central line q1"
+       d="M 2650,450 2250,850"
        id="cl_sidwell_stoke"
-       d="M 2650,450 2250,850" />
+       class="central line q1" />
     <path
-       class="central station_stub"
+       id="cl_thomas_stub"
        d="m 1700,1800 15,15"
-       id="cl_thomas_stub" />
+       class="central station_stub" />
     <path
-       class="central station_stub"
+       id="cl_sidwell_stub"
        d="m 2249,860 c -13,-13 -13,-13 -13,-13"
-       id="cl_sidwell_stub" />
+       class="central station_stub" />
     <path
-       class="central station_stub"
+       id="cl_fore_stub"
        d="m 2050,1450 -15,-15"
-       id="cl_fore_stub" />
+       class="central station_stub" />
     <path
-       class="central line q2"
+       id="cl_fore_cc"
        d="m 2050,1450 200,-200"
-       id="cl_fore_cc" />
+       class="central line q2" />
     <path
-       class="central line q1"
+       id="cl_cowick_thomas"
        d="m 1550,1950 150,-150 v 0"
-       id="cl_cowick_thomas" />
+       class="central line q1" />
     <path
-       class="central q2 line"
+       id="cl_ide_terminus"
        d="m 1825,2500 h 50"
-       id="cl_ide_terminus" />
+       class="central q2 line" />
     <g
        id="cl_west_ide_grp">
       <path
-         id="cl_west_ide_2nd"
+         class="central line q2"
          d="m 1850,2500 v -50"
-         class="central line q2" />
+         id="cl_west_ide_2nd" />
       <path
-         d="m 2250,2250 v 200 h -400"
+         class="central line q1"
          id="cl_west_ide_1st"
-         class="central line q1" />
+         d="m 2250,2250 v 200 h -400" />
     </g>
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer11"
-     inkscape:label="Quay"
+     transform="translate(0,312.34373)"
      style="display:inline"
-     transform="translate(0,312.34373)">
+     inkscape:label="Quay"
+     id="layer11"
+     inkscape:groupmode="layer">
     <path
-       class="quayside line q3"
+       d="m 2250,1600 250,250 v 50"
        id="quay_quay_trews"
-       d="m 2250,1600 250,250 v 50" />
+       class="quayside line q3" />
     <path
-       class="quayside line q3"
-       d="m 1865,1650 50,-50 h 336"
+       sodipodi:nodetypes="ccc"
        id="quay_bridges_quay"
-       sodipodi:nodetypes="ccc" />
+       d="m 1865,1650 50,-50 h 336"
+       class="quayside line q3" />
     <path
-       class="quayside line q2"
+       id="quay_cc_quay"
        d="M 2250,1600 V 1250"
-       id="quay_cc_quay" />
+       class="quayside line q2" />
     <path
-       class="quayside station_stub"
+       id="quay_county_stub"
        d="m 2750,1650 15,15"
-       id="quay_county_stub" />
+       class="quayside station_stub" />
     <path
-       class="quayside line q2"
+       d="m 2750,1650 200,-200"
        id="quay_mag_county"
-       d="m 2750,1650 200,-200" />
+       class="quayside line q2" />
     <path
-       class="quayside line q2"
+       d="m 2500,1900 250,-250"
        id="quay_trew_county"
-       d="m 2500,1900 250,-250" />
+       class="quayside line q2" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer12"
-     inkscape:label="Inner Circular"
+     transform="translate(0,312.34373)"
      style="display:inline"
-     transform="translate(0,312.34373)">
+     inkscape:label="Inner Circular"
+     id="layer12"
+     inkscape:groupmode="layer">
     <path
-       class="circle line q1"
+       d="m 3300,1450 v 550"
        id="ic_rde_duckes"
-       d="m 3300,1450 v 550" />
+       class="circle line q1" />
     <path
-       class="circle line q1"
+       d="m 3050,1050 250,250 v 150"
        id="ic_polsloe_rde"
-       d="m 3050,1050 250,250 v 150" />
+       class="circle line q1" />
     <path
-       class="circle line q1"
+       d="m 2650,450 v 200 l 400,400"
        id="cl_stoke_polsloe"
-       d="m 2650,450 v 200 l 400,400" />
+       class="circle line q1" />
     <path
-       class="circle line q3"
+       d="m 3250,2050 50,-50"
        id="cl_duckes_clapper"
-       d="m 3250,2050 50,-50" />
+       class="circle line q3" />
     <path
-       class="circle line q3"
+       d="m 3050,2250 200,-200"
        id="cl_clapper_alphbr"
-       d="m 3050,2250 200,-200" />
+       class="circle line q3" />
     <path
-       class="circle line q2"
+       d="m 1700,1050 -100,100 h -50 l -100,100 v 0 0"
        id="cl_millers_college"
-       d="m 1700,1050 -100,100 h -50 l -100,100 v 0 0" />
+       class="circle line q2" />
     <path
-       d="m 2250,450 h 400"
+       class="circle line q3 dual_top"
        id="circle_penns_stoke"
-       class="circle line q3 dual_top" />
+       d="m 2250,450 h 400" />
     <path
-       d="m 1850,450 h 400"
+       class="circle q2 line dual_top"
        id="circle_uni_penns"
-       class="circle q2 line dual_top" />
+       d="m 1850,450 h 400" />
     <g
        id="cl_college_uni">
       <path
-         class="circle line q1"
-         d="m 1850,900 -150,150"
+         sodipodi:nodetypes="cc"
          id="cl_college_uni_1st"
-         sodipodi:nodetypes="cc" />
+         d="m 1850,900 -150,150"
+         class="circle line q1" />
       <path
-         class="circle line q3"
+         d="M 1850,900 V 450"
          id="cl_college_uni_2nd"
-         d="M 1850,900 V 450" />
+         class="circle line q3" />
     </g>
     <path
-       class="circle line q2"
+       id="cl_millers_wardrew"
        d="m 1450,1250 v 400"
-       id="cl_millers_wardrew" />
+       class="circle line q2" />
     <path
-       class="circle line q2"
+       d="m 1550,1950 300,300"
        id="cl_cowickst_barton"
-       d="m 1550,1950 300,300" />
+       class="circle line q2" />
     <path
-       class="circle line q2"
+       d="m 1450,1650 v 200 l 100,100"
        id="cl_wardrew_cowick"
-       d="m 1450,1650 v 200 l 100,100" />
+       class="circle line q2" />
     <path
-       class="circle station_stub"
+       d="m 1850,2250 -15,15"
        id="cl_barton_stub"
-       d="m 1850,2250 -15,15" />
+       class="circle station_stub" />
     <path
-       class="circle line q3"
+       d="M 1850,2250 h 400"
        id="cl_barton_west"
-       d="M 1850,2250 h 400" />
+       class="circle line q3" />
     <g
        id="alphington_alphinbrook">
       <path
-         class="circle line q3"
+         id="alphington_alphinbrook2nd"
          d="m 2850,2450 200,-200"
-         id="alphington_alphinbrook2nd" />
+         class="circle line q3" />
       <path
-         class="circle line q3"
+         id="alphington_alphinbrook1st"
          d="m 2650,2450 h 200"
-         id="alphington_alphinbrook1st" />
+         class="circle line q3" />
     </g>
     <path
-       class="circle line q2"
+       d="m 2250,2250 200,200 h 200"
        id="cl_west_alphington"
-       d="m 2250,2250 200,200 h 200" />
+       class="circle line q2" />
     <path
-       class="circle station_stub"
+       id="cl_alphington_stub"
        d="m 2646,2444 c 0,-13 0,-13 0,-13"
-       id="cl_alphington_stub" />
+       class="circle station_stub" />
     <path
-       d="m 2254,450 v -20 0"
+       class="station_stub circle"
        id="cl_penns_stub"
-       class="station_stub circle" />
+       d="m 2254,450 v -20 0" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer14"
+     transform="translate(0,312.34373)"
      inkscape:label="Green Way"
-     transform="translate(0,312.34373)">
+     id="layer14"
+     inkscape:groupmode="layer">
     <path
-       class="green line q2"
+       id="green_mincing_polsloe"
        d="M 3300,450 V 600"
-       id="green_mincing_polsloe" />
+       class="green line q2" />
     <path
-       class="green line q3"
+       id="green_polsloe_vaughan"
        d="M 3550,850 3300,600"
-       id="green_polsloe_vaughan" />
+       class="green line q3" />
     <path
-       class="green line q1"
+       id="green_vaughan_ludwell"
        d="M 3700,1450 V 1000 L 3550,850"
-       id="green_vaughan_ludwell" />
+       class="green line q1" />
     <path
-       class="green line q3"
+       d="m 3500,1850 h 150 l 50,-50 v -350"
        id="green_ludwell_isca"
-       d="m 3500,1850 h 150 l 50,-50 v -350" />
+       class="green line q3" />
     <path
-       class="green line q3"
+       d="m 3300,2000 150,-150 h 50"
        id="green_isca_duckes"
-       d="m 3300,2000 150,-150 h 50" />
+       class="green line q3" />
     <path
-       class="green station_stub"
+       id="green_isca_stub"
        d="m 3500,1850 v -20"
-       id="green_isca_stub" />
+       class="green station_stub" />
     <path
-       class="green station_stub"
+       id="green_polsloe_stub"
        d="m 3300,600 h -20"
-       id="green_polsloe_stub" />
+       class="green station_stub" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer15"
+     transform="translate(0,312.34373)"
      inkscape:label="Mill Link"
-     transform="translate(0,312.34373)">
+     id="layer15"
+     inkscape:groupmode="layer">
     <path
-       class="mill line q3"
+       id="mill_duckes_mill"
        d="m 3300,2000 h 600"
-       id="mill_duckes_mill" />
+       class="mill line q3" />
     <path
-       class="mill line q2"
+       d="m 3900,2000 h 200"
        id="mill_mill_countess"
-       d="m 3900,2000 h 200" />
+       class="mill line q2" />
     <path
-       class="mill line q2"
+       d="m 4100,1450 -200,200 v 350"
        id="mill_pynes_mill"
-       d="m 4100,1450 -200,200 v 350" />
+       class="mill line q2" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer16"
+     transform="translate(0,312.34373)"
      inkscape:label="Sowton Link"
-     transform="translate(0,312.34373)">
+     id="layer16"
+     inkscape:groupmode="layer">
     <path
-       class="sowton line q2"
+       d="m 3550,850 h 550"
        id="sowton_vaughan_hill"
-       d="m 3550,850 h 550" />
+       class="sowton line q2" />
     <g
        id="sowton_hill_sowton">
       <path
-         class="sowton line q2"
+         id="sowton_hill_sowton1st"
          d="m 4100,850 h 250 l 150,150"
-         id="sowton_hill_sowton1st" />
+         class="sowton line q2" />
       <path
-         class="sowton line q1"
+         id="sowton_hill_sowton2nd"
          d="M 4500,1100 V 1000"
-         id="sowton_hill_sowton2nd" />
+         class="sowton line q1" />
     </g>
     <path
-       class="sowton line q1"
+       d="M 4500,1450 v -350"
        id="sowton_sowton_digby"
-       d="M 4500,1450 v -350" />
+       class="sowton line q1" />
     <path
-       class="sowton station_stub"
+       id="sowton_sowton_stub"
        d="m 4500,1100 h 20"
-       id="sowton_sowton_stub" />
+       class="sowton station_stub" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer17"
+     transform="translate(0,312.34373)"
      inkscape:label="Marsh Barton Link"
-     transform="translate(0,312.34373)">
+     id="layer17"
+     inkscape:groupmode="layer">
     <path
-       class="marsh line q1"
+       d="M 2650,2250 H 2250"
        id="marsh_west_mbw"
-       d="M 2650,2250 H 2250" />
+       class="marsh line q1" />
     <path
-       class="marsh line q1"
+       d="M 3050,2250 H 2650"
        id="marsh_mbw_alphinbrk"
-       d="M 3050,2250 H 2650" />
+       class="marsh line q1" />
     <path
-       class="marsh line q2"
+       d="M 3050,2250 h500"
        id="marsh_alphinbrk_mbe"
-       d="M 3050,2250 h500" />
+       class="marsh line q2" />
     <path
-       class="marsh station_stub"
+       id="marsh_mbw_stub"
        d="m 2650,2250 v -20"
-       id="marsh_mbw_stub" />
+       class="marsh station_stub" />
     <path
-       class="marsh station_stub"
+       id="marsh_mbe_stub"
        d="m 3550,2250 v20"
-       id="marsh_mbe_stub" />
+       class="marsh station_stub" />
     <g
        id="marsh_mbe_countess">
       <path
-         class="marsh line q2"
+         id="marsh_mbe_countess1st"
          d="M 3900,2250 H 3550"
-         id="marsh_mbe_countess1st" />
+         class="marsh line q2" />
       <path
-         class="marsh line q3"
+         d="m 4100,2050 c -200,200 -200,200 -200,200"
          id="marsh_mbe_countess2nd"
-         d="m 4100,2050 c -200,200 -200,200 -200,200" />
+         class="marsh line q3" />
     </g>
   </g>
   <g
-     inkscape:label="Stations"
-     inkscape:groupmode="layer"
-     id="stations"
+     transform="translate(0,312.34373)"
      style="display:inline"
-     transform="translate(0,312.34373)">
+     id="stations"
+     inkscape:groupmode="layer"
+     inkscape:label="Stations">
     <circle
-       id="city_centre_stn"
+       class="station"
+       r="20"
+       cy="1250"
        cx="2250"
-       cy="1250"
-       r="20"
-       class="station" />
+       id="city_centre_stn" />
     <circle
-       id="maynard_stn"
+       class="station"
+       r="20"
+       cy="1250"
        cx="2650"
-       cy="1250"
-       r="20"
-       class="station" />
+       id="maynard_stn" />
     <circle
-       id="millers_crossing_stn"
+       class="station"
+       r="20"
+       cy="1250"
        cx="1450"
-       cy="1250"
-       r="20"
-       class="station" />
+       id="millers_crossing_stn" />
     <circle
-       id="station_rd_stn"
-       cx="1250"
+       class="station"
+       r="20"
        cy="900"
-       r="20"
-       class="station" />
+       cx="1250"
+       id="station_rd_stn" />
     <circle
-       id="cowick_st_stn"
-       cx="1550"
+       class="station"
+       r="20"
        cy="1950"
-       r="20"
-       class="station" />
+       cx="1550"
+       id="cowick_st_stn" />
     <circle
-       id="stoke_hill_stn"
+       class="station"
+       r="20"
+       cy="450"
        cx="2650"
-       cy="450"
-       r="20"
-       class="station" />
+       id="stoke_hill_stn" />
     <circle
-       id="magdelen_court_stn"
+       class="station"
+       r="20"
+       cy="1450"
        cx="2950"
-       cy="1450"
-       r="20"
-       class="station" />
+       id="magdelen_court_stn" />
     <circle
-       id="trews_weir_stn"
-       cx="2500"
+       class="station"
+       r="20"
        cy="1900"
-       r="20"
-       class="station" />
+       cx="2500"
+       id="trews_weir_stn" />
     <circle
-       id="quay_stn"
-       cx="2250"
+       class="station"
+       r="20"
        cy="1600"
-       r="20"
-       class="station" />
-    <circle
-       id="exe_bridges_stn"
-       cx="1850"
-       cy="1650"
-       r="20"
-       class="station" />
-    <circle
-       id="rde_stn"
-       cx="3300"
-       cy="1450"
-       r="20"
-       class="station" />
-    <circle
-       id="polsloe_rd_stn"
-       cx="3050"
-       cy="1050"
-       r="20"
-       class="station" />
-    <circle
-       id="duckes_meadow_stn"
-       cx="3300"
-       cy="2000"
-       r="20"
-       class="station" />
-    <circle
-       id="clapperbrook_ln_stn"
-       cx="3250"
-       cy="2050"
-       r="20"
-       class="station" />
-    <circle
-       id="west_exe_stn"
        cx="2250"
-       cy="2250"
-       r="20"
-       class="station" />
+       id="quay_stn" />
     <circle
-       id="alphin_brook_stn"
-       cx="3050"
-       cy="2250"
+       class="station"
        r="20"
-       class="station" />
-    <circle
-       id="exeter_college_stn"
-       cx="1700"
-       cy="1050"
-       r="20"
-       class="station" />
-    <circle
-       id="wardrew_rd_stn"
-       cx="1450"
        cy="1650"
-       r="20"
-       class="station" />
-    <circle
-       id="nadderwater_stn"
-       cx="350"
-       cy="1300"
-       r="20"
-       class="station" />
-    <circle
-       id="exeter_uni_stn"
        cx="1850"
+       id="exe_bridges_stn" />
+    <circle
+       class="station"
+       r="20"
+       cy="1450"
+       cx="3300"
+       id="rde_stn" />
+    <circle
+       class="station"
+       r="20"
+       cy="1050"
+       cx="3050"
+       id="polsloe_rd_stn" />
+    <circle
+       class="station"
+       r="20"
+       cy="2000"
+       cx="3300"
+       id="duckes_meadow_stn" />
+    <circle
+       class="station"
+       r="20"
+       cy="2050"
+       cx="3250"
+       id="clapperbrook_ln_stn" />
+    <circle
+       class="station"
+       r="20"
+       cy="2250"
+       cx="2250"
+       id="west_exe_stn" />
+    <circle
+       class="station"
+       r="20"
+       cy="2250"
+       cx="3050"
+       id="alphin_brook_stn" />
+    <circle
+       class="station"
+       r="20"
+       cy="1050"
+       cx="1700"
+       id="exeter_college_stn" />
+    <circle
+       class="station"
+       r="20"
+       cy="1650"
+       cx="1450"
+       id="wardrew_rd_stn" />
+    <circle
+       class="station"
+       r="20"
+       cy="1300"
+       cx="350"
+       id="nadderwater_stn" />
+    <circle
+       class="station"
+       r="20"
        cy="450"
-       r="20"
-       class="station" />
+       cx="1850"
+       id="exeter_uni_stn" />
     <circle
-       id="vaughan_rd_stn"
+       class="station"
+       r="20"
+       cy="850"
        cx="3550"
-       cy="850"
-       r="20"
-       class="station" />
+       id="vaughan_rd_stn" />
     <circle
-       id="ludwell_valley_stn"
+       class="station"
+       r="20"
+       cy="1450"
        cx="3700"
-       cy="1450"
-       r="20"
-       class="station" />
+       id="ludwell_valley_stn" />
     <circle
-       id="pynes_hill_stn"
+       class="station"
+       r="20"
+       cy="1450"
        cx="4100"
-       cy="1450"
-       r="20"
-       class="station" />
+       id="pynes_hill_stn" />
     <circle
-       id="digby_sowton_stn"
+       class="station"
+       r="20"
+       cy="1450"
        cx="4500"
-       cy="1450"
-       r="20"
-       class="station" />
+       id="digby_sowton_stn" />
     <circle
-       id="hill_barton_stn"
-       cx="4100"
+       class="station"
+       r="20"
        cy="850"
-       r="20"
-       class="station" />
-    <circle
-       id="st_lukes_stn"
        cx="4100"
+       id="hill_barton_stn" />
+    <circle
+       class="station"
+       r="20"
+       cy="650"
+       cx="4100"
+       id="st_lukes_stn" />
+    <circle
+       class="station"
+       r="20"
+       cy="450"
+       cx="4100"
+       id="pinhoe_rd_stn" />
+    <circle
+       class="station"
+       r="20"
+       cy="450"
+       cx="3300"
+       id="mincinglake_stn" />
+    <circle
+       class="station"
+       r="20"
+       cy="2000"
+       cx="3900"
+       id="mill_rd_stn" />
+    <path
+       class="station"
+       id="countess_weir_stn"
+       d="m 4106.1274,2042.1344 c 8.3075,2.7854 13.9505,10.513 14.0749,19.2739 0.1611,11.3968 -8.9461,20.7668 -20.3426,20.9285 -11.3967,0.1621 -20.7669,-8.946 -20.9284,-20.3426 v 0 c -0.124,-8.723 5.2504,-16.5813 13.4242,-19.6296 l 0.3338,-28.627 c -8.267,-2.9031 -13.7998,-10.71 -13.7998,-19.4721 0,-11.3976 9.2397,-20.6375 20.6375,-20.6375 11.3977,0 20.6376,9.2399 20.6376,20.6375 v 0 c 0,8.7237 -5.4851,16.5052 -13.7015,19.4371 z" />
+    <circle
+       class="station"
+       id="exeter_st_davids_stn"
+       cx="1450"
+       cy="850"
+       r="20" />
+    <circle
+       id="monkerton_stn"
+       cx="4500"
        cy="650"
        r="20"
        class="station" />
-    <circle
-       id="pinhoe_rd_stn"
-       cx="4100"
-       cy="450"
-       r="20"
-       class="station" />
-    <circle
-       id="mincinglake_stn"
-       cx="3300"
-       cy="450"
-       r="20"
-       class="station" />
-    <circle
-       id="mill_rd_stn"
-       cx="3900"
-       cy="2000"
-       r="20"
-       class="station" />
-    <path
-       d="m 4106.1274,2042.1344 c 8.3075,2.7854 13.9505,10.513 14.0749,19.2739 0.1611,11.3968 -8.9461,20.7668 -20.3426,20.9285 -11.3967,0.1621 -20.7669,-8.946 -20.9284,-20.3426 v 0 c -0.124,-8.723 5.2504,-16.5813 13.4242,-19.6296 l 0.3338,-28.627 c -8.267,-2.9031 -13.7998,-10.71 -13.7998,-19.4721 0,-11.3976 9.2397,-20.6375 20.6375,-20.6375 11.3977,0 20.6376,9.2399 20.6376,20.6375 v 0 c 0,8.7237 -5.4851,16.5052 -13.7015,19.4371 z"
-       id="countess_weir_stn"
-       class="station" />
-    <circle
-       r="20"
-       cy="850"
-       cx="1450"
-       id="exeter_st_davids_stn"
-       class="station" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer10"
-     inkscape:label="Names"
+     transform="translate(0,312.34373)"
      style="display:inline"
-     transform="translate(0,312.34373)">
+     inkscape:label="Names"
+     id="layer10"
+     inkscape:groupmode="layer">
     <text
-       xml:space="preserve"
-       class="place_names al_centre"
-       x="2450"
+       id="text4886"
        y="1200"
-       id="text4886">Southernhay</text>
+       x="2450"
+       class="place_names al_centre"
+       xml:space="preserve">Southernhay</text>
     <text
-       xml:space="preserve"
-       class="place_names"
-       x="2270"
+       id="text4886-5"
        y="1313"
-       id="text4886-5">City Centre</text>
-    <text
-       xml:space="preserve"
+       x="2270"
        class="place_names"
-       x="2690"
+       xml:space="preserve">City Centre</text>
+    <text
+       id="text4886-1"
        y="1270"
-       id="text4886-1">Maynard</text>
+       x="2690"
+       class="place_names"
+       xml:space="preserve">Maynard</text>
     <text
-       xml:space="preserve"
-       class="place_names  al_right"
-       x="2230"
+       id="text4886-9"
        y="830"
-       id="text4886-9">Sidwell St</text>
-    <text
-       xml:space="preserve"
+       x="2230"
        class="place_names  al_right"
-       x="2730"
+       xml:space="preserve">Sidwell St</text>
+    <text
+       id="text4886-1-7"
        y="1413"
-       id="text4886-1-7">Magdalen Rd</text>
-    <text
-       xml:space="preserve"
-       class="place_names al_centre"
-       x="1850"
-       y="1320"
-       id="text4886-5-2">Iron Bridge</text>
-    <text
-       xml:space="preserve"
+       x="2730"
        class="place_names  al_right"
+       xml:space="preserve">Magdalen Rd</text>
+    <text
+       id="text4886-5-2"
+       y="1320"
+       x="1850"
+       class="place_names al_centre"
+       xml:space="preserve">Iron Bridge</text>
+    <text
+       id="text4886-5-2-6"
+       y="1430"
        x="2030"
-       y="1430"
-       id="text4886-5-2-6">Fore St</text>
+       class="place_names  al_right"
+       xml:space="preserve">Fore St</text>
     <text
-       xml:space="preserve"
-       class="place_names al_centre"
-       x="2000"
+       id="text4886-5-2-4"
        y="1000"
-       id="text4886-5-2-4">Exeter Central</text>
+       x="2000"
+       class="place_names al_centre"
+       xml:space="preserve">Exeter Central</text>
     <text
-       xml:space="preserve"
-       class="place_names"
-       x="1720"
+       id="text4886-5-2-67"
        y="1113"
-       id="text4886-5-2-67">Exeter College</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
-       x="1490"
-       y="870"
-       id="text4886-5-2-1">Exeter St Davids</text>
-    <text
-       xml:space="preserve"
-       class="place_names al_right"
-       x="1830"
-       y="430"
-       id="text4886-9-7">Exeter University</text>
-    <text
-       xml:space="preserve"
-       class="place_names al_right"
-       x="1430"
-       y="1313"
-       id="text4886-5-2-6-3">Miller's Crossing</text>
-    <text
-       xml:space="preserve"
-       class="place_names  al_right"
-       x="1230"
-       y="880"
-       id="text4886-5-2-6-4">Station Rd</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
-       x="1870"
-       y="1713"
-       id="text4886-5-9">Exe Bridges</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
        x="1720"
-       y="1863"
-       id="text4886-5-7">St Thomas</text>
-    <text
-       xml:space="preserve"
-       class="place_names al_right"
-       x="1530"
-       y="2013"
-       id="text4886-5-2-6-3-4">Cowick St</text>
-    <text
-       xml:space="preserve"
-       class="place_names  al_right"
-       x="2480"
-       y="1963"
-       id="text4886-5-2-6-7">Trews Weir</text>
-    <text
-       xml:space="preserve"
-       class="place_names  al_right"
-       x="2330"
-       y="1813"
-       id="text4886-5-2-6-2">Haven Banks</text>
-    <text
-       xml:space="preserve"
        class="place_names"
-       x="2270"
-       y="1580"
-       id="text4886-5-8">Quay</text>
+       xml:space="preserve">Exeter College</text>
     <text
-       xml:space="preserve"
-       class="place_names"
-       x="2770"
-       y="1713"
-       id="text4886-1-6">County Hall</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
-       x="2970"
-       y="1513"
-       id="text4886-1-6-5">Magdalen Court</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
-       x="3270"
-       y="2113"
-       id="text4886-1-6-7">Clapperbrook Lane</text>
-    <text
-       xml:space="preserve"
-       class="place_names  al_right"
-       x="3280"
-       y="1980"
-       id="text4886-9-5">Duckes Meadow</text>
-    <text
-       xml:space="preserve"
-       class="place_names  al_right"
-       x="1830"
-       y="2313"
-       id="text4886-5-2-6-2-5">Cowick Barton</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
-       x="2250"
-       y="2300"
-       id="text4886-5-2-6-2-5-9">West Exe</text>
-    <text
-       xml:space="preserve"
-       class="place_names  al_centre"
-       x="2650"
-       y="2400"
-       id="text4886-6">Alphington</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
-       x="3050"
-       y="2313"
-       id="text4886-9-5-1">Alphin Brook</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
-       x="3320"
-       y="1430"
-       id="text4886-1-6-6">RD&amp;E</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
-       x="3070"
-       y="1030"
-       id="text4886-5-88">Polsloe Rd</text>
-    <text
-       xml:space="preserve"
-       class="place_names  al_right"
-       x="1430"
-       y="1713"
-       id="text4886-5-2-6-3-4-1">Wardrew Rd</text>
-    <text
-       xml:space="preserve"
-       class="place_names al_centre"
-       x="1100"
-       y="1600"
-       id="text4886-5-2-0">Buddle Ln</text>
-    <text
-       xml:space="preserve"
-       class="place_names al_centre"
-       x="800"
-       y="1600"
-       id="text4886-5-2-9">Redhills</text>
-    <text
-       xml:space="preserve"
-       class="place_names al_centre"
-       x="850"
-       y="850"
-       id="text4886-5-2-9-3">Exwick</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
-       x="390"
-       y="1320"
-       id="text4886-5-0">Nadderwater</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
-       x="670"
-       y="1063"
-       id="text4886-5-0-7">Exwick Heights</text>
-    <text
-       xml:space="preserve"
-       class="place_names al_centre"
-       x="1850"
-       y="2570"
-       id="text4886-6-4">Ide</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
-       x="4520"
-       y="2613"
-       id="text4886-9-5-1-5">Exminster</text>
-    <text
-       xml:space="preserve"
-       class="place_names  al_right"
-       x="3260"
-       y="620"
-       id="text4886-9-5-4">Polsloe Bridge</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
-       x="4270"
-       y="364"
-       id="text4886-5-88-2">Pinhoe Stn</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
-       x="4370"
-       y="263"
-       id="text4886-5-88-4">Pinhoe</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
-       x="4540"
-       y="1120"
-       id="text4886-5-88-46">Sowton</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
-       x="4690"
-       y="1620"
-       id="text4886-5-88-6">Newcourt</text>
-    <text
-       xml:space="preserve"
-       class="place_names  al_right"
-       x="3880"
-       y="1980"
-       id="text4886-5-2-6-5">Mill Rd</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
-       x="4120"
-       y="1430"
-       id="text4886-5-88-6-1">Pynes Hill</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
-       x="3720"
-       y="1430"
-       id="text4886-5-88-6-6">Ludwell Valley</text>
-    <text
-       xml:space="preserve"
-       class="place_names al_right"
-       x="3510"
+       id="text4886-5-2-1"
        y="870"
-       id="text4886-5-2-6-5-6">Vaughan Rd</text>
+       x="1490"
+       class="place_names"
+       xml:space="preserve">Exeter St Davids</text>
     <text
-       xml:space="preserve"
-       class="place_names al_right"
-       x="4080"
+       id="text4886-9-7"
        y="430"
-       id="text4886-5-2-6-5-8">Pinhoe Rd</text>
+       x="1830"
+       class="place_names al_right"
+       xml:space="preserve">Exeter University</text>
     <text
-       xml:space="preserve"
+       id="text4886-5-2-6-3"
+       y="1313"
+       x="1430"
+       class="place_names al_right"
+       xml:space="preserve">Miller's Crossing</text>
+    <text
+       id="text4886-5-2-6-4"
+       y="880"
+       x="1230"
        class="place_names  al_right"
-       x="4080"
-       y="630"
-       id="text4886-5-2-6-5-86">St Lukes</text>
+       xml:space="preserve">Station Rd</text>
     <text
-       xml:space="preserve"
-       class="place_names  al_right"
-       x="4080"
-       y="840"
-       id="text4886-5-2-6-5-1">Hill Barton</text>
-    <text
-       xml:space="preserve"
-       class="place_names al_centre"
-       x="4500"
-       y="600"
-       id="text4886-7">Monkerton</text>
-    <text
-       xml:space="preserve"
+       id="text4886-5-9"
+       y="1713"
+       x="1870"
        class="place_names"
-       x="4120"
+       xml:space="preserve">Exe Bridges</text>
+    <text
+       id="text4886-5-7"
+       y="1863"
+       x="1720"
+       class="place_names"
+       xml:space="preserve">St Thomas</text>
+    <text
+       id="text4886-5-2-6-3-4"
+       y="2013"
+       x="1530"
+       class="place_names al_right"
+       xml:space="preserve">Cowick St</text>
+    <text
+       id="text4886-5-2-6-7"
+       y="1963"
+       x="2480"
+       class="place_names  al_right"
+       xml:space="preserve">Trews Weir</text>
+    <text
+       id="text4886-5-2-6-2"
+       y="1813"
+       x="2330"
+       class="place_names  al_right"
+       xml:space="preserve">Haven Banks</text>
+    <text
+       id="text4886-5-8"
+       y="1580"
+       x="2270"
+       class="place_names"
+       xml:space="preserve">Quay</text>
+    <text
+       id="text4886-1-6"
+       y="1713"
+       x="2770"
+       class="place_names"
+       xml:space="preserve">County Hall</text>
+    <text
+       id="text4886-1-6-5"
+       y="1513"
+       x="2970"
+       class="place_names"
+       xml:space="preserve">Magdalen Court</text>
+    <text
+       id="text4886-1-6-7"
        y="2113"
-       id="text4886-1-6-7-8">Countess Weir</text>
-    <text
-       xml:space="preserve"
-       class="place_names al_centre"
-       x="2650"
-       y="2200"
-       id="text4886-98">Marsh Barton West</text>
-    <text
-       xml:space="preserve"
-       class="place_names al_centre"
-       x="3550"
-       y="2320"
-       id="text4886-75">Marsh Barton East</text>
-    <text
-       xml:space="preserve"
-       class="place_names al_centre"
-       x="3300"
-       y="400"
-       id="text4886-57-2">Mincinglake</text>
-    <text
-       xml:space="preserve"
+       x="3270"
        class="place_names"
-       x="4540"
-       y="1470"
-       id="text4886-5-88-6-1-2">Digby Sowton</text>
+       xml:space="preserve">Clapperbrook Lane</text>
     <text
-       xml:space="preserve"
-       class="place_names al_centre"
-       x="3500"
-       y="1800"
-       id="text4886-7-4">Isca Academy</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
-       x="4952"
-       y="1970"
-       id="text4886-5-88-6-2">Ferry (tidal)</text>
-    <text
-       class="place_names al_left"
-       xml:space="preserve"
-       x="4414.6445"
-       y="136.36549"
-       id="text_broadclyst">Broadclyst</text>
-    <text
-       xml:space="preserve"
+       id="text4886-9-5"
+       y="1980"
+       x="3280"
        class="place_names  al_right"
-       x="280"
-       y="1230"
-       id="text4886-5-2-6-3-9">Tedburn</text>
+       xml:space="preserve">Duckes Meadow</text>
     <text
-       xml:space="preserve"
-       class="place_names al_centre"
-       x="2650"
-       y="400"
-       id="text4886-4-4">Stoke Hill</text>
+       id="text4886-5-2-6-2-5"
+       y="2313"
+       x="1830"
+       class="place_names  al_right"
+       xml:space="preserve">Cowick Barton</text>
     <text
-       xml:space="preserve"
-       class="place_names al_centre"
-       x="3300"
-       y="1120"
-       id="text4886-4-4-3"
-       style="line-height:0.9"><tspan
-         sodipodi:role="line"
-         id="tspan1032"
-         x="3300"
-         y="1150">Heavitree Pleasure</tspan><tspan
-         sodipodi:role="line"
-         id="tspan1034"
-         x="3300"
-         y="1204">Grounds</tspan></text>
-    <text
-       style="line-height:0.95"
-       xml:space="preserve"
-       class="place_names al_centre"
-       x="3703.7144"
-       y="339.42856"
-       id="text4886-4-4-3-1"><tspan
-         y="339.42856"
-         x="3703.7144"
-         id="tspan682"
-         sodipodi:role="line">Exeter Arena</tspan><tspan
-         y="405.92856"
-         x="3703.7144"
-         id="tspan684"
-         sodipodi:role="line">&amp; St James</tspan></text>
-    <text
-       xml:space="preserve"
-       class="place_names al_centre"
+       id="text4886-5-2-6-2-5-9"
+       y="2300"
        x="2250"
-       y="400"
-       id="text4886-4">Pennsylvania</text>
-    <text
-       xml:space="preserve"
        class="place_names"
-       x="5040"
-       y="1870"
-       id="text4886-4-4-3-1-0-0"><tspan
-         sodipodi:role="line"
-         id="tspan1039"
-         x="5040"
-         y="1870">Topsham &amp; Exmouth</tspan></text>
+       xml:space="preserve">West Exe</text>
     <text
-       xml:space="preserve"
+       id="text4886-6"
+       y="2400"
+       x="2650"
+       class="place_names  al_centre"
+       xml:space="preserve">Alphington</text>
+    <text
+       id="text4886-9-5-1"
+       y="2313"
+       x="3050"
        class="place_names"
-       x="5040"
-       y="2070"
-       id="text4886-4-4-3-1-0-9">Starcross &amp; Dawlish</text>
+       xml:space="preserve">Alphin Brook</text>
     <text
-       xml:space="preserve"
+       id="text4886-1-6-6"
+       y="1430"
+       x="3320"
        class="place_names"
-       x="5040"
-       y="660"
-       id="text4886-4-4-3-1-0">Science Park &amp; Cranbrook</text>
-    <g
-       style="display:inline;fill:none;stroke:#ed1c24"
-       id="nat_rail"
-       transform="matrix(0.06442102,0,0,0.06442102,1783.14,837.41557)">
-      <path
-         style="stroke-width:35"
-         inkscape:connector-curvature="0"
-         d="M 0,-100 450,100 150,250 600,500"
-         id="path7260-6-3" />
-      <path
-         style="stroke-width:45"
-         inkscape:connector-curvature="0"
-         d="m 0,100 h 600 m 0,150 H 0"
-         id="path7262-9-4" />
-    </g>
+       xml:space="preserve">RD&amp;E</text>
     <text
-       xml:space="preserve"
+       id="text4886-5-88"
+       y="1030"
+       x="3070"
+       class="place_names"
+       xml:space="preserve">Polsloe Rd</text>
+    <text
+       id="text4886-5-2-6-3-4-1"
+       y="1713"
+       x="1430"
        class="place_names  al_right"
-       x="4060"
-       y="1110"
-       id="text4886-4-4-3-1-07"
+       xml:space="preserve">Wardrew Rd</text>
+    <text
+       id="text4886-5-2-0"
+       y="1600"
+       x="1100"
+       class="place_names al_centre"
+       xml:space="preserve">Buddle Ln</text>
+    <text
+       id="text4886-5-2-9"
+       y="1600"
+       x="800"
+       class="place_names al_centre"
+       xml:space="preserve">Redhills</text>
+    <text
+       id="text4886-5-2-9-3"
+       y="850"
+       x="850"
+       class="place_names al_centre"
+       xml:space="preserve">Exwick</text>
+    <text
+       id="text4886-5-0"
+       y="1320"
+       x="390"
+       class="place_names"
+       xml:space="preserve">Nadderwater</text>
+    <text
+       id="text4886-5-0-7"
+       y="1063"
+       x="670"
+       class="place_names"
+       xml:space="preserve">Exwick Heights</text>
+    <text
+       id="text4886-6-4"
+       y="2570"
+       x="1850"
+       class="place_names al_centre"
+       xml:space="preserve">Ide</text>
+    <text
+       id="text4886-9-5-1-5"
+       y="2613"
+       x="4520"
+       class="place_names"
+       xml:space="preserve">Exminster</text>
+    <text
+       id="text4886-9-5-4"
+       y="620"
+       x="3260"
+       class="place_names  al_right"
+       xml:space="preserve">Polsloe Bridge</text>
+    <text
+       id="text4886-5-88-2"
+       y="364"
+       x="4270"
+       class="place_names"
+       xml:space="preserve">Pinhoe Stn</text>
+    <text
+       id="text4886-5-88-4"
+       y="263"
+       x="4370"
+       class="place_names"
+       xml:space="preserve">Pinhoe</text>
+    <text
+       id="text4886-5-88-46"
+       y="1120"
+       x="4540"
+       class="place_names"
+       xml:space="preserve">Sowton</text>
+    <text
+       id="text4886-5-88-6"
+       y="1620"
+       x="4690"
+       class="place_names"
+       xml:space="preserve">Newcourt</text>
+    <text
+       id="text4886-5-2-6-5"
+       y="1980"
+       x="3880"
+       class="place_names  al_right"
+       xml:space="preserve">Mill Rd</text>
+    <text
+       id="text4886-5-88-6-1"
+       y="1430"
+       x="4120"
+       class="place_names"
+       xml:space="preserve">Pynes Hill</text>
+    <text
+       id="text4886-5-88-6-6"
+       y="1430"
+       x="3720"
+       class="place_names"
+       xml:space="preserve">Ludwell Valley</text>
+    <text
+       id="text4886-5-2-6-5-6"
+       y="870"
+       x="3510"
+       class="place_names al_right"
+       xml:space="preserve">Vaughan Rd</text>
+    <text
+       id="text4886-5-2-6-5-8"
+       y="430"
+       x="4080"
+       class="place_names al_right"
+       xml:space="preserve">Pinhoe Rd</text>
+    <text
+       id="text4886-5-2-6-5-86"
+       y="630"
+       x="4080"
+       class="place_names  al_right"
+       xml:space="preserve">St Lukes</text>
+    <text
+       id="text4886-5-2-6-5-1"
+       y="840"
+       x="4080"
+       class="place_names  al_right"
+       xml:space="preserve">Hill Barton</text>
+    <text
+       id="text4886-7"
+       y="630"
+       x="4520"
+       class="place_names al_left"
+       xml:space="preserve">Monkerton</text>
+    <text
+       id="text4886-1-6-7-8"
+       y="2113"
+       x="4120"
+       class="place_names"
+       xml:space="preserve">Countess Weir</text>
+    <text
+       id="text4886-98"
+       y="2200"
+       x="2650"
+       class="place_names al_centre"
+       xml:space="preserve">Marsh Barton West</text>
+    <text
+       id="text4886-75"
+       y="2320"
+       x="3550"
+       class="place_names al_centre"
+       xml:space="preserve">Marsh Barton East</text>
+    <text
+       id="text4886-57-2"
+       y="400"
+       x="3300"
+       class="place_names al_centre"
+       xml:space="preserve">Mincinglake</text>
+    <text
+       id="text4886-5-88-6-1-2"
+       y="1470"
+       x="4540"
+       class="place_names"
+       xml:space="preserve">Digby Sowton</text>
+    <text
+       id="text4886-7-4"
+       y="1800"
+       x="3500"
+       class="place_names al_centre"
+       xml:space="preserve">Isca Academy</text>
+    <text
+       id="text4886-5-88-6-2"
+       y="1970"
+       x="4952"
+       class="place_names"
+       xml:space="preserve">Ferry (tidal)</text>
+    <text
+       id="text_broadclyst"
+       y="136.36549"
+       x="4414.6445"
+       xml:space="preserve"
+       class="place_names al_left">Broadclyst</text>
+    <text
+       id="text4886-5-2-6-3-9"
+       y="1230"
+       x="280"
+       class="place_names  al_right"
+       xml:space="preserve">Tedburn</text>
+    <text
+       id="text4886-4-4"
+       y="400"
+       x="2650"
+       class="place_names al_centre"
+       xml:space="preserve">Stoke Hill</text>
+    <text
+       style="line-height:0.9"
+       id="text4886-4-4-3"
+       y="1120"
+       x="3300"
+       class="place_names al_centre"
+       xml:space="preserve"><tspan
+         y="1150"
+         x="3300"
+         id="tspan1032"
+         sodipodi:role="line">Heavitree Pleasure</tspan><tspan
+         y="1204"
+         x="3300"
+         id="tspan1034"
+         sodipodi:role="line">Grounds</tspan></text>
+    <text
+       id="text4886-4-4-3-1"
+       y="339.42856"
+       x="3703.7144"
+       class="place_names al_centre"
+       xml:space="preserve"
        style="line-height:0.95"><tspan
          sodipodi:role="line"
-         id="tspan1043"
-         x="4050"
-         y="1100">Middlemoor</tspan><tspan
+         id="tspan682"
+         x="3703.7144"
+         y="339.42856">Exeter Arena</tspan><tspan
          sodipodi:role="line"
-         id="tspan1045"
+         id="tspan684"
+         x="3703.7144"
+         y="405.92856">&amp; St James</tspan></text>
+    <text
+       id="text4886-4"
+       y="400"
+       x="2250"
+       class="place_names al_centre"
+       xml:space="preserve">Pennsylvania</text>
+    <text
+       id="text4886-4-4-3-1-0-0"
+       y="1870"
+       x="5040"
+       class="place_names"
+       xml:space="preserve"><tspan
+         y="1870"
+         x="5040"
+         id="tspan1039"
+         sodipodi:role="line">Topsham &amp; Exmouth</tspan></text>
+    <text
+       id="text4886-4-4-3-1-0-9"
+       y="2070"
+       x="5040"
+       class="place_names"
+       xml:space="preserve">Starcross &amp; Dawlish</text>
+    <text
+       id="text4886-4-4-3-1-0"
+       y="660"
+       x="5040"
+       class="place_names"
+       xml:space="preserve">Science Park &amp; Cranbrook</text>
+    <g
+       transform="matrix(0.06442102,0,0,0.06442102,1783.14,837.41557)"
+       id="nat_rail"
+       style="display:inline;fill:none;stroke:#ed1c24">
+      <path
+         id="path7260-6-3"
+         d="M 0,-100 450,100 150,250 600,500"
+         inkscape:connector-curvature="0"
+         style="stroke-width:35" />
+      <path
+         id="path7262-9-4"
+         d="m 0,100 h 600 m 0,150 H 0"
+         inkscape:connector-curvature="0"
+         style="stroke-width:45" />
+    </g>
+    <text
+       style="line-height:0.95"
+       id="text4886-4-4-3-1-07"
+       y="1110"
+       x="4060"
+       class="place_names  al_right"
+       xml:space="preserve"><tspan
+         y="1100"
          x="4050"
-         y="1157">&amp; St Peters</tspan></text>
+         id="tspan1043"
+         sodipodi:role="line">Middlemoor</tspan><tspan
+         y="1157"
+         x="4050"
+         id="tspan1045"
+         sodipodi:role="line">&amp; St Peters</tspan></text>
     <use
-       x="0"
-       y="0"
-       xlink:href="#nat_rail"
-       id="use1068"
+       height="100%"
+       width="100%"
        transform="translate(341.80388,130.49781)"
-       width="100%"
-       height="100%" />
-    <use
-       x="1180"
+       id="use1068"
        xlink:href="#nat_rail"
+       y="0"
+       x="0" />
+    <use
+       y="-250"
        id="use1070"
-       y="-250" />
-    <use
-       x="0"
-       y="0"
        xlink:href="#nat_rail"
-       id="use1072"
+       x="1180" />
+    <use
+       height="100%"
+       width="100%"
        transform="translate(120.45952,991.78337)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
+       id="use1072"
        xlink:href="#nat_rail"
-       id="use1076"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
        transform="translate(2678.2166,-501.91466)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
+       id="use1076"
        xlink:href="#nat_rail"
-       id="use1078"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
        transform="translate(2995.4267,602.29759)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
+       id="use1078"
        xlink:href="#nat_rail"
-       id="use1080"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
        transform="translate(3621.8162,1003.8293)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
+       id="use1080"
        xlink:href="#nat_rail"
-       id="use1082"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
        transform="translate(3605.7549,1204.5952)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
+       id="use1082"
        xlink:href="#nat_rail"
-       id="use1084"
-       transform="translate(3075.7484,752.87965)"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
        width="100%"
-       height="100%" />
+       transform="translate(3075.7484,752.87965)"
+       id="use1084"
+       xlink:href="#nat_rail"
+       y="0"
+       x="0" />
   </g>
   <g
-     inkscape:label="Key"
-     id="layer1"
+     transform="translate(0,312.34373)"
      inkscape:groupmode="layer"
-     transform="translate(0,312.34373)">
+     id="layer1"
+     inkscape:label="Key">
     <path
-       style="display:inline"
-       d="m 150,1825 h150"
+       class="e1 line q3 key"
        id="e1_key"
-       class="e1 line q3 key" />
+       d="m 150,1825 h150"
+       style="display:inline" />
     <path
-       d="M 150,1875 H 300"
-       id="e2_key"
+       class="e2 line q3 key"
        inkscape:connector-curvature="0"
-       class="e2 line q3 key" />
+       id="e2_key"
+       d="M 150,1875 H 300" />
     <path
-       d="M 300,1925 H 150"
+       class="e3 line key q3"
        id="e3_key"
-       class="e3 line key q3" />
+       d="M 300,1925 H 150" />
     <path
-       style="display:inline"
-       d="M 150,1975 H 300"
+       class="e4 q3 line key"
        id="e4_key"
-       class="e4 q3 line key" />
+       d="M 150,1975 H 300"
+       style="display:inline" />
     <path
-       d="M 150,2025 H 300"
+       class="e7 line q3 key"
        id="e7_key"
-       class="e7 line q3 key" />
+       d="M 150,2025 H 300" />
     <path
-       style="display:inline"
-       class="e9 line key q3"
-       d="M 300,2075 H 150"
+       inkscape:connector-curvature="0"
        id="e9_key"
-       inkscape:connector-curvature="0" />
+       d="M 300,2075 H 150"
+       class="e9 line key q3"
+       style="display:inline" />
     <path
-       style="display:inline"
-       class="ncn279 line q3 key"
+       id="279_key"
        d="M 150,2125 H 300"
-       id="279_key" />
+       class="ncn279 line q3 key"
+       style="display:inline" />
     <path
-       style="display:inline"
-       class="central line q3 key"
+       id="path593"
        d="M 300,2175 H 150"
-       id="path593" />
+       class="central line q3 key"
+       style="display:inline" />
     <path
-       class="quayside line q3 key"
+       id="quay_key"
        d="M 300,2225 H 150"
-       id="quay_key" />
+       class="quayside line q3 key" />
     <path
-       style="display:inline"
-       class="circle line q3 key"
+       id="cl_key"
        d="M 300,2425 H 150"
-       id="cl_key" />
+       class="circle line q3 key"
+       style="display:inline" />
     <path
-       class="green line q3 key"
+       id="green_key"
        d="M 150,2275 H 300"
-       id="green_key" />
+       class="green line q3 key" />
     <path
-       class="mill line q3 key"
-       d="M 150,2325 H 300"
+       inkscape:connector-curvature="0"
        id="mill_key"
-       inkscape:connector-curvature="0" />
+       d="M 150,2325 H 300"
+       class="mill line q3 key" />
     <path
-       class="sowton line q3 key"
+       id="sowton_key"
        d="M 150,2375 H 300"
-       id="sowton_key" />
+       class="sowton line q3 key" />
     <path
-       class="marsh line q3 key"
+       id="marsh_key"
        d="M 150,2475 H 300"
-       id="marsh_key" />
+       class="marsh line q3 key" />
     <text
-       xml:space="preserve"
-       class="place_names"
-       x="350"
+       id="text4886-5-2-6-3-4-9"
        y="1850"
-       id="text4886-5-2-6-3-4-9">E1</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
        x="350"
+       class="place_names"
+       xml:space="preserve">E1</text>
+    <text
+       id="text4886-5-2-6-3-4-9-7"
        y="1900"
-       id="text4886-5-2-6-3-4-9-7">E2</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
        x="350"
+       class="place_names"
+       xml:space="preserve">E2</text>
+    <text
+       id="text4886-5-2-6-3-4-9-9"
        y="1950"
-       id="text4886-5-2-6-3-4-9-9">E3</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
        x="350"
+       class="place_names"
+       xml:space="preserve">E3</text>
+    <text
+       id="text4886-5-2-6-3-4-9-7-5"
        y="2000"
-       id="text4886-5-2-6-3-4-9-7-5">E4</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
        x="350"
+       class="place_names"
+       xml:space="preserve">E4</text>
+    <text
+       id="text4886-5-2-6-3-4-9-3"
        y="2050"
-       id="text4886-5-2-6-3-4-9-3">E7</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
        x="350"
+       class="place_names"
+       xml:space="preserve">E7</text>
+    <text
+       id="text4886-5-2-6-3-4-9-7-2"
        y="2100"
-       id="text4886-5-2-6-3-4-9-7-2">E9</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
        x="350"
+       class="place_names"
+       xml:space="preserve">E9</text>
+    <text
+       id="text4886-5-2-6-3-4-9-9-9"
        y="2150"
-       id="text4886-5-2-6-3-4-9-9-9">NCN 279</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
        x="350"
+       class="place_names"
+       xml:space="preserve">NCN 279</text>
+    <text
+       id="text4886-5-2-6-3-4-9-7-5-8"
        y="2200"
-       id="text4886-5-2-6-3-4-9-7-5-8">Central Link</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
        x="350"
+       class="place_names"
+       xml:space="preserve">Central Link</text>
+    <text
+       id="text4886-5-2-6-3-4-9-7-5-8-3"
        y="2250"
-       id="text4886-5-2-6-3-4-9-7-5-8-3">Quayside</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
        x="350"
+       class="place_names"
+       xml:space="preserve">Quayside</text>
+    <text
+       id="text4886-5-2-6-3-4-9-7-5-8-4"
        y="2300"
-       id="text4886-5-2-6-3-4-9-7-5-8-4">Green Way</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
        x="350"
+       class="place_names"
+       xml:space="preserve">Green Way</text>
+    <text
+       id="text4886-5-2-6-3-4-9-7-5-8-3-9"
        y="2350"
-       id="text4886-5-2-6-3-4-9-7-5-8-3-9">Mill Link</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
        x="350"
+       class="place_names"
+       xml:space="preserve">Mill Link</text>
+    <text
+       id="text4886-5-2-6-3-4-9-7-5-8-9"
        y="2400"
-       id="text4886-5-2-6-3-4-9-7-5-8-9">Sowton Link</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
        x="350"
+       class="place_names"
+       xml:space="preserve">Sowton Link</text>
+    <text
+       id="text4886-5-2-6-3-4-9-7-5-8-9-1"
        y="2450"
-       id="text4886-5-2-6-3-4-9-7-5-8-9-1">Circle</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
-       x="150"
-       y="1750"
-       id="text4886-5-2-6-3-4-9-96">Routes:</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
-       x="839.88983"
-       y="2205.3547"
-       id="text4886-5-2-6-3-4-9-4">Infrastructure Quality:</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
-       x="1090.8417"
-       y="2293.8271"
-       id="text4886-5-2-6-3-4-9-4-2">Good</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
-       x="1090.8416"
-       y="2487.481"
-       id="text4886-5-2-6-3-4-9-4-2-4">Poor</text>
-    <text
-       xml:space="preserve"
-       class="place_names"
        x="350"
+       class="place_names"
+       xml:space="preserve">Circle</text>
+    <text
+       id="text4886-5-2-6-3-4-9-96"
+       y="1750"
+       x="150"
+       class="place_names"
+       xml:space="preserve">Routes:</text>
+    <text
+       id="text4886-5-2-6-3-4-9-4"
+       y="2205.3547"
+       x="839.88983"
+       class="place_names"
+       xml:space="preserve">Infrastructure Quality:</text>
+    <text
+       id="text4886-5-2-6-3-4-9-4-2"
+       y="2293.8271"
+       x="1090.8417"
+       class="place_names"
+       xml:space="preserve">Good</text>
+    <text
+       id="text4886-5-2-6-3-4-9-4-2-4"
+       y="2487.481"
+       x="1090.8416"
+       class="place_names"
+       xml:space="preserve">Poor</text>
+    <text
+       id="text4886-5-2-6-3-4-9-7-5-8-9-7"
        y="2500"
-       id="text4886-5-2-6-3-4-9-7-5-8-9-7">Marsh Barton Link</text>
+       x="350"
+       class="place_names"
+       xml:space="preserve">Marsh Barton Link</text>
     <path
-       d="m 900,2475 h 100"
+       class="line key q1 e7"
        id="path6223-3"
-       class="line key q1 e7" />
+       d="m 900,2475 h 100" />
     <path
-       d="m 900,2425 h 100"
+       class="e7 line key q2"
        id="path6223-3-4"
-       class="e7 line key q2" />
+       d="m 900,2425 h 100" />
     <path
-       d="m 900,2375 h 100"
+       class="e7 key line q3"
        id="path6223-3-3"
-       class="e7 key line q3" />
+       d="m 900,2375 h 100" />
     <path
-       class="e7 key line q4"
+       d="m 900,2325 h 100"
        id="path6223-3-3-0"
-       d="m 900,2325 h 100" />
+       class="e7 key line q4" />
     <path
-       d="m 900,2275 h 100"
+       class="e7 key line q5"
        id="path6223-3-3-0-9"
-       class="e7 key line q5" />
+       d="m 900,2275 h 100" />
   </g>
 </svg>
